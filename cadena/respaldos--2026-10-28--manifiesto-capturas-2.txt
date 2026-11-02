@@ -1,0 +1,22 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-10-28 17:02:02
+Fuente: capturas de las paginas que declaran o sostienen las fechas de publicacion (Subpesca, Sernapesca)
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 37A40CD6816029CF2EADC515FB71B6B7A6639C686E4198C121B2C4D016EA787F
+Piezas capturadas: 1
+
+----------------------------------------
+Tipo             : lista-subpesca
+URL              : https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Capturado (Chile): 2026-10-28 17:02:02
+Fecha servidor   : Wed, 28 Oct 2026 20:02:01 GMT
+Last-Modified    : 
+SHA-256 contenido: 7085CDDD1A28CBE41791589721A73BC849846EBEA2DCD5919B52131E467637E1  respaldos/2026-10-28/capturas/170202/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro.html
+SHA-256 cabeceras: 56C57E10C4E872D29BDECB271E450DFAC75EB5D98D5ACDC6B0D6C558993ABBEF  respaldos/2026-10-28/capturas/170202/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro-cabeceras.txt
+SHA-256 pdf      : F5430B1BD5D0EF48D89E18BFE6B4145259CB111D058C98DF52B8B858755C2A62  respaldos/2026-10-28/capturas/170202/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro.pdf
+SHA-256 png      : 74DE6E9D64DB6B12AC4AB2716C5D09742470971742221C44B3CCB8C906A97E9E  respaldos/2026-10-28/capturas/170202/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro.png
+SHA-256 pdfTodasLasPestanas: 13F7A2A6940B776B5C19FAED1C5E0E7665B8D6AE18BA4D5A108C69CA8C832E2A  respaldos/2026-10-28/capturas/170202/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro-todas-las-pestanas-derivada.pdf
+Archivo web      : https://web.archive.org/web/20261028200240/https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 16EB973806082BA34E70FBAB8415D7470736E6CAADEA1BDE9A1E1D0AA770C919

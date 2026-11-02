@@ -1,0 +1,122 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-09-15 08:38:38
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 5ABA8010BB83D1DCC0EED1121C9F377F9E0E8EDC2A87A6D82A12A78AB82F63FE
+Actos observados por primera vez: 14
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2202-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:38:39
+Materia            : Res. Ex. N° 2202-2026 Establece Período para los Efectos Previstos en el Artículo 14 del D.S. N° 296 de 2004. (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131016_documento.pdf?ts=1789384658
+SHA-256 PDF        : A922B00B7E7BC3294F2A2185D053CF42305479DBEFBB55E479EAD11932FFC718
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2221-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:38:47
+Materia            : Res. Ex. N° 2221-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 54A, en la Región de Magallanes y de la Antártica Chilena. (Con Informe Técnico) (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131032_documento.pdf?ts=1789410461
+SHA-256 PDF        : 0BCD026B1AE738EDB4927269ACC52E4621D44C78DD470C3C86C822111DE81F8B
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2212-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:38:57
+Materia            : Res. Ex. N° 2212-2026 Modifica Res. Ex. N° 3120-2021 Establece Medidas y Protocolo para la Reducción de la Captura Incidental y la Manipulación de Lobos Marinos en la Pesquería de Arrastre. (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131024_documento.pdf?ts=1789389818
+SHA-256 PDF        : 2E913215615E07EB29DE96688F5D3EF800DB6A6BA9184243DD2732FEFB3D5C15
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2213-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:06
+Materia            : Res. Ex. N° 2213-2026 Modifica Pago de Anualidad para Titulares de LTP Clase B. (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131022_documento.pdf?ts=1789389559
+SHA-256 PDF        : 15C29736C70AF773B9555DAE0BE3E69A668CCD44F4ECACAF916DCC118FF376C1
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2209-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:14
+Materia            : Res. Ex. N° 2209-2026 se pronuncia sobre admisibilidad de recurso de reclamación. (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131019_documento.pdf?ts=1789385034
+SHA-256 PDF        : EBB3025BB545D2FE3E77F36EE0A3EB38E81E7CF0AB8D5F0A7025EE38F9560DAC
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2220-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:23
+Materia            : Res. Ex. N° 2220-2026 Modifica Pago de Anualidad para Titulares de LTP Clase B. (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131031_documento.pdf?ts=1789398810
+SHA-256 PDF        : 36EEBA984526F6E4DF9DF5D2E5A73C86E263244BC89449D991EC98C3FD5F9845
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2215-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:32
+Materia            : Res. Ex. N° 2215-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 44, en la Región de Magallanes y de la Antártica Chilena. (Con Informe Técnico) (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131026_documento.pdf?ts=1789395056
+SHA-256 PDF        : BC7E7EB82450C3A8EC1E39EE1739E112386EDB4D3D881F8BC8DFE9F369261581
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2206-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:35
+Materia            : Res. Ex. N° 2206-2026 Modifica Res. Ex. 2964-2025 Establece Distribución Cuota de los Recursos Huiro Negro, Huiro Palo y Huiro Flotador, en la Región de Atacama, para la Temporada Extractiva y de Recolección, Año 2026. (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131017_documento.pdf?ts=1789384803
+SHA-256 PDF        : 5827E450EA4A80A49462956848724CDA913E09F9A5ED76561F3DAB9ACF75B460
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2217-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:38
+Materia            : Res. Ex. N° 2217-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 47B, en la Región de Magallanes y de la Antártica Chilena. (Con Informe Técnico) (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131028_documento.pdf?ts=1789395226
+SHA-256 PDF        : E26F2704CEFD80BB299DD66ADADBCEEDECEE35B49EAF550126AA26DAE584C5CE
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2214-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:41
+Materia            : Res. Ex. N° 2214-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 43A, en la Región de Magallanes y de la Antártica Chilena. (Con Informe Técnico) (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131025_documento.pdf?ts=1789394914
+SHA-256 PDF        : D965089DF0ABB741A1A2FA5336E68BDD838AB3FC89736DAEDB5D477E17BA7792
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2222-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:45
+Materia            : Res. Ex. N° 2222-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 51B, en la Región de Magallanes y de la Antártica Chilena. (Con Informe Técnico) (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131033_documento.pdf?ts=1789410563
+SHA-256 PDF        : C52898253D9A76DAB4401A9B213527D8F253A4BA6A7E584B7FCE35F3A5819D13
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2218-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:48
+Materia            : Res. Ex. N° 2218-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 51A, en la Región de Magallanes y de la Antártica Chilena. (Con Informe Técnico) (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131029_documento.pdf?ts=1789395315
+SHA-256 PDF        : AF2302E1CFFF54372018784BACF5C6056F87590D745B08A3205C8BE7B2976EDE
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2216-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:51
+Materia            : Res. Ex. N° 2216-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 45, en la Región de Magallanes y de la Antártica Chilena. (Con Informe Técnico) (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131027_documento.pdf?ts=1789395144
+SHA-256 PDF        : 0FCDE344A326300D323B804F93736988A8EED54404F2FB3BFD2E45A6639CAB9A
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2223-2026
+Publicado en web   : 14-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-15 08:39:55
+Materia            : Res. Ex. N° 2223-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 51C, en la Región de Magallanes y de la Antártica Chilena. (Con Informe Técnico) (Publicado en Página Web 14-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131034_documento.pdf?ts=1789410653
+SHA-256 PDF        : 0691461D2583A64E84AD36B58BEF281290FE01EA70F66C760E570E67DFA4612F
+Archivo web        : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): EF2DFDBE38127DFE230C862A642E12B2586F39A2E24223A239C792166ABCCFF4

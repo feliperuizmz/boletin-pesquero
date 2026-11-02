@@ -1,0 +1,18 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-09-16 08:34:03
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: E9A5CF71D9A279950D9E2A640CF74376F2E6F0D4A0C4A6C065FCCE5FED6E33AA
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero        : Otro 
+Publicado en web   : 15-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-16 08:34:13
+Materia            : RESOLUCIÓN EXENTA Nº: DN - 02784/2026 Establece procedimiento de acreditación de origen legal del Recurso Jurel (Trachurus murphyi) en estado fresco y enfriado-refrigerado En las regiones que indica. (Publicado en Página Web 15-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131042_documento.pdf?ts=1789479623
+SHA-256 PDF        : 78494294842085D7665277EA2CCD65CFA38AA8678A5AC2DC9FFABE25B8486254
+Archivo web        : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): F8851370D157194D22E04C6BF9865094DFC5EF6E79F7DEF2AB56FC7D6FC8F8E5

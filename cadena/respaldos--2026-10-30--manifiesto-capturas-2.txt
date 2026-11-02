@@ -1,0 +1,157 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-10-30 17:05:59
+Fuente: capturas de las paginas que declaran o sostienen las fechas de publicacion (Subpesca, Sernapesca)
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 3668B64802FE0774C2BCF6E44EB9B849F10ABC159EFAB01143436CBC155C8643
+Piezas capturadas: 16
+
+----------------------------------------
+Tipo             : lista-subpesca
+URL              : https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Capturado (Chile): 2026-10-30 17:05:59
+Fecha servidor   : Fri, 30 Oct 2026 20:05:58 GMT
+Last-Modified    : 
+SHA-256 contenido: 267516E7AF5DDBE504A22101AC347D138523354C1D2BBBEFEB089F0222FFCCF2  respaldos/2026-10-30/capturas/170559/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro.html
+SHA-256 cabeceras: A39339EB2064491BD95EBFB66BCF2FA92922523044D8A4E3A34944BD9813783C  respaldos/2026-10-30/capturas/170559/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro-cabeceras.txt
+SHA-256 pdf      : 4B155CF2894FBE0CFFC06241BC87754C7047DB77F6823059FA0D27155C525B23  respaldos/2026-10-30/capturas/170559/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro.pdf
+SHA-256 png      : 0B1EAE629524856B6539106A89D965AC4154EA0C8A81CF3F0A5ECD4E6B84F252  respaldos/2026-10-30/capturas/170559/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro.png
+SHA-256 pdfTodasLasPestanas: ED3852C576841FDF74BC8E4AF9A4587007E5BC043F01F986D539EFE7E669C739  respaldos/2026-10-30/capturas/170559/subpesca.cl-portal-normativa-decretos-y-resoluciones-a-texto-integro-todas-las-pestanas-derivada.pdf
+Archivo web      : https://web.archive.org/web/20261030200611/https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/sitemap_index.xml
+Capturado (Chile): 2026-10-30 17:06:28
+Fecha servidor   : Fri, 30 Oct 2026 20:06:29 GMT
+Last-Modified    : 
+SHA-256 contenido: CD423041F141C87DF5BAC9EECD62D5E1068E1BE7A71D51EF8D55CC9E1307F774  respaldos/2026-10-30/capturas/170559/sernapesca.cl-sitemap_index.xml.xml
+SHA-256 cabeceras: 7E6DB60B640DA565B348210608429805738B95368549B95DB77F8A8617DA07DA  respaldos/2026-10-30/capturas/170559/sernapesca.cl-sitemap_index.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap.xml
+Capturado (Chile): 2026-10-30 17:06:30
+Fecha servidor   : Fri, 30 Oct 2026 20:06:30 GMT
+Last-Modified    : 
+SHA-256 contenido: 40BAA9451EBCD4CAB5CBCCC942D922FF641B9A139452F39513CD19AAA06BE47D  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap.xml.xml
+SHA-256 cabeceras: DC8960F27ECA884E582B65CC4F5C827C3C0D9060D6759187DE50D235D4BA94A7  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap2.xml
+Capturado (Chile): 2026-10-30 17:06:31
+Fecha servidor   : Fri, 30 Oct 2026 20:06:31 GMT
+Last-Modified    : 
+SHA-256 contenido: B275DA67D4FC360601A1DE5BC040C84A7BFCA9A4F92CBE2335735F9CAAFD49BC  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap2.xml.xml
+SHA-256 cabeceras: F844D8C4431D866C5F1D5A364F6807175E4BA535DCFDE22212600D6C21A9C973  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap2.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap3.xml
+Capturado (Chile): 2026-10-30 17:06:32
+Fecha servidor   : Fri, 30 Oct 2026 20:06:32 GMT
+Last-Modified    : 
+SHA-256 contenido: 6092ED4D0F8B32344B7A755036AD467A18E76BF534B811131A419F10582A7075  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap3.xml.xml
+SHA-256 cabeceras: B2702673EECD380CA09C5711DF3019D7C6D1B5216D1A3B277438DA4F37D171BC  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap3.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap4.xml
+Capturado (Chile): 2026-10-30 17:06:33
+Fecha servidor   : Fri, 30 Oct 2026 20:06:33 GMT
+Last-Modified    : 
+SHA-256 contenido: 9287AA9E88EC518348940115F3363BCD013A32CBBE487F30E7CD6F2719EBEA00  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap4.xml.xml
+SHA-256 cabeceras: 3589434838B08F313FD0EC65CB8B154BF667292E88F73CB05189F9A656FA693D  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap4.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap5.xml
+Capturado (Chile): 2026-10-30 17:06:34
+Fecha servidor   : Fri, 30 Oct 2026 20:06:35 GMT
+Last-Modified    : 
+SHA-256 contenido: DADEE8443AA276655836B64697AEFAB350A1A893C1FB8D0543919D5BD747A8DE  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap5.xml.xml
+SHA-256 cabeceras: A1B658B91F1C7F0A7DDEB0FCD0DF0B1FFAE7BD5B2D507D72C4552968706FF32C  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap5.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap6.xml
+Capturado (Chile): 2026-10-30 17:06:36
+Fecha servidor   : Fri, 30 Oct 2026 20:06:36 GMT
+Last-Modified    : 
+SHA-256 contenido: DC9F0D114558679F791062A85FFE0E0F42592CAC51A1DCFDBD9D6A54CF89F923  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap6.xml.xml
+SHA-256 cabeceras: BE70820E2269F3C390579E94921E247C2CCBCF2865B35B5D807F90733E41BEFF  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap6.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap7.xml
+Capturado (Chile): 2026-10-30 17:06:37
+Fecha servidor   : Fri, 30 Oct 2026 20:06:37 GMT
+Last-Modified    : 
+SHA-256 contenido: 6932A0AC42BE0E4B6AAFBFAE176AC7DE73E498AA713A115E10C17BC1834AFA88  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap7.xml.xml
+SHA-256 cabeceras: 21AAD4BBC07C5C30ED0084DCB0C7626B7BC3C2962841BD1B75C5CF368520DBB9  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap7.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap8.xml
+Capturado (Chile): 2026-10-30 17:06:38
+Fecha servidor   : Fri, 30 Oct 2026 20:06:38 GMT
+Last-Modified    : 
+SHA-256 contenido: 2AF2F989DC6180F9FA98BF6829AB9FE3B5B1D10E0429737F5253384F4B2689E3  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap8.xml.xml
+SHA-256 cabeceras: 85968676C5A968D27A224D0B72371A7B19A0E0A6598312FCBA9FA39D075C1F9C  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap8.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap9.xml
+Capturado (Chile): 2026-10-30 17:06:39
+Fecha servidor   : Fri, 30 Oct 2026 20:06:39 GMT
+Last-Modified    : 
+SHA-256 contenido: 5660E3947C2467377668361C28D7446BB368BBEA25F513D8338D5D609C4874B3  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap9.xml.xml
+SHA-256 cabeceras: 44C9F4DDB751C17A7823D42D598D6E72D9CEAEA4F8F5B61F9ED554FA1F6CC089  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap9.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap10.xml
+Capturado (Chile): 2026-10-30 17:06:40
+Fecha servidor   : Fri, 30 Oct 2026 20:06:40 GMT
+Last-Modified    : 
+SHA-256 contenido: 04C96BC609A83F96FB04381E139C3F4CFA6AD4DDFF1C41185CB2141ACE3BD986  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap10.xml.xml
+SHA-256 cabeceras: BAF10502A8E7F8C34529F34A0FE8B2158D55DD47BC66D7FFF737F2A1C490FDC0  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap10.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap11.xml
+Capturado (Chile): 2026-10-30 17:06:41
+Fecha servidor   : Fri, 30 Oct 2026 20:06:41 GMT
+Last-Modified    : 
+SHA-256 contenido: 20CA449579AEFB7B6DAB23B055864D1B62284BD3AA1E3773E288DE9371AC4085  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap11.xml.xml
+SHA-256 cabeceras: 006517E3CDB16070CD6E1CAE3BF77C3F4D4D260E3E8FEF226D3F49054F00B74B  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap11.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap12.xml
+Capturado (Chile): 2026-10-30 17:06:42
+Fecha servidor   : Fri, 30 Oct 2026 20:06:42 GMT
+Last-Modified    : 
+SHA-256 contenido: 853E8023B0B8B1D4070642E1068C69F42CBE2A08DBA3D922EBB3FB352A76DB56  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap12.xml.xml
+SHA-256 cabeceras: 03FEF1E4AB57E754A6277C256C3D570D2C6A0A29E5B7AA0ED075465FB436C16F  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap12.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap13.xml
+Capturado (Chile): 2026-10-30 17:06:43
+Fecha servidor   : Fri, 30 Oct 2026 20:06:43 GMT
+Last-Modified    : 
+SHA-256 contenido: B5BACBFF26B0BB638B878428127736EF4D563B83DFEC8AA47E3091D682AD32E2  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap13.xml.xml
+SHA-256 cabeceras: CD85933AB469391D8CF20B738FB4EFBDA7259931D8DC84BA0CA4EE8FA1F0747E  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap13.xml-cabeceras.txt
+Archivo web      : 
+----------------------------------------
+Tipo             : sitemap-sernapesca
+URL              : https://www.sernapesca.cl/normativa-sitemap14.xml
+Capturado (Chile): 2026-10-30 17:06:44
+Fecha servidor   : Fri, 30 Oct 2026 20:06:43 GMT
+Last-Modified    : 
+SHA-256 contenido: DDFACEC1D98F74B437DBBBA83C812CA3434BD8B1E157FD32D3D44F73613530AE  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap14.xml.xml
+SHA-256 cabeceras: 544639E3AFC01CBF757451A873F29220D94FE0D670D7A360D2F5B009790FA9F7  respaldos/2026-10-30/capturas/170559/sernapesca.cl-normativa-sitemap14.xml-cabeceras.txt
+Archivo web      : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): CF2ACDB7B02F7E12FE2E041CBC5FA094BDB8B8C5910D7A324047D8A6B3370127

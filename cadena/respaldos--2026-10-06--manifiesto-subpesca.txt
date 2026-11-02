@@ -1,0 +1,18 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-10-06 16:20:15
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 2EC1E2638ABF79912B4FCE109AC8544F942ECA5328E1E35667BA6C686F11EE0D
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2392-2026
+Publicado en web   : 06-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-06 16:20:17
+Materia            : Res. Ex. N° 2392-2026 Modifica y Deja sin efecto Resoluciones Exentas que Indica. (Publicado en Página Web 06-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131195_documento.pdf?ts=1791310001
+SHA-256 PDF        : C2494E023FBAB871BAD933F2EA2069C821856007EC4845D77EF7AB9235FE100A
+Archivo web        : https://web.archive.org/web/20261006192028/https://www.subpesca.cl/portal/615/articles-131195_documento.pdf?ts=1791310001
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 128724597A4B30008A72CBE822C9D2D72CE4B80038C89322F9ED34D8CBBC7F52

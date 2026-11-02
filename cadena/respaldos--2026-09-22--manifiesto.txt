@@ -1,0 +1,20 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-09-22 08:30:02
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: A031FCE7DD156950DDD2BD616DA25F5603E26E1474390F0B3FCD4FC536990B81
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2251
+Fecha del acto   : 16-09-2026
+Materia          : inicia proceso de renovacion de integrantes titulares y suplentes del comite de manejo de bacalao de profundidad upl
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2251-16-09-2026-inicia-proceso-de-renovacion-de-integrantes-titulares-y-suplentes-del-comite-de-manejo-de-bacalao-de-profundidad-upl/
+lastmod del sitio: 2026-09-21T18:23:09+00:00
+Observado (Chile): 2026-09-22 08:30:31
+SHA-256 HTML     : 77B003363F1663BC40B948B11F8D6DB11659AB0D784378BB39A5540E62D97118
+SHA-256 PDF      : 67760BDE95ADCF81E2B9E655D753C2D4D44885EAB18CA3B7D2C34CA2803240A7
+Archivo web      : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): C2B319F0D20C83DA8B9F86CE3E13DAB551B4E6152060FF8CC09DEDC2A68C96D4

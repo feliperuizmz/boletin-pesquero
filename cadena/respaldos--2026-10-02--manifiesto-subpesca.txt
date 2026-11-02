@@ -1,0 +1,18 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-10-02 08:30:34
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 87FB1F922E881CDE6856532E13BA99C7751E32F0E16F9BE098B34C8DB2018238
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero        : Dec. Ex. Folio 202600173
+Publicado en web   : 01-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-02 08:30:34
+Materia            : Dec. Ex. Folio 202600173 Modifica Dec. Ex. Folio 202500254 Establece Cuota Anual de Captura para los Recursos Huiro negro, Huiro palo y Huiro Flotador en la Región de Atacama y Huiro Flotador en el Sector Bahía Chasco, año 2026. (Publicado en Página Web 01-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131153_documento.pdf?ts=1790885054
+SHA-256 PDF        : 70ECD84DE3B3F006904E722EFD8D713D1678492E374C10F1EDB77D65EF91F6C4
+Archivo web        : https://web.archive.org/web/20261002113035/https://www.subpesca.cl/portal/615/articles-131153_documento.pdf?ts=1790885054
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 2A0197196944A739624C20CAA652F837A4E5D16D4481258408757697D5C159BE

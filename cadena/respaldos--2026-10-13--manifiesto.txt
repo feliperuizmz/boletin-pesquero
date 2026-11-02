@@ -1,0 +1,80 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-10-13 17:00:03
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 814C063ECE2D4D5EF93E6E88140643A74E3227276446D102B596C21EEAF2BAE0
+Actos observados por primera vez: 7
+
+----------------------------------------
+Tipo/Numero      : Decreto 202600181
+Fecha del acto   : 06-10-2026
+Materia          : renueva veda extractiva de especies icticas nativas en aguas terrestres por periodo que indica
+URL              : https://www.sernapesca.cl/normativas/d-ex-n-202600181-06-10-2026-renueva-veda-extractiva-de-especies-icticas-nativas-en-aguas-terrestres-por-periodo-que-indica/
+lastmod del sitio: 2026-10-13T12:16:10+00:00
+Observado (Chile): 2026-10-13 17:00:32
+SHA-256 HTML     : 7F663D3AC4953A7FF9C6A5FAFE02CCD8D3B05A89FD6898CDF4B0D6B417BCA73D
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261013200143/https://www.sernapesca.cl/normativas/d-ex-n-202600181-06-10-2026-renueva-veda-extractiva-de-especies-icticas-nativas-en-aguas-terrestres-por-periodo-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2384
+Fecha del acto   : 05-10-2026
+Materia          : inicia proceso de designacion de miembros titulares y suplentes del al mesa de salmon chinook de la cuenta del rio tolten
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2384-05-10-2026-inicia-proceso-de-designacion-de-miembros-titulares-y-suplentes-del-al-mesa-de-salmon-chinook-de-la-cuenta-del-rio-tolten/
+lastmod del sitio: 2026-10-13T12:17:38+00:00
+Observado (Chile): 2026-10-13 17:02:03
+SHA-256 HTML     : B1251EA7CC02425C2E3C5ED4ADA5435540BA459E97A8F2D5C17F99F9D8C22F7F
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261013200301/https://www.sernapesca.cl/normativas/res-ex-n-2384-05-10-2026-inicia-proceso-de-designacion-de-miembros-titulares-y-suplentes-del-al-mesa-de-salmon-chinook-de-la-cuenta-del-rio-tolten/
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2412
+Fecha del acto   : 08-10-2026
+Materia          : aclara resolucion exenta no2269 de 2026 de esta subsecretaria
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2412-08-10-2026-aclara-resolucion-exenta-no2269-de-2026-de-esta-subsecretaria/
+lastmod del sitio: 2026-10-13T12:17:08+00:00
+Observado (Chile): 2026-10-13 17:03:21
+SHA-256 HTML     : 14872D42C302CEEAF5936D28BD7F8527CD68285B3EE94F4CA652F9CDBD05C4EC
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261013200433/https://www.sernapesca.cl/normativas/res-ex-n-2412-08-10-2026-aclara-resolucion-exenta-no2269-de-2026-de-esta-subsecretaria/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-555
+Fecha del acto   : 13-10-2026
+Materia          : autoriza a empresa de estudios monitoreos y mediciones ambientales geaambiental spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-555-13-10-2026-autoriza-a-empresa-de-estudios-monitoreos-y-mediciones-ambientales-geaambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-13T19:22:25+00:00
+Observado (Chile): 2026-10-13 17:05:14
+SHA-256 HTML     : E12BC9E2CC48E82E9EFE49EB34A8EFD56986C076EA6CC307EE9605747FAB1BEC
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261013200621/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-555-13-10-2026-autoriza-a-empresa-de-estudios-monitoreos-y-mediciones-ambientales-geaambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-559
+Fecha del acto   : 13-10-2026
+Materia          : autoriza a enviroambiental spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-559-13-10-2026-autoriza-a-enviroambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-13T19:23:04+00:00
+Observado (Chile): 2026-10-13 17:06:46
+SHA-256 HTML     : F74618DDB5073052516EC85271E5D8085224E64C0B74FCDC4CEE0C3916739EAA
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261013200717/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-559-13-10-2026-autoriza-a-enviroambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-562
+Fecha del acto   : 13-10-2026
+Materia          : autoriza a alfa sea spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-562-13-10-2026-autoriza-a-alfa-sea-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-13T19:23:34+00:00
+Observado (Chile): 2026-10-13 17:07:40
+SHA-256 HTML     : 8E26B06F8B2F771893B96A612D0C62382F80C8A279D0FC5F3C3047467AED53FF
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261013200842/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-562-13-10-2026-autoriza-a-alfa-sea-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-563
+Fecha del acto   : 13-10-2026
+Materia          : autoriza a instituto de fomento pesquero para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-563-13-10-2026-autoriza-a-instituto-de-fomento-pesquero-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-13T19:24:06+00:00
+Observado (Chile): 2026-10-13 17:09:05
+SHA-256 HTML     : EC52320FA9345C9E5A8F6BA40C7CA863E945B5164B9DB115D7196E4FD1D7349B
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261013201015/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-563-13-10-2026-autoriza-a-instituto-de-fomento-pesquero-para-realizar-pesca-de-investigacion-que-indica/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 56D1145CD590084B16684DC495244EAC85D2DEE36F586802B3E477655650ECDB

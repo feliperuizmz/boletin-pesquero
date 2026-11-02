@@ -1,0 +1,26 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-09-24 08:30:34
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 69F07FD7DAC541BE96C289BB0490657D336CCB673C524BD0073BFDD5673731FE
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2284-2026
+Publicado en web   : 23-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-24 08:30:35
+Materia            : Res. Ex. N° 2284-2026 Modifica Res. Ex. N° 1301-2026 Designa funcionarios de la Subsecretaría de Pesca y Acuicultura en Comités de Manejo que Indica. (Publicado en Página Web 23-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131076_documento.pdf?ts=1790169502
+SHA-256 PDF        : B239B524ED0DAB8E675DCE00AA7BD75C1A1FEEC2F615697FF526651A283BB2CF
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Otro 
+Publicado en web   : 23-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-24 08:30:44
+Materia            : RESOLUCIÓN EXENTA Nº: DN - 02890/2026 Informa Deudas por no Pago de Certificación de Desembarque, Acorde con lo Dispuesto en el Artículo 64 E de la Ley General de Pesca y Acuicultura y Dispone las Suspensiones que Indica. (Publicado en Página Web 23-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131077_documento.pdf?ts=1790187757
+SHA-256 PDF        : B9D4FE32B3F8E096D9B9BEEB6D9BC6A5551B5B7B85DCCFE8C9D16941A0B0318B
+Archivo web        : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): AED26DF1A79CEFD246A7EEBE139C99D01558880A6474669CD6FD55EB48D08F15

@@ -1,0 +1,26 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-09-17 19:02:13
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: B1D5FC7FDDF0662DE9B1D22686E90556A5D05304200BABF6DD6B9FAD8C1E354A
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2251-2026
+Publicado en web   : 16-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-17 19:02:14
+Materia            : Res. Ex. N° 2251-2026 Inicia proceso de renovación de integrantes titulares y suplentes del Comité de Manejo de Bacalao de Profundidad de la Unidad de Pesquería Licitada. (Publicado en Página Web 16-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131053_documento.pdf?ts=1789589092
+SHA-256 PDF        : F6703F71FD762F7E57AC8A8000ACDB03D8B95DD836AFEB5CED364BC5937687EB
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Otro 2249-2026
+Publicado en web   :    (declarado por Subpesca)
+Observado (Chile)  : 2026-09-17 19:02:23
+Materia            : Res. Ex N° 2249-2026 Declara caducidad de Resolución Exenta que Indica. (Publicado Página Web 16-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131050_documento.pdf?ts=1789586080
+SHA-256 PDF        : 080EC220702F9526290446BBBC2ED7EC093B3BFED663165083D8FEC9E3AAE7BA
+Archivo web        : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): A031FCE7DD156950DDD2BD616DA25F5603E26E1474390F0B3FCD4FC536990B81

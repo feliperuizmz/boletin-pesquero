@@ -1,0 +1,160 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-09-16 08:30:01
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: EF2DFDBE38127DFE230C862A642E12B2586F39A2E24223A239C792166ABCCFF4
+Actos observados por primera vez: 15
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2784
+Fecha del acto   : 11-09-2026
+Materia          : establece procedimiento de acreditacion de origen legal del recurso jurel trachurus murphyi en estado fresco y enfriado refrigerado en las regiones que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2784-11-09-2026-establece-procedimiento-de-acreditacion-de-origen-legal-del-recurso-jurel-trachurus-murphyi-en-estado-fresco-y-enfriado-refrigerado-en-las-regiones-que-indica/
+lastmod del sitio: 2026-09-15T13:49:43+00:00
+Observado (Chile): 2026-09-16 08:30:28
+SHA-256 HTML     : 7037A6DABB3B0BC6F1D2107205100F050E2889E9B554D1DF7B94E329EC24E14F
+SHA-256 PDF      : 4EAA4C0B5D7ADF584CD669A1D43C889C7206B8C7D0AB682B37DCC4D268F6D646
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-531
+Fecha del acto   : 11-09-2026
+Materia          : autoriza a centro de estudios avanzados en zonas aridas o ceaza para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-531-11-09-2026-autoriza-a-centro-de-estudios-avanzados-en-zonas-aridas-o-ceaza-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-15T11:56:37+00:00
+Observado (Chile): 2026-09-16 08:30:53
+SHA-256 HTML     : 71FF9329C0BD2F08BD9CFC2A815505AB936B70E6E06E1702BB7584C9E228BACF
+SHA-256 PDF      : 91CD3DB0655117C35C18F74BC6B57AED4AE020E6E120A521FCF490BA3340BE18
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-532
+Fecha del acto   : 11-09-2026
+Materia          : autoriza a costasur limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-532-11-09-2026-autoriza-a-costasur-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-15T11:57:03+00:00
+Observado (Chile): 2026-09-16 08:31:09
+SHA-256 HTML     : 08C143553D35DE95BE2B954804AB9117CCDDB41E3AB2DB9AB3D5760FB7FD059B
+SHA-256 PDF      : A203AF897BF6A47F98E03D27532E9D1C037C0587906864778D6ED14F367FF117
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2201
+Fecha del acto   : 11-09-2026
+Materia          : autorizo cesion por parte del armador industrial corpesca s a
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2201-11-09-2026-autorizo-cesion-por-parte-del-armador-industrial-corpesca-s-a/
+lastmod del sitio: 2026-09-15T11:56:02+00:00
+Observado (Chile): 2026-09-16 08:31:25
+SHA-256 HTML     : 623D4364E474F9ED2866ECD5468D38A3125CEF28FE39364502B08C3D0231AA74
+SHA-256 PDF      : 728C0088E87A1D4D6CCB8B39C72023E6AF87CA7A1E4A146A99C02914AF9EBC78
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-528
+Fecha del acto   : 10-09-2026
+Materia          : autoriza a universidad de concepcion para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-528-10-09-2026-autoriza-a-universidad-de-concepcion-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-15T11:51:53+00:00
+Observado (Chile): 2026-09-16 08:31:40
+SHA-256 HTML     : 489676372734B208D7F295F69910F97DC9EAC4E3EE2763CAF205159E5A9FBF3C
+SHA-256 PDF      : 326F2902A4FF8206638421FA70B512A0061BEC098D173C6DE333801BE5C3CA43
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2176
+Fecha del acto   : 09-09-2026
+Materia          : modifica la region que fijo densidad de cultivo para las concesiones de acuicultura de titularidad de southern cross seafoods s a salmones humboldt spa cermaq ch
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2176-09-09-2026-modifica-la-region-que-fijo-densidad-de-cultivo-para-las-concesiones-de-acuicultura-de-titularidad-de-southern-cross-seafoods-s-a-salmones-humboldt-spa-cermaq-ch/
+lastmod del sitio: 2026-09-15T11:47:08+00:00
+Observado (Chile): 2026-09-16 08:31:48
+SHA-256 HTML     : 48534349718F02DCB46AD7938D52B95C30DC9BA114E9F042CE40478AC2A50DFA
+SHA-256 PDF      : 8F1DDF4990DE446165220AA88FE7CD2609AB0413546366B4CC6E7E145430EB74
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-525
+Fecha del acto   : 10-09-2026
+Materia          : autoriza a kaitek consultores en ciencias ambientales limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-525-10-09-2026-autoriza-a-kaitek-consultores-en-ciencias-ambientales-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-15T11:47:47+00:00
+Observado (Chile): 2026-09-16 08:31:57
+SHA-256 HTML     : C2CD2B47994F4F845D81A814D79213D7721E0925ED5D7BA43660890BDE02940E
+SHA-256 PDF      : 29618709B3601A63BFF8CBE3D8FC7336C92B669C05A54781FB52962A042293ED
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2202
+Fecha del acto   : 11-09-2026
+Materia          : establece periodo para los efectos previstos en el articulo 14 del d s no296 de 2004 del actual ministerio de economia fomento y turismo
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2202-11-09-2026-establece-periodo-para-los-efectos-previstos-en-el-articulo-14-del-d-s-no296-de-2004-del-actual-ministerio-de-economia-fomento-y-turismo/
+lastmod del sitio: 2026-09-15T11:54:03+00:00
+Observado (Chile): 2026-09-16 08:32:14
+SHA-256 HTML     : 19697D349F4DB5B100C3856B76B7DB5F8EAC799B70FC1303ED492E18BED88190
+SHA-256 PDF      : 33191E32EABB2A8CDEA0D6689FB4BC9989596C31023F7C959364ADD488979051
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-527
+Fecha del acto   : 10-09-2026
+Materia          : autoriza a ingenat consultores ltda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-527-10-09-2026-autoriza-a-ingenat-consultores-ltda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-15T11:51:18+00:00
+Observado (Chile): 2026-09-16 08:32:32
+SHA-256 HTML     : 645D95DE05E908997713BB9A4C8DA7698D4B6117686FD8B3AFA767661DABDDAF
+SHA-256 PDF      : 0B964A8B586AA80CDE4CE097DE06659D1F75F1D0BD487F405B155CEBBA97C362
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-529
+Fecha del acto   : 10-09-2026
+Materia          : autoriza a catalina gomez macaya para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-529-10-09-2026-autoriza-a-catalina-gomez-macaya-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-15T11:52:22+00:00
+Observado (Chile): 2026-09-16 08:32:49
+SHA-256 HTML     : D39775259029CB2960499042BA6CC89440890057B64B9742236EA24D763C27DD
+SHA-256 PDF      : 41A381442CFCED65E91590FBFD25373986FFC1712456F1E54FD90410772220D6
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-530
+Fecha del acto   : 10-09-2026
+Materia          : autoriza a instituto de fomento pesquero para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-530-10-09-2026-autoriza-a-instituto-de-fomento-pesquero-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-15T11:53:03+00:00
+Observado (Chile): 2026-09-16 08:32:58
+SHA-256 HTML     : E885670DBA501C2956362EF261BA442CA6D53F87AFF241C80A81FCD9F98EE1D5
+SHA-256 PDF      : 53403EC5FB61C25C9EF5667B8759E012121C82D6B8D40EA896A554B203ADA5CB
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-526
+Fecha del acto   : 10-09-2026
+Materia          : autoriza a gesam consultores limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-526-10-09-2026-autoriza-a-gesam-consultores-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-15T11:49:19+00:00
+Observado (Chile): 2026-09-16 08:33:13
+SHA-256 HTML     : 8B6318934EF17C98636CE873A23D783C25EF66851E7793297C6ADC010A87D910
+SHA-256 PDF      : 70F2EBE457E095DF50BC167586098518EE37F32A7EFAA40742FED913B7FF2D73
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2204
+Fecha del acto   : 11-09-2026
+Materia          : autorizo a ingenieria y gestion ambiental faroverde limitada para efectuar pesca de investigacion
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2204-11-09-2026-autorizo-a-ingenieria-y-gestion-ambiental-faroverde-limitada-para-efectuar-pesca-de-investigacion/
+lastmod del sitio: 2026-09-15T11:55:25+00:00
+Observado (Chile): 2026-09-16 08:33:29
+SHA-256 HTML     : D5227061BE0D3D4084D3F8238F743496B61D9502891F4BC1CB09F3739E9EC0E5
+SHA-256 PDF      : A1D9FC7102993A328E8683940D971AD32524588BD48F5CDA1EB02C42242FB615
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2205
+Fecha del acto   : 11-09-2026
+Materia          : autorizo a universidad de concepcion para efectuar pesca de investigacion
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2205-11-09-2026-autorizo-a-universidad-de-concepcion-para-efectuar-pesca-de-investigacion/
+lastmod del sitio: 2026-09-15T11:54:49+00:00
+Observado (Chile): 2026-09-16 08:33:43
+SHA-256 HTML     : BF0D8D5DC512DFC63B3219706C8E1509410FA73176C0A3296A6F51DE55C67422
+SHA-256 PDF      : 7D4F0B2D8ED7C047472E8D61D440EF6325EDF6DBB3DF849648394936A3932869
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2177
+Fecha del acto   : 09-09-2026
+Materia          : modifica la region que fijo densidad de cultivo para las concesiones de acuicultura de titularidad de atlantis chile limitada cooke aquaculture chile s a y agro a
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2177-09-09-2026-modifica-la-region-que-fijo-densidad-de-cultivo-para-las-concesiones-de-acuicultura-de-titularidad-de-atlantis-chile-limitada-cooke-aquaculture-chile-s-a-y-agro-a/
+lastmod del sitio: 2026-09-15T11:46:26+00:00
+Observado (Chile): 2026-09-16 08:33:53
+SHA-256 HTML     : 07F7A07AAFF82A8403B4622C3F795AA98E4829DE0FD79F67942C2ABCD3B5EFB7
+SHA-256 PDF      : 4A008C3DD4FCF8366B73709EDD51CE164976291A8C56A8B008985FC8CA7C8355
+Archivo web      : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): E9A5CF71D9A279950D9E2A640CF74376F2E6F0D4A0C4A6C065FCCE5FED6E33AA

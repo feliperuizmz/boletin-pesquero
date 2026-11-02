@@ -1,0 +1,40 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-09-29 16:11:40
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 4BC044FB313F7CBC38C954381C8262EE09141EEE96C383AA3E0D738C31FFD74C
+Actos observados por primera vez: 3
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2284
+Fecha del acto   : 23-09-2026
+Materia          : modifica las representaciones en los comites de manejo que indicanmodifica resolucion exenta no1301 de 2026 de esta subsecretaria
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2284-23-09-2026-modifica-las-representaciones-en-los-comites-de-manejo-que-indicanmodifica-resolucion-exenta-no1301-de-2026-de-esta-subsecretaria/
+lastmod del sitio: 2026-09-28T15:17:06+00:00
+Observado (Chile): 2026-09-29 16:12:10
+SHA-256 HTML     : 5DD9BB6FB16CBFDDE7FF80FD2A06BDF5B2DC2B8405DEB8F24562FB5A4109BBCE
+SHA-256 PDF      : 45307EA8BD23E81AB3CC0406025B03DB30B303F48B73E10192F1401BF4EB89B9
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2424
+Fecha del acto   : 06-08-2026
+Materia          : aprueba procedimiento de asignacion de casas fiscales para funcionarios del servicio nacional de pesca y acuicultura
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2424-06-08-2026-aprueba-procedimiento-de-asignacion-de-casas-fiscales-para-funcionarios-del-servicio-nacional-de-pesca-y-acuicultura/
+lastmod del sitio: 2026-09-28T15:16:17+00:00
+Observado (Chile): 2026-09-29 16:12:44
+SHA-256 HTML     : 0777003264F84037326CE9F6C18BE7FE7170C01A1800481AACC988B811C20ED2
+SHA-256 PDF      : 4A27750EA0922E51B8808E39F2610EFE202261F8472F07B353FF235386CBCA90
+Archivo web      : https://web.archive.org/web/20260929191303/https://www.sernapesca.cl/normativas/res-ex-n-2424-06-08-2026-aprueba-procedimiento-de-asignacion-de-casas-fiscales-para-funcionarios-del-servicio-nacional-de-pesca-y-acuicultura/
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2269
+Fecha del acto   : 22-09-2026
+Materia          : modifica resolucion exenta no687 2022 que establecio la nomina de funcionarios designados por la subsecretaria de pesca
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2269-22-09-2026-modifica-resolucion-exenta-no687-2022-que-establecio-la-nomina-de-funcionarios-designados-por-la-subsecretaria-de-pesca/
+lastmod del sitio: 2026-09-28T15:18:03+00:00
+Observado (Chile): 2026-09-29 16:13:26
+SHA-256 HTML     : 9E6262C626A002B46606C1269E1E2093C2F95188907A99084FD62FC799208A68
+SHA-256 PDF      : A498F48254F52A7FDFFA3E09E98EB63F98F0485CFB70BA8F530843D5D2B30318
+Archivo web      : https://web.archive.org/web/20260929191349/https://www.sernapesca.cl/normativas/res-ex-n-2269-22-09-2026-modifica-resolucion-exenta-no687-2022-que-establecio-la-nomina-de-funcionarios-designados-por-la-subsecretaria-de-pesca/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): D8F349E4A3768E97C1E46179A859E29510D1A37EA22E3FE18C44087DFB2354B3

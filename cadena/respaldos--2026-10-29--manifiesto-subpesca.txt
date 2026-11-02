@@ -1,0 +1,34 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-10-29 08:30:34
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 16EB973806082BA34E70FBAB8415D7470736E6CAADEA1BDE9A1E1D0AA770C919
+Actos observados por primera vez: 3
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2541-2026
+Publicado en web   : 28-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-29 08:30:36
+Materia            : Res. Ex. N° 2541-2026 Modifica Res. Ex. N° 1301-2026 Designa funcionarios de la Subsecretaría de Pesca y Acuicultura en Comités de Manejo que Indica. (Publicado en Página Web 28-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131368_documento.pdf?ts=1793213944
+SHA-256 PDF        : 8698FB0A913FAB4E3160BABE9989CD3173D41BC1B122DB3360DB643116DF61BC
+Archivo web        : https://web.archive.org/web/20261029113132/https://www.subpesca.cl/portal/615/articles-131368_documento.pdf?ts=1793213944
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2542-2026
+Publicado en web   : 28-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-29 08:31:41
+Materia            : Res. Ex. Nº 2542-2026 Modifica Res. Ex. N° 2019-2025 de esta Subsecretaría. (Publicado en Página Web 28-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131369_documento.pdf?ts=1793214072
+SHA-256 PDF        : 9F6D50E92B2351D427E13F7E7F45C7DC401F860FF7C2F72F18665072FA9D19A5
+Archivo web        : https://web.archive.org/web/20261029113142/https://www.subpesca.cl/portal/615/articles-131369_documento.pdf?ts=1793214072
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2555-2026
+Publicado en web   : 28-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-29 08:31:51
+Materia            : Res. Ex. N° 2555-2026 Modifica Res. Ex. N° 2424-2024 Renueva Declaración de Área de Plaga de Algas Epifitas Filamentosas Tipo Rhizoclonium spp., en Cuerpos de Agua que Señala. (Publicado en Página Web 28-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131370_documento.pdf?ts=1793214230
+SHA-256 PDF        : A1886E4F6D4D3BFC6ABC947431B393C7E0D7E00F2D0A5BD0B74A184140673A5D
+Archivo web        : https://web.archive.org/web/20261029113152/https://www.subpesca.cl/portal/615/articles-131370_documento.pdf?ts=1793214230
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): A5E6AAD85708C642E806E907EA1E897663F8EA65F7863FA96571A94D72A7BDFD

@@ -1,0 +1,20 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-09-11 14:25:41
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: B5666D7B3AE3394883522DB2F81EA81A3D0D997FDA0B3FDCBFBC1507D629D695
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2772
+Fecha del acto   : 10-09-2026
+Materia          : informa deudas por no pago de certificacion de desembarque acorde con lo dispuesto en el articulo 64 e de la ley general de pesca y acuicultura mes de abril
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2772-10-09-2026-informa-deudas-por-no-pago-de-certificacion-de-desembarque-acorde-con-lo-dispuesto-en-el-articulo-64-e-de-la-ley-general-de-pesca-y-acuicultura-mes-de-abril/
+lastmod del sitio: 2026-09-11T11:51:21+00:00
+Observado (Chile): 2026-09-11 14:26:09
+SHA-256 HTML     : F4B90DC49BE709E0424B75F83A14A492706877E61BDD868ECCD79EA0F8F7E448
+SHA-256 PDF      : 5DFF5F85FE3954589C70114ED907F9237D797E314EC184211DCB189EC1F82361
+Archivo web      : https://web.archive.org/web/20260911172626/https://www.sernapesca.cl/normativas/res-ex-n-2772-10-09-2026-informa-deudas-por-no-pago-de-certificacion-de-desembarque-acorde-con-lo-dispuesto-en-el-articulo-64-e-de-la-ley-general-de-pesca-y-acuicultura-mes-de-abril/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): F7BC7130C8CB662F0247FE874F40EB50E27F8AAD51CBFF71BD97D719D3A136CD

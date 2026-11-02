@@ -1,0 +1,130 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-09-11 14:26:55
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: F7BC7130C8CB662F0247FE874F40EB50E27F8AAD51CBFF71BD97D719D3A136CD
+Actos observados por primera vez: 15
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2183-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:26:56
+Materia            : Res. Ex. N° 2183-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 9B, en la Región de Los Lagos. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130990_documento.pdf?ts=1789050952
+SHA-256 PDF        : B313E56E981B63B3B3877674CC7A4685E0FD5F3E9409CE9704E776EAEBD5D1F3
+Archivo web        : https://web.archive.org/web/20260911172658/https://www.subpesca.cl/portal/615/articles-130990_documento.pdf?ts=1789050952
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2188-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:07
+Materia            : Res. Ex. N° 2188-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 22B, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130994_documento.pdf?ts=1789051347
+SHA-256 PDF        : FE7CC6ADB01C162093CD1D12309A7AFFF4B07DE8D0FBD49854545B3DDCDAA26E
+Archivo web        : https://web.archive.org/web/20260911172708/https://www.subpesca.cl/portal/615/articles-130994_documento.pdf?ts=1789051347
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2193-2026
+Publicado en web   : 11-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:15
+Materia            : Res. Ex. N° 2193-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 28C, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 11-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131006_documento.pdf?ts=1789125637
+SHA-256 PDF        : BE15AE5706E2FA6DF628915F5EA619D48A3C3BE3B251B02BFC43E41D51227A8E
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2180-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:24
+Materia            : Res. Ex. N° 2180-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 18B, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130987_documento.pdf?ts=1789050501
+SHA-256 PDF        : 379A65AF03B73D177B5387F30B95049866B9435FD5EA823EB0428F62CA24B6F9
+Archivo web        : https://web.archive.org/web/20260911172726/https://www.subpesca.cl/portal/615/articles-130987_documento.pdf?ts=1789050501
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2192-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:34
+Materia            : Res. Ex. N° 2192-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 28B-1, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130998_documento.pdf?ts=1789065265
+SHA-256 PDF        : 9EC5D42F28CE3E63ABE24FF03EB2771793782E1ED4274DDBB7DDD61505EE3B3F
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Otro 
+Publicado en web   : 11-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:37
+Materia            : RESOLUCIÓN EXENTA Nº: DN - 02772/2026 Informa Deudas por no Pago de Certificación de Desembarque, Acorde con lo Dispuesto en el Artículo 64 E de la Ley General de Pesca y Acuicultura y Dispone las Suspensiones que Indica. (Publicado en Página Web 11-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131005_documento.pdf?ts=1789123491
+SHA-256 PDF        : 3D5D38CA404D75972FE375582FE82C1C458DE51FAC02B55D1267ADAABB6593FF
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2191-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:39
+Materia            : Res. Ex. N° 2191-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 31B, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130997_documento.pdf?ts=1789065143
+SHA-256 PDF        : 5AE69BCBD236D427BE0A49ED7C7E84085B2385DFCCA29E374113C740C4ACF43F
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2187-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:43
+Materia            : Res. Ex. N° 2187-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 21B, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130993_documento.pdf?ts=1789051262
+SHA-256 PDF        : 1950E918D5341341EAE4DC72F7EBB177B63B6C5F2F7DCFC0EE929E62B807F69F
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2194-2026
+Publicado en web   : 11-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:47
+Materia            : Res. Ex. N° 2194-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 29, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 11-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131007_documento.pdf?ts=1789125765
+SHA-256 PDF        : 3564BD97CAB66328212965A2472D1C4FED612713D9AD66DAB47EB90C194B2A87
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2199-2026
+Publicado en web   : 11-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:50
+Materia            : Res. Ex. N° 2199-2026 Modifica Res. Ex. N° 3000-2025 Distribución Histórica de la Fracción Artesanal de Pesquería de Anchoveta, Sardina común y Jurel, Región de Los Lagos, año 2026. (Publicado en Página Web 11-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131009_documento.pdf?ts=1789138679
+SHA-256 PDF        : 7D3E94A75850401B2AB6D25B41E382583BAA129C86CF5E9CC6E6A268954C9A77
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2190-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:53
+Materia            : Res. Ex. N° 2190-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 23C, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130996_documento.pdf?ts=1789064876
+SHA-256 PDF        : DB41BDDABAFC90175B9DD39DBCBD674DFD0AE1B97A4566A13E25640A4447CBDE
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2189-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:56
+Materia            : Res. Ex. N° 2189-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 22C, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130995_documento.pdf?ts=1789064789
+SHA-256 PDF        : 3B08DFA9A2563D9715BDACE1605B40F123C4039057934B7733A76CA94EA8A875
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2186-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:27:59
+Materia            : Res. Ex. N° 2186-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 19A, en la Región de Aysén del General Carlos Ibañez del Campo. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130992_documento.pdf?ts=1789051159
+SHA-256 PDF        : DAE7D4261FC62BD7490F19A8CC9CA85CDB40A204B63452A1C6C61F0174D9EC5C
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2185-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:28:09
+Materia            : Res. Ex. N° 2185-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 10B, en la Región de Los Lagos. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130991_documento.pdf?ts=1789051041
+SHA-256 PDF        : 7DADE43D75E882FAC0D4E33FA51284348A6DC37141E66CF852385853F75E95F9
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2179-2026
+Publicado en web   : 10-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-11 14:28:19
+Materia            : Res. Ex. N° 2179-2026, Fija densidad de Cultivo para la Agrupación de concesiones de Salmónidos 12B, en la Región de Los Lagos. (Con Informe Técnico) (Publicado en Página Web 10-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-130986_documento.pdf?ts=1789050384
+SHA-256 PDF        : BBA713C43F50CB4C03C6C4D5B442750175DAB3B55E7BDFD2E08ACB40E53CC440
+Archivo web        : https://web.archive.org/web/20260911172821/https://www.subpesca.cl/portal/615/articles-130986_documento.pdf?ts=1789050384
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 5ABA8010BB83D1DCC0EED1121C9F377F9E0E8EDC2A87A6D82A12A78AB82F63FE

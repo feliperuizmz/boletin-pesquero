@@ -1,0 +1,26 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-10-08 17:02:23
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 747302DA81FF2CE19E6AC45603687BDD141A0721204B5BDA01785C144FA285C0
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero        : Dec. Ex. 
+Publicado en web   :    (declarado por Subpesca)
+Observado (Chile)  : 2026-10-08 17:02:24
+Materia            : Dec. Ex. Folio DEXE202600149 Nombra Integrante del Consejo de Investigación Pesquera y de Acuicultura a Don Rubén Esteban Avendaño Herrera, Nominado por los Presidentes de los Comités Científicos Técnicos de Acuicultura. (F.D.O. 08-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131198_documento.pdf?ts=1791458146
+SHA-256 PDF        : 70C54BEA148C871F9C6D8985F56333314762DB3D7FC9AF902B547C667D64DF23
+Archivo web        : https://web.archive.org/web/20261008200243/https://www.subpesca.cl/portal/615/articles-131198_documento.pdf?ts=1791458146
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2412-2026
+Publicado en web   : 06-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-08 17:02:50
+Materia            : Res. Ex. N° 2412-2026 Aclara Resolución Exenta N° 2269 de 2026, de esta Subsecretaría. (Publicado en Página Web 06-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131203_documento.pdf?ts=1791483787
+SHA-256 PDF        : D82B5F496853B0E7683654B6CCC586CC3733DF253ED2E2A2FB08EDC43F5EB78D
+Archivo web        : https://web.archive.org/web/20261008200251/https://www.subpesca.cl/portal/615/articles-131203_documento.pdf?ts=1791483787
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 814C063ECE2D4D5EF93E6E88140643A74E3227276446D102B596C21EEAF2BAE0

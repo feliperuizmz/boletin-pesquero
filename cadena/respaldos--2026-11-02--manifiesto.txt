@@ -1,0 +1,20 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-02 08:26:49
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: CF2ACDB7B02F7E12FE2E041CBC5FA094BDB8B8C5910D7A324047D8A6B3370127
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero      : Decreto 
+Fecha del acto   : 
+Materia          : d ex n dexe202600194 29 10 2026 suspende inicio de veda biologica para el recurso pulpo del norte en la region de tarapaca y antofagasta
+URL              : https://www.sernapesca.cl/normativas/d-ex-n-dexe202600194-29-10-2026-suspende-inicio-de-veda-biologica-para-el-recurso-pulpo-del-norte-en-la-region-de-tarapaca-y-antofagasta/
+lastmod del sitio: 2026-10-31T13:48:17+00:00
+Observado (Chile): 2026-11-02 08:27:22
+SHA-256 HTML     : BC248EE349DE8067F634E7B082D92929B1ABA0ABB063B0DBEDB69ED64F6E5A46
+SHA-256 PDF      : 0CA0ADD4D1C9EA46C5A9890E8A205044AE2B6EFC5DD796288AF4236701766418
+Archivo web      : https://web.archive.org/web/20261102112833/https://www.sernapesca.cl/normativas/d-ex-n-dexe202600194-29-10-2026-suspende-inicio-de-veda-biologica-para-el-recurso-pulpo-del-norte-en-la-region-de-tarapaca-y-antofagasta/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): DD665F150E62F152BDA56CCD0FF75CD48E432346C7405F577B33578B1FB3A36C

@@ -1,0 +1,130 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-10-03 08:30:02
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 2A0197196944A739624C20CAA652F837A4E5D16D4481258408757697D5C159BE
+Actos observados por primera vez: 12
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-548
+Fecha del acto   : 01-10-2026
+Materia          : autoriza a ingenieria y gestion ambiental faro verde ltda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-548-01-10-2026-autoriza-a-ingenieria-y-gestion-ambiental-faro-verde-ltda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:43:01+00:00
+Observado (Chile): 2026-10-03 08:30:31
+SHA-256 HTML     : F1A0330588A038850166A50BD1831F7644F7358B1257CE7B32E21BFBDA86240D
+SHA-256 PDF      : BAD0380264D3B2AEC9F2F07E3BA92C44012FF4C68EAB080CE0CE6256C1D011C0
+Archivo web      : https://web.archive.org/web/20261003113052/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-548-01-10-2026-autoriza-a-ingenieria-y-gestion-ambiental-faro-verde-ltda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-542
+Fecha del acto   : 01-10-2026
+Materia          : autoriza a juliaa de abrei vianna para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-542-01-10-2026-autoriza-a-juliaa-de-abrei-vianna-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:33:15+00:00
+Observado (Chile): 2026-10-03 08:31:14
+SHA-256 HTML     : 58FD87B1DDF3E2EB882129F4C07C0A32AB7D662AFDC6B32E24FAE4628F821E55
+SHA-256 PDF      : 3EF6DE94C957E1DB3C7B6EF0DF974838A22DD955838D186365674C89DD1D3CB7
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-549
+Fecha del acto   : 02-10-2026
+Materia          : autoriza a servicios profesionales limitada y a palma y vergara limitda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-549-02-10-2026-autoriza-a-servicios-profesionales-limitada-y-a-palma-y-vergara-limitda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:43:41+00:00
+Observado (Chile): 2026-10-03 08:31:29
+SHA-256 HTML     : 1256E808C6F605EFBFC8CA4F0CA0044C82F10BF750C1A10F3DDD2CFE974CEF98
+SHA-256 PDF      : FD29D9EA69C66436C11F42B09133340D3DA79804BFB64E04E7F656582BA2C3FD
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-540
+Fecha del acto   : 30-09-2026
+Materia          : autoriza a fundacion para el estudio de la megafauna marina o fundacion cetalab para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-540-30-09-2026-autoriza-a-fundacion-para-el-estudio-de-la-megafauna-marina-o-fundacion-cetalab-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:32:36+00:00
+Observado (Chile): 2026-10-03 08:31:57
+SHA-256 HTML     : BFD1D3C135C90CF007DCB10F537C2661FAB1E4FE16D1B95AAE258FEE27836506
+SHA-256 PDF      : FBE72027391AB0F80AEA05F228F48DA82F560A3C12851CF6882124DFCB017AF9
+Archivo web      : https://web.archive.org/web/20261003113210/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-540-30-09-2026-autoriza-a-fundacion-para-el-estudio-de-la-megafauna-marina-o-fundacion-cetalab-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2881
+Fecha del acto   : 22-09-2026
+Materia          : modifica resolucion exenta n 01597 2021de agosto de 2021 en el sentido que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2881-22-09-2026-modifica-resolucion-exenta-n-01597-2021de-agosto-de-2021-en-el-sentido-que-indica/
+lastmod del sitio: 2026-10-02T14:53:47+00:00
+Observado (Chile): 2026-10-03 08:32:26
+SHA-256 HTML     : 926330CA8A2D928E42F44C602E0B697B9A6ADB7B7CA211DD7390078691B20E2A
+SHA-256 PDF      : 86FFE60DCB059947EA6EB66099D9BC5F0A6F44A0F781D737E1D7FF53423AACF7
+Archivo web      : https://web.archive.org/web/20261003113237/https://www.sernapesca.cl/normativas/res-ex-n-2881-22-09-2026-modifica-resolucion-exenta-n-01597-2021de-agosto-de-2021-en-el-sentido-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-536
+Fecha del acto   : 28-09-2026
+Materia          : autoriza a edwin niklitscher huaquin para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-536-28-09-2026-autoriza-a-edwin-niklitscher-huaquin-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:31:11+00:00
+Observado (Chile): 2026-10-03 08:32:54
+SHA-256 HTML     : 85E951D4FCB44073984A97D24128F2BE54FB781E9D9598FE4A940285145C3C90
+SHA-256 PDF      : 30551951AC2A6689295091EFE39E6ECA9A40F8259D6B89173A0B55661A9A7740
+Archivo web      : https://web.archive.org/web/20261003113305/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-536-28-09-2026-autoriza-a-edwin-niklitscher-huaquin-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-547
+Fecha del acto   : 01-10-2026
+Materia          : autoriza a ingenieria y gestion ambiental faro verde ltda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-547-01-10-2026-autoriza-a-ingenieria-y-gestion-ambiental-faro-verde-ltda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:42:30+00:00
+Observado (Chile): 2026-10-03 08:33:22
+SHA-256 HTML     : A87C937EC0C9E7B329B171DAFF918C964382AC005118BF7192361ABE0792346B
+SHA-256 PDF      : 67587C97A79102BABDAC195D104A5CBBC2C515A20E2E9C07481AE9C8F957E8FC
+Archivo web      : https://web.archive.org/web/20261003113332/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-547-01-10-2026-autoriza-a-ingenieria-y-gestion-ambiental-faro-verde-ltda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Decreto 202600166
+Fecha del acto   : 29-09-2026
+Materia          : suspende veda biologica para el recurso cholga en area maritima de la region de los lagos
+URL              : https://www.sernapesca.cl/normativas/d-ex-n-202600166-29-09-2026-suspende-veda-biologica-para-el-recurso-cholga-en-area-maritima-de-la-region-de-los-lagos/
+lastmod del sitio: 2026-10-02T21:44:22+00:00
+Observado (Chile): 2026-10-03 08:33:56
+SHA-256 HTML     : 003915FA46B807F849199D57B710BBAD5944F0F237B480DDFD61010701446D85
+SHA-256 PDF      : E8F7177DCA4BEDC9AA73FF8A99A857D324A47A88F4EA01A4803B820C3EDA919C
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-541
+Fecha del acto   : 30-09-2026
+Materia          : autoriza a instituto de fomento pesquero para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-541-30-09-2026-autoriza-a-instituto-de-fomento-pesquero-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:31:50+00:00
+Observado (Chile): 2026-10-03 08:34:11
+SHA-256 HTML     : 821C805C91E93B3281424059A8075C08FC0848A5CA4DDC4520E123E2BC2D0A28
+SHA-256 PDF      : 3E5F70C4943659369716642C248B3CCAF0C48682B4CDCF539D02CE4B4B774E7A
+Archivo web      : https://web.archive.org/web/20261003113421/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-541-30-09-2026-autoriza-a-instituto-de-fomento-pesquero-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-546
+Fecha del acto   : 01-10-2026
+Materia          : autoriza a ceamar spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-546-01-10-2026-autoriza-a-ceamar-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:41:55+00:00
+Observado (Chile): 2026-10-03 08:34:44
+SHA-256 HTML     : B4CFE864FED277576CC52C787359020FFD9BACEAF0078B62FA0CB57F5673C60C
+SHA-256 PDF      : 0EC7159B9A1D8883A2FCAE5CAD98A04745B4B78468A297850A0B1061AB47D49D
+Archivo web      : https://web.archive.org/web/20261003113453/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-546-01-10-2026-autoriza-a-ceamar-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-545
+Fecha del acto   : 01-10-2026
+Materia          : autoriza a osvaldo poblete troncoso para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-545-01-10-2026-autoriza-a-osvaldo-poblete-troncoso-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-02T21:33:52+00:00
+Observado (Chile): 2026-10-03 08:35:10
+SHA-256 HTML     : 6E3985664F00D73D4F510769D206DF6E5EE3BF46C6977CD6FAF65C8E2EB42D6B
+SHA-256 PDF      : 21541EDD72937E0EEAAC9AFB7D2F0F01F17917BC9D02A7F42C0B178D76457E4C
+Archivo web      : https://web.archive.org/web/20261003113523/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-545-01-10-2026-autoriza-a-osvaldo-poblete-troncoso-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Decreto 202600173
+Fecha del acto   : 29-09-2026
+Materia          : establece cuota anual de captura para los recursos que indica
+URL              : https://www.sernapesca.cl/normativas/d-ex-n-202600173-29-09-2026-establece-cuota-anual-de-captura-para-los-recursos-que-indica/
+lastmod del sitio: 2026-10-02T21:44:57+00:00
+Observado (Chile): 2026-10-03 08:35:40
+SHA-256 HTML     : 56CC31C449EC2F3184C8227A05CA3E1C98FD026638ACC725A55D9408FD097372
+SHA-256 PDF      : 7E96E334E1EE9139BB4BBD7C6EB1ECE661BB6B09473ED32FE58DC97390964417
+Archivo web      : https://web.archive.org/web/20261003113551/https://www.sernapesca.cl/normativas/d-ex-n-202600173-29-09-2026-establece-cuota-anual-de-captura-para-los-recursos-que-indica/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 3625B66DA0F055ACB44C885F084136DFA7B26EA75EA65DB830A9C60C300BEB53

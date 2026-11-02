@@ -1,0 +1,26 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-10-03 08:36:11
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 3625B66DA0F055ACB44C885F084136DFA7B26EA75EA65DB830A9C60C300BEB53
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero        : Dec. Ex. Folio 202600166
+Publicado en web   : 02-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-03 08:36:12
+Materia            : Dec. Ex. Folio 202600166 Suspende Veda Biológica para el Recurso Cholga, Región de Los Lagos. (Publicado en Página Web 02-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131162_documento.pdf?ts=1790942508
+SHA-256 PDF        : C9D6EAD01931100867F8484CD86AAE9FFF31ED17E5B70FF65444F2287A10EB2A
+Archivo web        : https://web.archive.org/web/20261003113613/https://www.subpesca.cl/portal/615/articles-131162_documento.pdf?ts=1790942508
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2359-2026
+Publicado en web   : 02-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-03 08:36:21
+Materia            : Res. Ex. Nº 2359-2026 Fija Nómina de Especies Hidrobiológicas Vivas de Importación Autorizada. Deja sin Efecto Resolución que Señala. (Publicado en Página Web 02-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131164_documento.pdf?ts=1790946597
+SHA-256 PDF        : B5E8717F6211E0883D1780BE7648C07BB6A5406D293AFC844BAB2810CF671F19
+Archivo web        : https://web.archive.org/web/20261003113621/https://www.subpesca.cl/portal/615/articles-131164_documento.pdf?ts=1790946597
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): CD4EDF4840E626DD10913455458028945DC16E60D739805CC1FDAF5C656B17B4

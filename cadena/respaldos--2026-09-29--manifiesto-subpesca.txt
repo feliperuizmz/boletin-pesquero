@@ -1,0 +1,50 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-09-29 16:14:17
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: D8F349E4A3768E97C1E46179A859E29510D1A37EA22E3FE18C44087DFB2354B3
+Actos observados por primera vez: 5
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2345-2026
+Publicado en web   : 29-09-2025   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-29 16:14:19
+Materia            : Res. Ex. N° 2345-2026 Designa Integrantes del Consejo de Pesca Recreativa de la Región de Aysén a Representantes y las Universidades de la Zona Reconocidas por el Estado. (Publicado en Página Web 29-09-2025)
+URL                : https://www.subpesca.cl/portal/615/articles-131123_documento.pdf?ts=1790705437
+SHA-256 PDF        : EC11A4DFAC0BB17442D755A2765AC072001C09120CCE079456E278C943C1563C
+Archivo web        : https://web.archive.org/web/20260929191422/https://www.subpesca.cl/portal/615/articles-131123_documento.pdf?ts=1790705437
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2331-2026
+Publicado en web   : 28-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-29 16:14:29
+Materia            : Res. Ex. N° 2331-2026 Declara Cesación en el cargo de miembro del Sector Privado que Indica en el Comité de Manejo de Anchoveta y Sardina española, Regiones de Arica y Parinacota a Antofagasta. (Publicado en Página Web 28-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131107_documento.pdf?ts=1790619318
+SHA-256 PDF        : 8B3141C8FA672A8F836E8777754D43540F9D0AE3FDA69C1194F4EE9E1B04F33B
+Archivo web        : https://web.archive.org/web/20260929191430/https://www.subpesca.cl/portal/615/articles-131107_documento.pdf?ts=1790619318
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2303-2026
+Publicado en web   : 28-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-29 16:14:37
+Materia            : Res. Ex. N° 2303-2026 Establece Período para los Efectos Previstos en el Artículo 14 del D.S. N° 296 de 2004. (Publicado en Página Web 28-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131095_documento.pdf?ts=1790604420
+SHA-256 PDF        : F913039E94E80FFB3A48CC78B0C2B612F4DDEE9F5ADA624985132395E8179D44
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 42-2026
+Publicado en web   :    (declarado por Subpesca)
+Observado (Chile)  : 2026-09-29 16:14:46
+Materia            : Res. Ex. N° 42-2026 Adjudica lote Nº 6 de la cuota de reserva para consumo humano de la unidad de pesquería Jurel regiones Arica y Parinacota a Los Lagos. (F.D.O. 29-9-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131115_documento.pdf?ts=1790680738
+SHA-256 PDF        : D5FEB64B402266A3A864A0E9D4DED10FDD63C5819C003FAC3BEE83236A216004
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2340-2026
+Publicado en web   : 29-09-2025   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-29 16:14:50
+Materia            : Res. Ex. N° 2340-2026 Designa Integrantes del Consejo de Pesca Recreativa de Aysén a Representantes y las Organizaciones sin Fines de Lucro. (Publicado en Página Web 29-09-2025)
+URL                : https://www.subpesca.cl/portal/615/articles-131122_documento.pdf?ts=1790705263
+SHA-256 PDF        : 87831780FF97FBE45EBAB8CB1A01EC6711A773EF82A12FE50AFD315AC5934C67
+Archivo web        : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): EA92892C64ACB2E536011F9F4AC0F843914E341826AED937E3BD321A3FB4CE42

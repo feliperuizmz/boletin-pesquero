@@ -1,0 +1,18 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-10-28 17:00:32
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: BC8743D831A909AB6015009F506F035EF78EEEC6544E1FE82E4CACA30B8CCFA4
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2534-2026
+Publicado en web   : 28-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-28 17:00:35
+Materia            : Res. Ex. N° 2534-2026 Modifica Resolución que Renueva Área de Florecimiento Algal Nocivo (FAN) de Alexandrium Catenella en Sectores que Indica. (Publicado en Página Web 28-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131345_documento.pdf?ts=1793187226
+SHA-256 PDF        : D151152057D46D30466659FA5F2AA1326B5D4EE1B7E58C2A391F7B620C44D358
+Archivo web        : https://web.archive.org/web/20261028200036/https://www.subpesca.cl/portal/615/articles-131345_documento.pdf?ts=1793187226
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 37A40CD6816029CF2EADC515FB71B6B7A6639C686E4198C121B2C4D016EA787F

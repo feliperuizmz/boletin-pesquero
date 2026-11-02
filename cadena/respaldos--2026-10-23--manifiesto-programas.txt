@@ -1,0 +1,90 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-10-23 17:00:33
+Fuente: paginas de programas de sernapesca.cl (programas-sitemap.xml)
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: AAB290F3EFEF85DBEB4C3AF58C5C6D1B92B9C1AA89FD87AA87BB98BFF849EE9B
+Actos observados por primera vez: 8
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. DN-3887/2025
+Fecha del acto   : 22-12-2025
+Materia          : Fija el texto refundido, coordinado y sistematizado del programa sanitario general de manejo de mortalidades y su sistema de clasificación estandarizado, conforme a categorías preestablecidas (psgm), en los términos que indica. deja sin efecto resoluciones exentas números 4075 de 2015, 126 de 2016, 731 de 2018, 540 de 2020, 1606 de 2021, 2308 de 2021 y 902 de 2022, todas del servicio nacional de p
+Pagina           : https://www.sernapesca.cl/programas/programa-sanitario-general/
+URL              : https://www.sernapesca.cl/app/uploads/2026/08/Res_Ex_-3887_2025_Texto_Refundido_PSGM.pdf
+Fecha servidor   : 2026-08-20T14:16:59+00:00
+Observado (Chile): 2026-10-23 17:01:11
+SHA-256 PDF      : 0A5367A3FC4151D7BFB0AB89F2C55AB137DA40A54CF1BA3D71FF54E4D1557FF4
+Archivo web      : https://web.archive.org/web/20261023200104/https://www.sernapesca.cl/app/uploads/2026/08/Res_Ex_-3887_2025_Texto_Refundido_PSGM.pdf
+----------------------------------------
+Tipo/Numero      : Res. Ex. DN-980/2026
+Fecha del acto   : 31-03-2026
+Materia          : Aprueba el programa sanitario específico de vigilancia y control de piscirickettsiosis. deja sin efecto resolución exenta número 3174 de 2012 y la resolución exenta número 1688 de 2013, ambas del servicio nacional de pesca y acuicultura
+Pagina           : https://www.sernapesca.cl/programas/programa-piscirickettsiosis/
+URL              : https://www.sernapesca.cl/app/uploads/2026/04/RESOLUCION-EXENTA-No-DN-00980-2026.pdf
+Fecha servidor   : 2026-04-14T13:53:25+00:00
+Observado (Chile): 2026-10-23 17:01:20
+SHA-256 PDF      : 9A8C9F283AF6187DA504F4053B2C33907525A643A5ECBE75BF407F257432C3C4
+Archivo web      : https://web.archive.org/web/20261023200113/https://www.sernapesca.cl/app/uploads/2026/04/RESOLUCION-EXENTA-No-DN-00980-2026.pdf
+----------------------------------------
+Tipo/Numero      : Res. Ex. DN-1151/2026
+Fecha del acto   : 16-04-2026
+Materia          : Modifica resolución exenta nº 8228 de 8 de septiembre de 2015 y sus modificaciones del servicio nacional de pesca y acuicultura, que aprobó el programa sanitario general para el uso de antimicrobianos en la salmonicultura y otros peces de cultivo, en términos que indica
+Pagina           : https://www.sernapesca.cl/programas/programa-piscirickettsiosis/
+URL              : https://www.sernapesca.cl/app/uploads/2026/04/Res.-Ex.-1151.2026-Modificacion-Excepcion-de-perdida.pdf
+Fecha servidor   : 2026-04-16T20:52:31+00:00
+Observado (Chile): 2026-10-23 17:01:41
+SHA-256 PDF      : 1E00FE92C80719815A0F68EA79CB6F3FA274F5B0A38B3A0C37B41482BC59F346
+Archivo web      : https://web.archive.org/web/20261023200137/https://www.sernapesca.cl/app/uploads/2026/04/Res.-Ex.-1151.2026-Modificacion-Excepcion-de-perdida.pdf
+----------------------------------------
+Tipo/Numero      : Res. Ex. DN-2422/2026
+Fecha del acto   : 06-08-2026
+Materia          : Modifica programa sanitario específico de vigilancia y control de piscirickettsiosis, aprobado mediante resolución exenta n° dn-980/2026 de fecha 31 de marzo de 2026, del servicio nacional de pesca y acuicultura, conforme lo que indica
+Pagina           : https://www.sernapesca.cl/programas/programa-piscirickettsiosis/
+URL              : https://www.sernapesca.cl/app/uploads/2026/09/RESOLUCION-EXENTA-No-DN-02422-2026.pdf
+Fecha servidor   : 2026-09-07T18:37:23+00:00
+Observado (Chile): 2026-10-23 17:01:43
+SHA-256 PDF      : 80EC11154289D72CC435472AD2A199CEEB2F1DAF678D9B543F716490823ABE6E
+Archivo web      :    (fallo: HTTP Error 429: TOO MANY REQUESTS; en cola de reintento)
+----------------------------------------
+Tipo/Numero      : Res. Ex. DN-2385/2026
+Fecha del acto   : 30-07-2026
+Materia          : Modifica programa sanitario específico de vigilancia y control de la caligidosis, aprobado mediante resolución exenta n° 60 de fecha 02 de febrero de 2022, del servicio nacional de pesca y acuicultura, conforme lo que indica
+Pagina           : https://www.sernapesca.cl/programas/programa-sanitario-especifico-de-vigilancia-y-control-de-caligidosis/
+URL              : https://www.sernapesca.cl/app/uploads/2026/09/RES-EX-N°-2385-30-07-26-Modifica-PSEVC-caligidosis.pdf
+Fecha servidor   : 2026-09-07T19:36:31+00:00
+Observado (Chile): 2026-10-23 17:01:52
+SHA-256 PDF      : C631A00098EB7868002B7087FB5EB1D74B17D1D635AA8DCF9CAD74B87AB9403B
+Archivo web      :    (fallo: HTTP Error 429: TOO MANY REQUESTS; en cola de reintento)
+----------------------------------------
+Tipo/Numero      : Res. Ex. DN-2328/2026
+Fecha del acto   : 24-07-2026
+Materia          : Modifica programa sanitario específico de vigilancia y control de la anemia infecciosa del salmón (psevc-isa) aprobado mediante resolución exenta n° 1577 de 2011, y demás resoluciones modificatorias, conforme lo que indica
+Pagina           : https://www.sernapesca.cl/programas/programa-sanitario-especifico-de-vigilancia-y-control-anemia-infecciosa-del-salmon/
+URL              : https://www.sernapesca.cl/app/uploads/2018/03/Res-Ex-2328-2026-captacion-de-alimento-y-redes.pdf
+Fecha servidor   : 2026-09-08T11:51:17+00:00
+Observado (Chile): 2026-10-23 17:01:54
+SHA-256 PDF      : A61FB80283A4321B72820A3935C95723BB82CD89B12A46A258BE0150CAB53E16
+Archivo web      :    (fallo: HTTP Error 429: TOO MANY REQUESTS; en cola de reintento)
+----------------------------------------
+Tipo/Numero      : Res. Ex. DN-2901/2026
+Fecha del acto   : 24-09-2026
+Materia          : Declara zonificación en la categoría de zona infectada por el virus de la anemia infecciosa del salmón (isav) el área de influencia del centro de cultivo izaza, código 110644, en el registro nacional de acuicultura, ubicado en la agrupación de concesiones n° 20 de la región de aysén. ademas declara como zona en vigilancia a las agrupaciones de concesiones de salmónidos 19b, 20 y 21a conforme a la 
+Pagina           : https://www.sernapesca.cl/programas/programa-sanitario-especifico-de-vigilancia-y-control-anemia-infecciosa-del-salmon/
+URL              : https://www.sernapesca.cl/app/uploads/2018/03/Res.-Ex.-DN-02901.2026-Zonificacion-Aysen-Sept-2026.pdf
+Fecha servidor   : 2026-09-24T18:57:47+00:00
+Observado (Chile): 2026-10-23 17:01:58
+SHA-256 PDF      : 887ED017E429409060BA47125A1EC15887FCC9E4C44AD65716939F49243563C6
+Archivo web      :    (fallo: HTTP Error 429: TOO MANY REQUESTS; en cola de reintento)
+----------------------------------------
+Tipo/Numero      : Res. Ex. DN-3073/2026
+Fecha del acto   : 09-10-2026
+Materia          : Declara zonificación en la categoría de zona infectada por el virus de la anemia infecciosa del salmón (isav) el área de influencia del centro de cultivo luchín, código 110930, en el registro nacional de acuicultura, ubicado en la agrupación de concesiones n° 30a de la región de aysén del general carlos ibáñez del campo, incluyendo también los cnetros código rna n° 110293, 110317, 110730 y 110751.
+Pagina           : https://www.sernapesca.cl/programas/programa-sanitario-especifico-de-vigilancia-y-control-anemia-infecciosa-del-salmon/
+URL              : https://www.sernapesca.cl/app/uploads/2018/03/Res.-Ex.-DN-03073.2026-Zonficiacion-Centro-Luchin-110930.pdf
+Fecha servidor   : 2026-10-13T12:13:32+00:00
+Observado (Chile): 2026-10-23 17:02:07
+SHA-256 PDF      : EC4EF61F775CAEC30EB1351534C2755BDC2EAB5BD33ED81D0AF32DB2951D019B
+Archivo web      : https://web.archive.org/web/20261023200201/https://www.sernapesca.cl/app/uploads/2018/03/Res.-Ex.-DN-03073.2026-Zonficiacion-Centro-Luchin-110930.pdf
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): F7A15734EA385950C4BED3D5AF1DB59F3079C184AF1F52AAEC75C914FEC5673A

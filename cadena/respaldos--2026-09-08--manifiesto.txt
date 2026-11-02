@@ -1,0 +1,120 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-09-08 18:03:40
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 5A4141070172CE64B1BD7A345D8E4ACDB04848AF64531B599F0C9A220BC02DCB
+Actos observados por primera vez: 11
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2144
+Fecha del acto   : 04-09-2026
+Materia          : fijaron para el ano 2026 las cuotas globales de captura para pesqueria de recursos que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2144-04-09-2026-fijaron-para-el-ano-2026-las-cuotas-globales-de-captura-para-pesqueria-de-recursos-que-indica/
+lastmod del sitio: 2026-09-08T20:10:43+00:00
+Observado (Chile): 2026-09-08 18:04:08
+SHA-256 HTML     : D768ACC654C4777674552886CEF5B13B4F723F423D0DA5706B69CDCE8C71DF13
+SHA-256 PDF      : D9645CF580F4ABB093ABCA18D8E6348D52F276F74C900D3E2908DDADD0F51E8F
+Archivo web      : https://web.archive.org/web/20260908210142/https://www.sernapesca.cl/normativas/res-ex-n-2144-04-09-2026-fijaron-para-el-ano-2026-las-cuotas-globales-de-captura-para-pesqueria-de-recursos-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-522
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a dss s a para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-522-08-09-2026-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:15:33+00:00
+Observado (Chile): 2026-09-08 18:04:25
+SHA-256 HTML     : 199E4298694EB71649F1EE8290318569302368515A310F23A542BD98F706539A
+SHA-256 PDF      : 003ECA282C100B2BA2733EB288375CF92B1D9E636C09FBD105AEADA03E3C674C
+Archivo web      : https://web.archive.org/web/20260908210243/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-522-08-09-2026-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-519
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a dss s a para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-519-08-09-2026-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:13:35+00:00
+Observado (Chile): 2026-09-08 18:04:46
+SHA-256 HTML     : 382ADCEFB7D7A4809429A427E2C0C9B728D0CCD8270B887339E233C4D2DDB44B
+SHA-256 PDF      : E4FE8E001F2A65ECAB018A5229D346B089AA0C2F9C6BBB9D21C65F9E9CFEF81C
+Archivo web      : https://web.archive.org/web/20260908210405/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-519-08-09-2026-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-516
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a solam asesorias ambientales limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-516-08-09-2026-autoriza-a-solam-asesorias-ambientales-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:11:56+00:00
+Observado (Chile): 2026-09-08 18:05:03
+SHA-256 HTML     : 3AF30FEB88A881B770ED77234F12F946A24357D673D266D4550A81264C89A78B
+SHA-256 PDF      : 19646F5DB6C34F3F83C01222C56C965D4FB3AF411099C0C8750877F4C84AC91B
+Archivo web      : https://web.archive.org/web/20260908210449/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-516-08-09-2026-autoriza-a-solam-asesorias-ambientales-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-517
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a catchpole y asociados limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-517-08-09-2026-autoriza-a-catchpole-y-asociados-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:12:31+00:00
+Observado (Chile): 2026-09-08 18:05:19
+SHA-256 HTML     : C5D92B0F8249941A9DE4F72A483081F30FA90E41A2B0AACE245E3DD5C1AAC58B
+SHA-256 PDF      : F5A2041A556E2CA93E280D84047BEAF37DBE3FEDCA36A9BBEA4A97C112A9CD3B
+Archivo web      : https://web.archive.org/web/20260908210528/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-517-08-09-2026-autoriza-a-catchpole-y-asociados-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-523
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a comercializadora y laboratorio ecogestion ambiental limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-523-08-09-2026-autoriza-a-comercializadora-y-laboratorio-ecogestion-ambiental-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:14:58+00:00
+Observado (Chile): 2026-09-08 18:05:48
+SHA-256 HTML     : 1E8F422B3312E88CB00FC7CF57DAE08D215F067E6CCBF8AAA1B55C0C9697455C
+SHA-256 PDF      : 9F4EE265A9C31299FD626A75E36EEDD73034D48C83C3758F369E4B9785C25698
+Archivo web      : https://web.archive.org/web/20260908210602/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-523-08-09-2026-autoriza-a-comercializadora-y-laboratorio-ecogestion-ambiental-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-524
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a asigma spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-524-08-09-2026-autoriza-a-asigma-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:15:58+00:00
+Observado (Chile): 2026-09-08 18:06:26
+SHA-256 HTML     : BB114864826496A61F5C87BD6E9349590D1C8639E308D3A577EDB41F0F00629F
+SHA-256 PDF      : A4DF6849F70171D416B007C90AE41BABDA2C745D08C7977ABC40A9F67A0A45F6
+Archivo web      : https://web.archive.org/web/20260908210614/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-524-08-09-2026-autoriza-a-asigma-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2151
+Fecha del acto   : 07-09-2026
+Materia          : autorizo cesion por parte del armador industrial camanchaca s a
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2151-07-09-2026-autorizo-cesion-por-parte-del-armador-industrial-camanchaca-s-a/
+lastmod del sitio: 2026-09-08T20:11:26+00:00
+Observado (Chile): 2026-09-08 18:06:41
+SHA-256 HTML     : 2EFD0E517FB27C8705F48BC7C340F46FC57F81B11012A587EE9BE2D32377FAD7
+SHA-256 PDF      : D65E1F822C5AA521B70C6EC3592ACE2766824D39ED657C884DB1A94508B3D57C
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-520
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a dss s a para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-520-08-09-2026-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:14:03+00:00
+Observado (Chile): 2026-09-08 18:07:03
+SHA-256 HTML     : 94724B0165781E42E23C0A58065A3969314C5DE6B6640DF0C3655A3FAB2E5A4C
+SHA-256 PDF      : 9DAFD6AC096BF1E7BD3A008BD612C876B887F4E0DBC27A6ED342E70CBACF1380
+Archivo web      : https://web.archive.org/web/20260908210717/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-520-08-09-2026-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-518
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a catchpole y asociados limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-518-08-09-2026-autoriza-a-catchpole-y-asociados-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:12:59+00:00
+Observado (Chile): 2026-09-08 18:07:34
+SHA-256 HTML     : AD91A0B2266647550910FBB7B63BA4F18E3D8FEA5136F9195BC18E05B1146E78
+SHA-256 PDF      : A2DB7EC4C48B68A9CED6E43DCD5A1EC023BD47FCB355FE7A781C422AD176753C
+Archivo web      : https://web.archive.org/web/20260908210752/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-518-08-09-2026-autoriza-a-catchpole-y-asociados-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-521
+Fecha del acto   : 08-09-2026
+Materia          : autoriza a dss s a para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-521-08-09-2026-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-08T20:14:33+00:00
+Observado (Chile): 2026-09-08 18:08:15
+SHA-256 HTML     : A6F022BF59F4F488C95BC183DC68E62ACD4A50FB95B524811AD46D73CAA6A770
+SHA-256 PDF      : 82E51ED395F63309D4416E336183D4D2376349DFE8995E3CCD1C9B245CC9F52C
+Archivo web      : https://web.archive.org/web/20260908210827/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-521-08-09-2026-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): B5666D7B3AE3394883522DB2F81EA81A3D0D997FDA0B3FDCBFBC1507D629D695

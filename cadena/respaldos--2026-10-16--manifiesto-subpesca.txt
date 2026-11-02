@@ -1,0 +1,18 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-10-16 17:00:31
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: CAA38DDCF0ACAA289E6E829A686042101F799C43C867B08C3B50DA2E44F3A9F7
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2458-2026
+Publicado en web   : 16-10-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-10-16 17:00:31
+Materia            : Res. Ex. Nº 2458-2026 Modifica Res. Ex. N° 2019-2025 Fija Nómina Nacional Actualizada de Pesquerías Artesanales de Conformidad con lo Dispuesto en el Artículo 50 A, de la Ley General de Pesca y Acuicultura. (Publicado en Página Web 16-10-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131261_documento.pdf?ts=1792151465
+SHA-256 PDF        : 634F5B9967AFAFA3BE8C3ACC4AFB7F3FED9BA457AC624AB8F3556B7C13514A96
+Archivo web        : https://web.archive.org/web/20261016200033/https://www.subpesca.cl/portal/615/articles-131261_documento.pdf?ts=1792151465
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): FEE768C94EBA8BBA13534A73E3B6EDAEA1CD58B1BEA1CC8523EBFD742D8A8DB2

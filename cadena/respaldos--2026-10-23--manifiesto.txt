@@ -1,0 +1,230 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-10-23 15:48:32
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 5A2FAE173F8DBAB7795F9ED7C42DFAD4DA1C256540BB79E0A675BB3E26DFD61A
+Actos observados por primera vez: 22
+
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 565 autoriza a alejandro perez matus para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-565-autoriza-a-alejandro-perez-matus-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T12:23:34+00:00
+Observado (Chile): 2026-10-23 15:50:39
+SHA-256 HTML     : D7B08B64899A2690996317B60ECD19F609A5EA19E6023E750058C8284CB3DDDD
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023184450/https://www.sernapesca.cl/normativas/res-ex-ne-2026-565-autoriza-a-alejandro-perez-matus-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 566 autoriza a gesam consultores limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-566-autoriza-a-gesam-consultores-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T12:26:23+00:00
+Observado (Chile): 2026-10-23 15:51:27
+SHA-256 HTML     : 351FA8734F343F6758E1E7842455E60E593E7D6AA5D3CE6988DAF063919643C0
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023184617/https://www.sernapesca.cl/normativas/res-ex-ne-2026-566-autoriza-a-gesam-consultores-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 567 autoriza a ingenat consultores ltda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-567-autoriza-a-ingenat-consultores-ltda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T12:28:03+00:00
+Observado (Chile): 2026-10-23 15:51:47
+SHA-256 HTML     : D2004B466D6764205FE08E4FAED11502CD7907B6EC353C567BB40FC7223C2688
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023184646/https://www.sernapesca.cl/normativas/res-ex-ne-2026-567-autoriza-a-ingenat-consultores-ltda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 568 autoriza a ingenieria y gestion ambiental faro verde ltda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-568-autoriza-a-ingenieria-y-gestion-ambiental-faro-verde-ltda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T12:29:58+00:00
+Observado (Chile): 2026-10-23 15:52:13
+SHA-256 HTML     : 8A0DBE93AAD5303FEAF5134F22CDA2419E8763AB85D98CD43E19F5941568E9D0
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023184716/https://www.sernapesca.cl/normativas/res-ex-ne-2026-568-autoriza-a-ingenieria-y-gestion-ambiental-faro-verde-ltda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 571 autoriza a juan navarro moena para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-571-autoriza-a-juan-navarro-moena-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T12:31:55+00:00
+Observado (Chile): 2026-10-23 15:52:57
+SHA-256 HTML     : 3A3D1B5F258DBC993F8D9DC18D1096C01E29ACB5007B438A4F61B7E81FE72F37
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023184815/https://www.sernapesca.cl/normativas/res-ex-ne-2026-571-autoriza-a-juan-navarro-moena-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 572 autoriza a ingenieria y gestion ambiental faro verde ltda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-572-autoriza-a-ingenieria-y-gestion-ambiental-faro-verde-ltda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T12:34:03+00:00
+Observado (Chile): 2026-10-23 15:53:32
+SHA-256 HTML     : 87DC58BD8BE1D01BBE27C790D76E9187F97F402D90D899DE9BC9B15481AFF098
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023184841/https://www.sernapesca.cl/normativas/res-ex-ne-2026-572-autoriza-a-ingenieria-y-gestion-ambiental-faro-verde-ltda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 573 autoriza a empresa de estudios monitoreo y mediciones ambientales geaambiental spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-573-autoriza-a-empresa-de-estudios-monitoreo-y-mediciones-ambientales-geaambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T12:35:47+00:00
+Observado (Chile): 2026-10-23 15:53:51
+SHA-256 HTML     : BEA03650AEE101146A6CD99987A306D114346A4EC2AA1E91932B09A7FBF822C1
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023184906/https://www.sernapesca.cl/normativas/res-ex-ne-2026-573-autoriza-a-empresa-de-estudios-monitoreo-y-mediciones-ambientales-geaambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 574 autoriza a ecotecnos s a para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-574-autoriza-a-ecotecnos-s-a-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:00:59+00:00
+Observado (Chile): 2026-10-23 15:54:15
+SHA-256 HTML     : B3C7278F319166F208B66F61C91DB26E71BCF63F62C48CCDED517AFECBF748F9
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023184935/https://www.sernapesca.cl/normativas/res-ex-ne-2026-574-autoriza-a-ecotecnos-s-a-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 575 autoriza a catalina gomez macaya para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-575-autoriza-a-catalina-gomez-macaya-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:03:50+00:00
+Observado (Chile): 2026-10-23 15:55:06
+SHA-256 HTML     : 0C42A1181276374892FFF7115BC71964AAF3D5880FA5684DD272ED9CCE71E812
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185005/https://www.sernapesca.cl/normativas/res-ex-ne-2026-575-autoriza-a-catalina-gomez-macaya-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 576 autoriza a carlos anselmo munoz sepulveda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-576-autoriza-a-carlos-anselmo-munoz-sepulveda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:06:03+00:00
+Observado (Chile): 2026-10-23 15:55:19
+SHA-256 HTML     : 0E54E01F556BF60DE7420D050050C8F208CE5C67ECC12BE074C1EB14B7CB6BBC
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185028/https://www.sernapesca.cl/normativas/res-ex-ne-2026-576-autoriza-a-carlos-anselmo-munoz-sepulveda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 577 autoriza a carlos anselmo munoz sepulveda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-577-autoriza-a-carlos-anselmo-munoz-sepulveda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:07:22+00:00
+Observado (Chile): 2026-10-23 15:55:33
+SHA-256 HTML     : 2A0AB2DE48051072404D91C2BEBE61957E8570C85A296628F117D57028F4BFA5
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185057/https://www.sernapesca.cl/normativas/res-ex-ne-2026-577-autoriza-a-carlos-anselmo-munoz-sepulveda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 578 autoriza a asigma spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-578-autoriza-a-asigma-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:08:47+00:00
+Observado (Chile): 2026-10-23 15:55:49
+SHA-256 HTML     : 05E5E0661EEB3EE7255A71CD3301CEAB01DE0D6D5628E6309BEF8347F27BB40B
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185230/https://www.sernapesca.cl/normativas/res-ex-ne-2026-578-autoriza-a-asigma-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 579 autoriza a asesoria y consultoria ecorestaura spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-579-autoriza-a-asesoria-y-consultoria-ecorestaura-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:10:12+00:00
+Observado (Chile): 2026-10-23 15:56:02
+SHA-256 HTML     : 3D2D2CC30B45576DB619EB7393C0638E27E60C00C3B41521AD7F9A7400CC6BDC
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185313/https://www.sernapesca.cl/normativas/res-ex-ne-2026-579-autoriza-a-asesoria-y-consultoria-ecorestaura-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 580 autoriza a solutos asesorias de ingenieria y proyecto limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-580-autoriza-a-solutos-asesorias-de-ingenieria-y-proyecto-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:11:53+00:00
+Observado (Chile): 2026-10-23 15:57:03
+SHA-256 HTML     : 234A81ECAB1DCCE89BCD04323CE98DE22B5EC4FF481DBBFEC8F1DDB5863E4DEF
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185345/https://www.sernapesca.cl/normativas/res-ex-ne-2026-580-autoriza-a-solutos-asesorias-de-ingenieria-y-proyecto-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 581 autoriza a empresas de estudios monitoreos y mediciones ambientales geaambiental spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-581-autoriza-a-empresas-de-estudios-monitoreos-y-mediciones-ambientales-geaambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:13:49+00:00
+Observado (Chile): 2026-10-23 15:57:21
+SHA-256 HTML     : E152CEF9449705162EDF9465414110C259DC347D18C260110D2F8E93EEE8DB90
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185418/https://www.sernapesca.cl/normativas/res-ex-ne-2026-581-autoriza-a-empresas-de-estudios-monitoreos-y-mediciones-ambientales-geaambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 582 autoriza a comercializadora y laboratorio ecogestion ambiental limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-582-autoriza-a-comercializadora-y-laboratorio-ecogestion-ambiental-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:15:28+00:00
+Observado (Chile): 2026-10-23 15:57:38
+SHA-256 HTML     : 209767E0ECCBC419EEEE189F0040C1FA593CBCE8B273512DFAE1580FCBFA57A8
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185450/https://www.sernapesca.cl/normativas/res-ex-ne-2026-582-autoriza-a-comercializadora-y-laboratorio-ecogestion-ambiental-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 583 autoriza a solam asesorias ambientales limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-583-autoriza-a-solam-asesorias-ambientales-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:18:21+00:00
+Observado (Chile): 2026-10-23 15:57:58
+SHA-256 HTML     : 5FFB8DFB499924BA101D09CCB397D2DB43BCEF9557E6E0B355C35EE22C9BE1E8
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185601/https://www.sernapesca.cl/normativas/res-ex-ne-2026-583-autoriza-a-solam-asesorias-ambientales-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 584 autoriza a servicios e inversiones promar spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-584-autoriza-a-servicios-e-inversiones-promar-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:16:58+00:00
+Observado (Chile): 2026-10-23 15:58:28
+SHA-256 HTML     : 3413B7F34A3BA966218B9D070760212497814E6FBB31018EAEF924611E6891C3
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185723/https://www.sernapesca.cl/normativas/res-ex-ne-2026-584-autoriza-a-servicios-e-inversiones-promar-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 589 autoriza a carlos anselmo munoz sepulveda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-589-autoriza-a-carlos-anselmo-munoz-sepulveda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:19:35+00:00
+Observado (Chile): 2026-10-23 15:58:46
+SHA-256 HTML     : 79D324768FC39AF13CBFA2B1D5325B90AD47B2DB489B3E2DAD26D975CABA4CC8
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185852/https://www.sernapesca.cl/normativas/res-ex-ne-2026-589-autoriza-a-carlos-anselmo-munoz-sepulveda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 590 autoriza a martinez ambiental limitada para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-590-autoriza-a-martinez-ambiental-limitada-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:20:54+00:00
+Observado (Chile): 2026-10-23 15:59:13
+SHA-256 HTML     : 408158B3CA9D8E7D612AA070FF524491460038D5F85F2625BD5185F4A6922109
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023185921/https://www.sernapesca.cl/normativas/res-ex-ne-2026-590-autoriza-a-martinez-ambiental-limitada-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 591 autoriza a mariantu robles zarate para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-591-autoriza-a-mariantu-robles-zarate-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:22:34+00:00
+Observado (Chile): 2026-10-23 15:59:54
+SHA-256 HTML     : 30AD9CF21A1D3051C4483170D71FF0B59239E887330BD060BDB0F4364699340E
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023190002/https://www.sernapesca.cl/normativas/res-ex-ne-2026-591-autoriza-a-mariantu-robles-zarate-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex ne 2026 592 autoriza a empresa de estudios monitoreos y mediciones ambientales geaambiental spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-592-autoriza-a-empresa-de-estudios-monitoreos-y-mediciones-ambientales-geaambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-10-23T14:24:09+00:00
+Observado (Chile): 2026-10-23 16:00:32
+SHA-256 HTML     : 78C1BBB7A541D3C307C3FB2690FC2E22C5C1E8E6D9F3C9A4A0B9F86FB0083130
+SHA-256 PDF      : 
+Archivo web      : https://web.archive.org/web/20261023190031/https://www.sernapesca.cl/normativas/res-ex-ne-2026-592-autoriza-a-empresa-de-estudios-monitoreos-y-mediciones-ambientales-geaambiental-spa-para-realizar-pesca-de-investigacion-que-indica/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 2C46789B70AF4FEA2324943A353F53DABF22D43499DB48FC16D58DD3DD6C89BC

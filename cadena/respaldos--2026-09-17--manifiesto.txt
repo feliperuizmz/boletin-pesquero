@@ -1,0 +1,60 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-09-17 19:00:03
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: F8851370D157194D22E04C6BF9865094DFC5EF6E79F7DEF2AB56FC7D6FC8F8E5
+Actos observados por primera vez: 5
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2502
+Fecha del acto   : 17-08-2026
+Materia          : instruye procedimiento de eliminacion del registro nacional de acuicultura de la inscripcion de las pisciculturas que indica en conformidad con el articulo 90 ter
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2502-17-08-2026-instruye-procedimiento-de-eliminacion-del-registro-nacional-de-acuicultura-de-la-inscripcion-de-las-pisciculturas-que-indica-en-conformidad-con-el-articulo-90-ter/
+lastmod del sitio: 2026-09-16T13:26:30+00:00
+Observado (Chile): 2026-09-17 19:00:32
+SHA-256 HTML     : CAD47787BCB2C247513CBBA869DD15385D65E36567AD657FAF48A41E5D1EB9AD
+SHA-256 PDF      : C4165E8931F1FAA339EF5704EC0FE5B787C3719937433C073DA3576AD14CB16A
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2223
+Fecha del acto   : 14-09-2026
+Materia          : fija densidad de cultivo para la agrupacion de concesiones de salmonidos 51c en la region de magallanes y de la antartica chilena
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2223-14-09-2026-fija-densidad-de-cultivo-para-la-agrupacion-de-concesiones-de-salmonidos-51c-en-la-region-de-magallanes-y-de-la-antartica-chilena/
+lastmod del sitio: 2026-09-16T13:07:34+00:00
+Observado (Chile): 2026-09-17 19:00:56
+SHA-256 HTML     : AF8A09B21EB4565E31284C6A62EEAF9574B8E6B6D2DE63A70456EEB4A1BD61CE
+SHA-256 PDF      : 621062D395828D08842C4C81EA03AAFA38781952FDF74695FAF8ADB02616B752
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2208
+Fecha del acto   : 14-09-2026
+Materia          : autorizo a centro de ecologia aplicada s a para efectuar pesca de investigacion
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2208-14-09-2026-autorizo-a-centro-de-ecologia-aplicada-s-a-para-efectuar-pesca-de-investigacion/
+lastmod del sitio: 2026-09-16T13:05:37+00:00
+Observado (Chile): 2026-09-17 19:01:16
+SHA-256 HTML     : 219F48A2561662419D4DDFA8D2E1FEE262C6FB55F7C37F26A37ECF8CA80FC2ED
+SHA-256 PDF      : 1C889627BD5474B031C17C2E67A304D0E4BC052E8AA0C99CD658374DE968DA08
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2222
+Fecha del acto   : 14-09-2026
+Materia          : fija densidad de cultivo para la agrupacion de concesiones de salmonidos 51b en la region de magallanes y de la antartica chilena
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2222-14-09-2026-fija-densidad-de-cultivo-para-la-agrupacion-de-concesiones-de-salmonidos-51b-en-la-region-de-magallanes-y-de-la-antartica-chilena/
+lastmod del sitio: 2026-09-16T13:07:08+00:00
+Observado (Chile): 2026-09-17 19:01:35
+SHA-256 HTML     : 60472AA45BDFF4840E9DECC157D8542B0D92CA801B4126FAB547B5B7064C6137
+SHA-256 PDF      : B4A883E22927409BAFBACBFCF869C54E1D0A55E17C8F4CD04D90C2E162B5F093
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2221
+Fecha del acto   : 14-09-2026
+Materia          : fija densidad de cultivo para la agrupacion de concesiones de salmonidos 54a en la region de magallanes y de la antartica chilena
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2221-14-09-2026-fija-densidad-de-cultivo-para-la-agrupacion-de-concesiones-de-salmonidos-54a-en-la-region-de-magallanes-y-de-la-antartica-chilena/
+lastmod del sitio: 2026-09-16T13:06:33+00:00
+Observado (Chile): 2026-09-17 19:01:56
+SHA-256 HTML     : FCE9F702A903087FA6EA4851A6E5FEF19796EFA8F7B68B34169FCE6E292EB46F
+SHA-256 PDF      : FC64461112F52B6E46FAF01AD36E695F42B555128F60218D3C296CDF3A29F5DF
+Archivo web      : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): B1D5FC7FDDF0662DE9B1D22686E90556A5D05304200BABF6DD6B9FAD8C1E354A

@@ -1,0 +1,30 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-09-23 08:30:02
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: C2B319F0D20C83DA8B9F86CE3E13DAB551B4E6152060FF8CC09DEDC2A68C96D4
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero      : Decreto 202600163
+Fecha del acto   : 21-09-2026
+Materia          : establece regimen artesanal de extraccion por organizacion para la pesqueria de bacalao de profundidad en la region de valparaiso
+URL              : https://www.sernapesca.cl/normativas/d-ex-n-202600163-21-09-2026-establece-regimen-artesanal-de-extraccion-por-organizacion-para-la-pesqueria-de-bacalao-de-profundidad-en-la-region-de-valparaiso/
+lastmod del sitio: 2026-09-22T16:04:41+00:00
+Observado (Chile): 2026-09-23 08:30:34
+SHA-256 HTML     : B7983A23963E9938B454736C39118558C8146B2CD21F70AC0589CCFF36BA6046
+SHA-256 PDF      : 15C7067412C22968399964CA6DC42F7F5B32DF95D1717EE873A63A886A90983B
+Archivo web      : 
+----------------------------------------
+Tipo/Numero      : Decreto 202600164
+Fecha del acto   : 21-09-2026
+Materia          : suspende veda biologica para el recurso choro zapato en area maritima que indica
+URL              : https://www.sernapesca.cl/normativas/d-ex-n-202600164-21-09-2026-suspende-veda-biologica-para-el-recurso-choro-zapato-en-area-maritima-que-indica/
+lastmod del sitio: 2026-09-22T16:04:15+00:00
+Observado (Chile): 2026-09-23 08:30:56
+SHA-256 HTML     : 28996618A3644E38077A25549E50F5199FFC933EAAE241E56976BF3DC9C6AE5E
+SHA-256 PDF      : F57D3A60D3F49A48BA8CBEAC402E9C0ED5B317C7B2946C249B8C4DD18207745C
+Archivo web      : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 854DBE332261F3F752A3D05CE4457516D7DEA5214EFD6CE39A2B4909488A22AC

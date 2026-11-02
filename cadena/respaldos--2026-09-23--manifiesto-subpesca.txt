@@ -1,0 +1,34 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-09-23 08:31:18
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 854DBE332261F3F752A3D05CE4457516D7DEA5214EFD6CE39A2B4909488A22AC
+Actos observados por primera vez: 3
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2269-2026
+Publicado en web   : 22-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-23 08:31:19
+Materia            : Res. Ex. N° 2269-2026 Modifica Res. Ex. N° 687-2022 Designa funcionarios de la Subsecretaría de Pesca y Acuicultura en Comités Científicos Técnicos que Indica. (Publicado en Página Web 22-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131064_documento.pdf?ts=1790100772
+SHA-256 PDF        : 53D63C307E70A432423DD4CC1F4081E81CDF29B30C67DEF32E28FC52BE0496DC
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Dec. Ex. 
+Publicado en web   : 22-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-23 08:31:28
+Materia            : Dec. Ex. Folio N° 202600164 Suspende Veda Biológica para el Recurso Choro Zapato, en el Área Marítima que Indica. (Publicado en Página Web 22-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131063_documento.pdf?ts=1790087673
+SHA-256 PDF        : 6C306B3F082E875409603A7CF98BD54219CFF468343B28321995C1832B22D7ED
+Archivo web        : 
+----------------------------------------
+Tipo/Numero        : Dec. Ex. 
+Publicado en web   : 22-09-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-09-23 08:31:37
+Materia            : Dec. Ex. Folio DEXE202600163 Establece Régimen Artesanal de Extracción por Organización para la pesquería de Bacalao de Profundidad, en la Región de Valparaíso. (Publicado en Página Web 22-09-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131062_documento.pdf?ts=1790087413
+SHA-256 PDF        : 569989D7D18A2940F48FF523BCA3790C2EEDDC4AAD28EB0F19A34AE407DF164D
+Archivo web        : 
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 69F07FD7DAC541BE96C289BB0490657D336CCB673C524BD0073BFDD5673731FE

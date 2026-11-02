@@ -1,0 +1,30 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-09-08 10:59:20
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: GENESIS
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2121
+Fecha del acto   : 03-09-2026
+Materia          : establecio el metodo de control de margenes de tolerancia para especies que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-2121-03-09-2026-establecio-el-metodo-de-control-de-margenes-de-tolerancia-para-especies-que-indica/
+lastmod del sitio: 2026-09-07T12:09:44+00:00
+Observado (Chile): 2026-09-08 10:59:49
+SHA-256 HTML     : F842E789729441F428BF004FED8C0D12BC7B3D3AB9EC49E69838DCD096FFE5FF
+SHA-256 PDF      : 825ED08F2D74B2C751D1E31D9F14713FD00A6903E4221B0AB52C0A2E9579A8DC
+Archivo web      : https://web.archive.org/web/20260908135722/https://www.sernapesca.cl/normativas/res-ex-n-2121-03-09-2026-establecio-el-metodo-de-control-de-margenes-de-tolerancia-para-especies-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-509
+Fecha del acto   : 03-09-2026
+Materia          : autoriza a universidad santo tomas para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-e-2026-509-03-09-2026-autoriza-a-universidad-santo-tomas-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-09-07T12:11:50+00:00
+Observado (Chile): 2026-09-08 11:00:08
+SHA-256 HTML     : 80EA7060E796E9DA97C13A19E0E0D2A88A3D23E05B5D1C9DA62F32FAD410383A
+SHA-256 PDF      : 2770291B519146FAD8FE4217FEA94FF91ED7B5F6280F32C7CC9C036BD476E7FA
+Archivo web      : https://web.archive.org/web/20260908140022/https://www.sernapesca.cl/normativas/res-ex-n-e-2026-509-03-09-2026-autoriza-a-universidad-santo-tomas-para-realizar-pesca-de-investigacion-que-indica/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): E602975BE3F25411025D14CD4A8276537033CE161D2F369D494077F77E887185
