@@ -1,0 +1,32 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-04 08:37:17
+Fuente: archivos de sernapesca.cl hallados con el buscador del sitio y confirmados por Felipe A. Ruiz Munoz como publicacion del texto integro
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 16F178B3C55138EF4CC586457F4BEA4D4D614DA401B86784EF5341E5437407D6
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2144-2026
+Fecha del acto   : 
+Materia          : Modifica Res. Ex. N° 3053-2025 y 3054-2025 Establece Toneladas para Titulares de LTP Clase A y B, Año 2026
+Pagina           : https://www.sernapesca.cl/?s=2144
+URL              : https://www.sernapesca.cl/app/uploads/2026/09/2144-2026.pdf
+Fecha servidor   : 2026-09-08T20:09:49+00:00
+Observado (Chile): 2026-11-04 08:37:17
+Confirmado       : 2026-11-03 11:41:13 (RES-2026-2144)
+SHA-256 PDF      : E460E81419AC298C9C7CD4538377DCA27002E139A940D731815D38AD965DAE67
+Archivo web      : https://web.archive.org/web/20260908210156/https://www.sernapesca.cl/app/uploads/2026/09/2144-2026.pdf
+----------------------------------------
+Tipo/Numero      : Res. Ex. 2570-2026
+Fecha del acto   : 
+Materia          : Modifica Resolución Exenta N° 159-2026, de esta Subsecretaría
+Pagina           : https://www.sernapesca.cl/?s=2570
+URL              : https://www.sernapesca.cl/app/uploads/2026/11/2570-2026.pdf
+Fecha servidor   : 2026-11-02T15:17:52+00:00
+Observado (Chile): 2026-11-04 08:37:17
+Confirmado       : 2026-11-03 11:41:13 (RES-2026-2570)
+SHA-256 PDF      : E8E215E6C709D3E5F7BE6022C681713DCACCB32226D82F934C5D2ABA88DA9E7E
+Archivo web      : https://web.archive.org/web/20261104113731/https://www.sernapesca.cl/app/uploads/2026/11/2570-2026.pdf
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 115BF2D1873EF850FF8853E8BDA34735D3815BC3AE5BC0E6FFE4865372C268EA

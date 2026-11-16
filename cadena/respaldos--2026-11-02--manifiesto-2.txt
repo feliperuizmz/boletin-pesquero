@@ -1,0 +1,50 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-02 17:00:07
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: E060E1C101C04D72ABDB7E21F8E99958BF4B40C85D9E66A45C8B6B54E5AC8CE4
+Actos observados por primera vez: 4
+
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex no2570 establece aumento en la distribucion de fraccion artesanal del recurso que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-no2570-establece-aumento-en-la-distribucion-de-fraccion-artesanal-del-recurso-que-indica/
+lastmod del sitio: 2026-11-02T15:18:33+00:00
+Observado (Chile): 2026-11-02 17:00:49
+SHA-256 HTML     : 5588F1D60DD1A486B879F5DCDF4AFBD40633A9389E221E4560D36FE62DD7B901
+SHA-256 PDF      : 5ED6A1A825C49B754BA0CBDCC117BD27593F22754CEE2937D1ED77C218ACA2E5
+Archivo web      : https://web.archive.org/web/20261102200235/https://www.sernapesca.cl/normativas/res-ex-no2570-establece-aumento-en-la-distribucion-de-fraccion-artesanal-del-recurso-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex no2569 fija poligonos al interior de areas destinadas a colecta de semillas en la comuna de castro region de los lagos abre periodo de postulacion para permisos especiales de colecta que
+URL              : https://www.sernapesca.cl/normativas/res-ex-no2569-fija-poligonos-al-interior-de-areas-destinadas-a-colecta-de-semillas-en-la-comuna-de-castro-region-de-los-lagos-abre-periodo-de-postulacion-para-permisos-especiales-de-colecta-que/
+lastmod del sitio: 2026-11-02T15:16:29+00:00
+Observado (Chile): 2026-11-02 17:03:16
+SHA-256 HTML     : 93BC9684D4DF228AD651A0C7BC87C5CC975E651D266363E34D1270DD569CE334
+SHA-256 PDF      : 2579BF420582FB0A5F2E24C56EFB88B0CC739283DBCC67214D99D19ED83D1FFB
+Archivo web      : https://web.archive.org/web/20261102200446/https://www.sernapesca.cl/normativas/res-ex-no2569-fija-poligonos-al-interior-de-areas-destinadas-a-colecta-de-semillas-en-la-comuna-de-castro-region-de-los-lagos-abre-periodo-de-postulacion-para-permisos-especiales-de-colecta-que/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex no2567 fija poligonos al interior de areas destinadas a colecta de semillas en la comuna de cochamo region de los lagos abre periodo de postulacion para permisos especiales de colecta qu
+URL              : https://www.sernapesca.cl/normativas/res-ex-no2567-fija-poligonos-al-interior-de-areas-destinadas-a-colecta-de-semillas-en-la-comuna-de-cochamo-region-de-los-lagos-abre-periodo-de-postulacion-para-permisos-especiales-de-colecta-qu/
+lastmod del sitio: 2026-11-02T15:14:16+00:00
+Observado (Chile): 2026-11-02 17:05:08
+SHA-256 HTML     : AD722DC03BCA56BF674406E094F1631D5E5B0776F59F39803FC081B52817DE33
+SHA-256 PDF      : A012C4D6BB90BFC7E0E9A9B20BC72128C7B20FBB20FE86BA4E692A782EEAC9B9
+Archivo web      : https://web.archive.org/web/20261102200650/https://www.sernapesca.cl/normativas/res-ex-no2567-fija-poligonos-al-interior-de-areas-destinadas-a-colecta-de-semillas-en-la-comuna-de-cochamo-region-de-los-lagos-abre-periodo-de-postulacion-para-permisos-especiales-de-colecta-qu/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : dec ex no202600194 suspende inicio de veda biologica del recurso pulpo del norte en la region de tarapaca y antofagasta
+URL              : https://www.sernapesca.cl/normativas/dec-ex-no202600194-suspende-inicio-de-veda-biologica-del-recurso-pulpo-del-norte-en-la-region-de-tarapaca-y-antofagasta/
+lastmod del sitio: 2026-11-02T15:11:46+00:00
+Observado (Chile): 2026-11-02 17:07:30
+SHA-256 HTML     : ABFA4AE08E882DD11C6470F65198DA4E4BDA543EFD5FC17D64B98B8240650088
+SHA-256 PDF      : ACE349D7BD3520E06DA9BBB12541CC53110CBB4A0C43472112DFC78BCA24F106
+Archivo web      : https://web.archive.org/web/20261102200806/https://www.sernapesca.cl/normativas/dec-ex-no202600194-suspende-inicio-de-veda-biologica-del-recurso-pulpo-del-norte-en-la-region-de-tarapaca-y-antofagasta/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 84B34E32DB6DD3740BEBD55656D7A25D1A101E1FE0586C566064440855EF02E2

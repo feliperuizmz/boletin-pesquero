@@ -1,0 +1,26 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-11-12 21:55:26
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: C7B9C174A21BA744805E7BC9ADE6C12DA29F3C47C8200AE89F693ED147B476AB
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2674-2026
+Publicado en web   : 12-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-12 21:55:27
+Materia            : Res. Ex. N° 2674-2026 Aprueba Bases Generales de Procedimiento, Evaluación y Selección de Beneficiarios del “Programa de Estudios Técnicos de Nivel Superior para Trabajadores y Ex Trabajadores de la Industria Pesquera que Hayan Perdido su Trabajo Como Consecuencia de la Aplicación de la Ley N° 18.892; y Becas de Estudio Para los Hijos de los Ex Trabajadores”, Año 2026. (Publicado en Página Web 12-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131502_documento.pdf?ts=1794496361
+SHA-256 PDF        : 9A8E44BC2FFC7ABA683A298C8C478BB90E7AD84BD4A268A2CEE5097937610045
+Archivo web        : https://web.archive.org/web/20261113005529/https://www.subpesca.cl/portal/615/articles-131502_documento.pdf?ts=1794496361
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2675-2026
+Publicado en web   : 12-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-12 21:55:37
+Materia            : Res. Ex. N° 2675-2026 Establece Criterios de Distribución y Ponderaciones Pesquerías Artesanales de Anchoveta y Jurel Región de Coquimbo Para Efectos del Artículo 55 J de la Ley General de Pesca y Acuicultura, Años 2027-2036. (Publicado en Página Web 12-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131505_documento.pdf?ts=1794508608
+SHA-256 PDF        : AFC0A187BDC563DAEA6E8D24FB0222C404C343E51C3FD77E0AE9A114A30C3055
+Archivo web        : https://web.archive.org/web/20261113005538/https://www.subpesca.cl/portal/615/articles-131505_documento.pdf?ts=1794508608
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 9102A7F092112AD9F68F707BBDFDDC3795A76EFEF7FA5C5BFBA82FADF8154E81

@@ -1,0 +1,20 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-12 21:53:57
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: E388A18804ABA5D59AC5120AFFA46E64AD172B1E37BD41331EAEEE5907718923
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 1785
+Fecha del acto   : 12-06-2026
+Materia          : modifica la resolucion exenta numero 2441 de 2012 del servicio nacional de pesca y acuicultura que aprobo la evaluacion para la importacion de especies ornamentales
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-1785-12-06-2026-modifica-la-resolucion-exenta-numero-2441-de-2012-del-servicio-nacional-de-pesca-y-acuicultura-que-aprobo-la-evaluacion-para-la-importacion-de-especies-ornamentales/
+lastmod del sitio: 2026-11-12T15:00:14+00:00
+Observado (Chile): 2026-11-12 21:54:30
+SHA-256 HTML     : C4DB8DC2CBC9E8AB66C2FF69787FDC9D480943793543AA7B5A1807F77348FE5B
+SHA-256 PDF      : 87108BE0BB94D008068A270ECC139B2326CA85554FCF9790205BAF020F1CDE94
+Archivo web      : https://web.archive.org/web/20261113005500/https://www.sernapesca.cl/normativas/res-ex-n-1785-12-06-2026-modifica-la-resolucion-exenta-numero-2441-de-2012-del-servicio-nacional-de-pesca-y-acuicultura-que-aprobo-la-evaluacion-para-la-importacion-de-especies-ornamentales/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): C7B9C174A21BA744805E7BC9ADE6C12DA29F3C47C8200AE89F693ED147B476AB

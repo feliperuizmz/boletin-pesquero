@@ -1,0 +1,80 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-10 17:00:02
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: DD1384530FC5F2889BF1BBEB29D065ECAD3A41CC78DFF753E2DF1236B3DB3BA8
+Actos observados por primera vez: 7
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica 
+Fecha del acto   : 
+Materia          : res ex ne 2026 615 autoriza a carlos anselmo munoz sepulveda para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-615-autoriza-a-carlos-anselmo-munoz-sepulveda-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-10T13:40:25+00:00
+Observado (Chile): 2026-11-10 17:00:31
+SHA-256 HTML     : AF24B1B8F07575DA0194A5E1C582DDD74D77BB7A0914F3B19BBA67503DA3509C
+SHA-256 PDF      : D6BC81B8ED40F1799AA16056CA2492CA38F7BCB1A54AA847AA6A4B5ECC39B160
+Archivo web      : https://web.archive.org/web/20261110200106/https://www.sernapesca.cl/normativas/res-ex-ne-2026-615-autoriza-a-carlos-anselmo-munoz-sepulveda-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica 
+Fecha del acto   : 
+Materia          : res ex ne 2026 614 autoriza a dss s a para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-614-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-10T13:39:02+00:00
+Observado (Chile): 2026-11-10 17:01:27
+SHA-256 HTML     : 07FD172B1526355EF32A7EF7BA498B76ED88BB77DA1C608864749F06F79F6909
+SHA-256 PDF      : E7E20781C7894C71C886DBD41122A0AB9E2BA696C9EB4FAC606BC7ED71F58201
+Archivo web      : https://web.archive.org/web/20261110200141/https://www.sernapesca.cl/normativas/res-ex-ne-2026-614-autoriza-a-dss-s-a-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica 
+Fecha del acto   : 
+Materia          : res ex ne 2026 613 autoriza a empresa de estudios monitoreos y mediciones ambientales geaambiental spal para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-613-autoriza-a-empresa-de-estudios-monitoreos-y-mediciones-ambientales-geaambiental-spal-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-10T13:37:24+00:00
+Observado (Chile): 2026-11-10 17:02:06
+SHA-256 HTML     : AAD27B529016A4F089510535775AF907DF3703D1C81C9FDDEB737001B102D2D7
+SHA-256 PDF      : FF535F2615FD59BC8C1CD71EFCEA5A289E01A0AA72FDFA4513D9FD35941862F5
+Archivo web      : https://web.archive.org/web/20261110200226/https://www.sernapesca.cl/normativas/res-ex-ne-2026-613-autoriza-a-empresa-de-estudios-monitoreos-y-mediciones-ambientales-geaambiental-spal-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica 
+Fecha del acto   : 
+Materia          : res ex ne 2026 612 autoriza a daniel zunino mardones para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-612-autoriza-a-daniel-zunino-mardones-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-10T13:35:49+00:00
+Observado (Chile): 2026-11-10 17:02:47
+SHA-256 HTML     : 69E4DDA0C828226510C29AA00C76F547533F5F7364EEFA305A99160D2F8D2398
+SHA-256 PDF      : 6E9726E6983D40C4FEC85C9F97104B3047E6E76A9966418B09A371104F923C23
+Archivo web      : https://web.archive.org/web/20261110200304/https://www.sernapesca.cl/normativas/res-ex-ne-2026-612-autoriza-a-daniel-zunino-mardones-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica 
+Fecha del acto   : 
+Materia          : res ex ne 2026 611 autoriza a servicios e inversiones pramar spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-611-autoriza-a-servicios-e-inversiones-pramar-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-10T13:34:38+00:00
+Observado (Chile): 2026-11-10 17:03:30
+SHA-256 HTML     : 013D755ADA18A488B2037020ED49245FAFF22B738406D17C00DE08518951CB65
+SHA-256 PDF      : 3474E8BC0C6EBAB926A65B33A688156686864D48A7271C7AC7721B8A7E6F67CF
+Archivo web      : https://web.archive.org/web/20261110200410/https://www.sernapesca.cl/normativas/res-ex-ne-2026-611-autoriza-a-servicios-e-inversiones-pramar-spa-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica 
+Fecha del acto   : 
+Materia          : res ex ne 2026 610 autoriza a ignacio acosta bravo para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-610-autoriza-a-ignacio-acosta-bravo-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-10T13:33:13+00:00
+Observado (Chile): 2026-11-10 17:04:28
+SHA-256 HTML     : B670478D05C5455EFC15B5AE4BF70E601A86DFE44259B1F5187A8F78864C9131
+SHA-256 PDF      : B3518B8C9BD6B0CFDC6067E944CC33795C8EFCEF70A28E539B538A6BF2324EE1
+Archivo web      : https://web.archive.org/web/20261110200626/https://www.sernapesca.cl/normativas/res-ex-ne-2026-610-autoriza-a-ignacio-acosta-bravo-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica 
+Fecha del acto   : 
+Materia          : res ex ne 2026 609 autoriza a centro de ecologia aplicada s a para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-609-autoriza-a-centro-de-ecologia-aplicada-s-a-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-10T13:31:48+00:00
+Observado (Chile): 2026-11-10 17:06:48
+SHA-256 HTML     : D51E2CAF0606EA988617F8745422FA9876AF0EB4DA0527007353B300626E6A9D
+SHA-256 PDF      : EF2E412370CF383EA2D1D8359FA64C30419A26ED63208CF68D566094FE1344E6
+Archivo web      : https://web.archive.org/web/20261110200705/https://www.sernapesca.cl/normativas/res-ex-ne-2026-609-autoriza-a-centro-de-ecologia-aplicada-s-a-para-realizar-pesca-de-investigacion-que-indica/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): A4E33BA496F17ED65A43D7CE159DF12E559FD50751C199E42D0AE90FDC831E83

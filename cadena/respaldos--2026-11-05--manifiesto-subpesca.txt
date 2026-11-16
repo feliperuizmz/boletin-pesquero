@@ -1,0 +1,18 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-11-05 00:35:42
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 7D76E15086926E96EB5263E0836F3480D2A50F2F785A7F5F99FD1AF2307CCBEA
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2593-2026
+Publicado en web   : 04-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-05 00:35:44
+Materia            : Res. Ex. Nº 2593-2026 Rectifica Res. Ex. N° 2481-2026 Autoriza a Blumar S.A. y Armadores Artesanales que indica, para Capturar Cuota de Jurel Transferida de Acuerdo con la Regulación de la Organización Regional de Pesca del Pacífico Sur (OROP-PS).(Publicado en Página Web 04-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131411_documento.pdf?ts=1793818635
+SHA-256 PDF        : 7725926F7469894B4CE1D227AA4BD89DACB5720378787C9A69BF8CE2386CF646
+Archivo web        : https://web.archive.org/web/20261105033546/https://www.subpesca.cl/portal/615/articles-131411_documento.pdf?ts=1793818635
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): B95DDAF05A345603D88252259540D378D1CB36EA083DE62F069A141B1BA2B9AD

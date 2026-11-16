@@ -1,0 +1,34 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-11-02 17:08:35
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 84B34E32DB6DD3740BEBD55656D7A25D1A101E1FE0586C566064440855EF02E2
+Actos observados por primera vez: 3
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2568-2026
+Publicado en web   : 02-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-02 17:08:38
+Materia            : Res. Ex. N° 2568-2026 Autoriza Descuento de Toneladas de Jurel a Orizón, por Transferencia Temporal de Acuerdo con la Regulación de la Organización Regional de Pesca del Pacífico Sur (OROP-PS). (Publicado en Página Web 02-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131391_documento.pdf?ts=1793616988
+SHA-256 PDF        : 208C8068DA908E1C11AEE6275267E255AA4A56F1DBE7A5C0C3B1F1F628B694BA
+Archivo web        : https://web.archive.org/web/20261102200938/https://www.subpesca.cl/portal/615/articles-131391_documento.pdf?ts=1793616988
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2569-2026
+Publicado en web   : 02-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-02 17:09:46
+Materia            : Res. Ex. N° 2569-2026 Fija polígonos al interior de área destinadas a colecta de semillas en la comuna de Castro, Región de Los Lagos. Abre período de postulación para permisos especiales de colecta que indica. (Publicado en Página Web 02-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131392_documento.pdf?ts=1793617405
+SHA-256 PDF        : 6CA8E12D0F5FBBAE6ADAB234FB6BAEDEDDE5FFCF1395C4EFA09BE55DE2478E1F
+Archivo web        : https://web.archive.org/web/20261102200947/https://www.subpesca.cl/portal/615/articles-131392_documento.pdf?ts=1793617405
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2570-2026
+Publicado en web   : 02-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-02 17:09:55
+Materia            : Res. Ex. N° 2570-2026 Modifica Resolución Exenta N° 159-2026, de esta Subsecretaría. (Publicado en Página Web 02-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131393_documento.pdf?ts=1793617633
+SHA-256 PDF        : E8E215E6C709D3E5F7BE6022C681713DCACCB32226D82F934C5D2ABA88DA9E7E
+Archivo web        : https://web.archive.org/web/20261102201015/https://www.subpesca.cl/portal/615/articles-131393_documento.pdf?ts=1793617633
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 55D2A2A83C7B04520BDAC1DE054399B681CB203089C2F14DE649286943311D71

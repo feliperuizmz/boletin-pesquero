@@ -1,0 +1,18 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-11-03 08:30:34
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: F0DAA4BDF15EC06AD7C9E5877807B23531286FCF4D7736B4B786B2C43F0DE935
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2583-2026
+Publicado en web   : 03-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-03 08:30:35
+Materia            : Res. Ex. N° 2583-2026 Actualiza y Reemplaza Resolución que Establece Agrupaciones de Concesiones de Acuicultura de Salmónidos en Regiones que Indica. Deja sin Efecto Resolución que Señala. (Publicado en Página Web 03-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131399_documento.pdf?ts=1793704799
+SHA-256 PDF        : 7957414A86566600647A93737AC7FCEA751D1983D0D508CCF557808C072B298A
+Archivo web        : https://web.archive.org/web/20261103113039/https://www.subpesca.cl/portal/615/articles-131399_documento.pdf?ts=1793704799
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 8E03C7950D1563260EE7E3EC9C351B37C3BE08710C2D6C84E4B234D911887E18

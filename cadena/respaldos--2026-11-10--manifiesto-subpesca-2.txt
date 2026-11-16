@@ -1,0 +1,18 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-11-10 17:07:31
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: A4E33BA496F17ED65A43D7CE159DF12E559FD50751C199E42D0AE90FDC831E83
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2646-2026
+Publicado en web   : 10-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-10 17:07:33
+Materia            : Res. Ex. N° 2646-2026 Autoriza a Triplenine Lota SpA para Continuar Desarrollando Actividades Pesqueras Extractivas que Indica. (Publicado en Página Web 10-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131478_documento.pdf?ts=1794323299
+SHA-256 PDF        : 45F0F929648CFDDB6B06F555D8D01315029A51D12F20E2AF2D0613B2FDF0DB3C
+Archivo web        : https://web.archive.org/web/20261110200735/https://www.subpesca.cl/portal/615/articles-131478_documento.pdf?ts=1794323299
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 528D35994A8B595A6BFB2E4A1884F09899535CECBDEC1A859DF5BE7949ECF60F

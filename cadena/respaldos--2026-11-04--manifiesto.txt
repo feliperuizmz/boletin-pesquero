@@ -1,0 +1,40 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-04 08:30:01
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 720A57770FCBAF4FD053B9E7509F3FA965E74E2854E917F4579DC0F52FFB5C14
+Actos observados por primera vez: 3
+
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : dto ex no202600191 establecio los porcentajes maximos de desembarque de especies que indica
+URL              : https://www.sernapesca.cl/normativas/dto-ex-no202600191-establecio-los-porcentajes-maximos-de-desembarque-de-especies-que-indica/
+lastmod del sitio: 2026-11-03T14:46:09+00:00
+Observado (Chile): 2026-11-04 08:30:31
+SHA-256 HTML     : 9A571065BEBB3C6E36172420A9A9C0E941127C9A64E89DA7DEF390C580C89CD7
+SHA-256 PDF      : AB77D2D23E560CA9C564A96EF4A1091559ACA9E950485421F46C74A40C604BD7
+Archivo web      : https://web.archive.org/web/20261104113107/https://www.sernapesca.cl/normativas/dto-ex-no202600191-establecio-los-porcentajes-maximos-de-desembarque-de-especies-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex no2583 actualiza y reemplaza resolucion que establece agrupaciones de concesiones que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-no2583-actualiza-y-reemplaza-resolucion-que-establece-agrupaciones-de-concesiones-que-indica/
+lastmod del sitio: 2026-11-03T14:43:58+00:00
+Observado (Chile): 2026-11-04 08:31:30
+SHA-256 HTML     : F541BD69E2C25B105CB82C693E73C0270465C9AF51D7D00C16B0258B88522235
+SHA-256 PDF      : 52679E5828D62B7FBA85653AE9E0DAF99E798AD89FAF661731F86AEA33A7D554
+Archivo web      : https://web.archive.org/web/20261104113148/https://www.sernapesca.cl/normativas/res-ex-no2583-actualiza-y-reemplaza-resolucion-que-establece-agrupaciones-de-concesiones-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex noe 2026 604 autoriza a ecotecnos s a para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-noe-2026-604-autoriza-a-ecotecnos-s-a-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-03T14:41:58+00:00
+Observado (Chile): 2026-11-04 08:32:05
+SHA-256 HTML     : C87E5E37253206369000E4BCD3F5B8B2E36D23FA61260EFE4046B2E71E781CF8
+SHA-256 PDF      : AD9E326CFF402D699991BCE0C5E9E180D40D09C38904B3B60FF52C27A2A2CAAD
+Archivo web      : https://web.archive.org/web/20261104113309/https://www.sernapesca.cl/normativas/res-ex-noe-2026-604-autoriza-a-ecotecnos-s-a-para-realizar-pesca-de-investigacion-que-indica/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 1A8660CF9C1B2F49746F48337B3B789FAA3E57E36D42902FAE8952CDA285CA75

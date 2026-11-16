@@ -1,0 +1,30 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-09 17:00:04
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 7D4560AF6EDDABB17561A1615BE7F01316A0D651486AD7C04A448719596C7A9A
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex n2638 autoriza a bionativa consultores ambientales spa para realizar actividades de rescate y relocalizacion
+URL              : https://www.sernapesca.cl/normativas/res-ex-n2638-autoriza-a-bionativa-consultores-ambientales-spa-para-realizar-actividades-de-rescate-y-relocalizacion/
+lastmod del sitio: 2026-11-09T19:11:24+00:00
+Observado (Chile): 2026-11-09 17:00:36
+SHA-256 HTML     : 037DE8BB7583543958144246912D183204E90BC095CD6F368A2AFAF478038B6E
+SHA-256 PDF      : 60E31979732C19D00CEA80B1B84DF7D3C3780751A2216201A9B5FDA208F05148
+Archivo web      : https://web.archive.org/web/20261109200112/https://www.sernapesca.cl/normativas/res-ex-n2638-autoriza-a-bionativa-consultores-ambientales-spa-para-realizar-actividades-de-rescate-y-relocalizacion/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex n2637 autoriza a ingenieria y gestion ambiental faroverde limitada para realizar actividades de rescate y relocalizacion
+URL              : https://www.sernapesca.cl/normativas/res-ex-n2637-autoriza-a-ingenieria-y-gestion-ambiental-faroverde-limitada-para-realizar-actividades-de-rescate-y-relocalizacion/
+lastmod del sitio: 2026-11-09T19:09:31+00:00
+Observado (Chile): 2026-11-09 17:01:35
+SHA-256 HTML     : 2F5C670153C1D9B515C1CD0144CEBF18A83B95E075B4C254EF69955315FF2CDD
+SHA-256 PDF      : B5FD49B83D609E3998224873D4A2637C125E012144D349926237A68E75539B03
+Archivo web      : https://web.archive.org/web/20261109200204/https://www.sernapesca.cl/normativas/res-ex-n2637-autoriza-a-ingenieria-y-gestion-ambiental-faroverde-limitada-para-realizar-actividades-de-rescate-y-relocalizacion/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 13C506A6C82A3C41A931F4B38243AB3A379AE73389077382868D66E189AE0FC1

@@ -1,21 +1,21 @@
 [
   {
-    "id": "RES-2026-2567",
-    "rotulo": "Res. Ex. N° 2567-2026",
-    "titulo": "Fija l os siguientes polígonos sobre l os cuales podrán otorgarse permisos especiales de colecta de semillas al interior de las áreas de colecta…",
-    "tituloOficial": "Fija polígonos al interior de área destinadas a colecta de semillas en la comuna de Cochamó, Región de Los Lagos. Abre período de postulación para permisos especiales de colecta que indica",
-    "titularAuto": true,
-    "tema": "Acuicultura",
+    "id": "RES-2026-2675",
+    "rotulo": "Res. Ex. N° 2675-2026",
+    "titulo": "Fija criterios RAE 2027-2036 para anchoveta y jurel entre organizaciones artesanales de Coquimbo",
+    "tituloOficial": "Fija criterios RAE 2027-2036 para anchoveta y jurel entre organizaciones artesanales de Coquimbo",
+    "titularAuto": false,
+    "tema": "Acceso al recurso y distribución de cuotas",
     "organo": "Subsecretaría de Pesca y Acuicultura",
-    "relevancia": "rutinario",
-    "resumen": "Fíjanse l os siguientes polígonos sobre l os cuales podrán otorgarse permisos especiales de colecta de semillas al interior de las áreas de colecta otorgada en destinación en la comuna de Cochamó, región de Los Lagos, de conformidad con el…",
-    "resumenAuto": true,
+    "relevancia": "destacado",
+    "resumen": "Establece para el período 2027 a 2036 los criterios, parámetros y ponderaciones para distribuir las pesquerías artesanales de anchoveta y jurel entre organizaciones de pescadores artesanales de la Región de Coquimbo (régimen artesanal de extracción, art. 55 J LGPA); publicación por un mes y recurso del art. 55 K.",
+    "resumenAuto": false,
     "primigenia": null,
     "situacion": null,
     "dictacion": null,
-    "subpesca": "30-10-2026",
+    "subpesca": "12-11-2026",
     "sernapesca": null,
-    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131389_documento.pdf?ts=1793386996",
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131505_documento.pdf?ts=1794508608",
     "urlSernapesca": null,
     "do": null,
     "estado": {
@@ -23,19 +23,319 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 12-11-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-12 21:55:37",
+    "primeraObservacion": "2026-11-12 21:55:37",
+    "observaciones": 1
+  },
+  {
+    "id": "RES-2026-1785",
+    "rotulo": "Res. Ex. N° DN-1785/2026",
+    "titulo": "Prohíbe importar desde Colombia especies ornamentales susceptibles al virus VHS y condiciona las demás",
+    "tituloOficial": "Prohíbe importar desde Colombia especies ornamentales susceptibles al virus VHS y condiciona las demás",
+    "titularAuto": false,
+    "tema": "Acuicultura",
+    "organo": "Servicio Nacional de Pesca y Acuicultura",
+    "relevancia": "destacado",
+    "resumen": "Modifica la Res. Ex. N° 2441/2012 del Servicio: prohíbe la importación desde Colombia de especies ornamentales susceptibles al virus de la septicemia hemorrágica viral (VHS) y autoriza las no susceptibles solo con cuarentena mínima de quince días y demás condiciones copulativas. Dictada el 12-06-2026; rige con la última publicación íntegra (art. 5°).",
+    "resumenAuto": false,
+    "primigenia": null,
+    "situacion": null,
+    "dictacion": "12-06-2026",
+    "subpesca": null,
+    "sernapesca": "12-11-2026",
+    "urlSubpesca": null,
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-n-1785-12-06-2026-modifica-la-resolucion-exenta-numero-2441-de-2012-del-servicio-nacional-de-pesca-y-acuicultura-que-aprobo-la-evaluacion-para-la-importacion-de-especies-ornamentales/",
+    "do": null,
+    "estado": {
+      "clave": "pendiente",
+      "color": "#B0186E",
+      "rotulo": "Pendiente de entrada en vigencia",
+      "valor": "No consta en Subpesca",
+      "nota": "Publicado en el sitio de Sernapesca el 12-11-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-12 21:54:30",
+    "primeraObservacion": "2026-11-12 21:54:30",
+    "observaciones": 1
+  },
+  {
+    "id": "RES-2026-2609",
+    "rotulo": "Res. Ex. N° 2609-2026",
+    "titulo": "Quinta modificación de la distribución temporal 2026 de huiro negro y huiro palo en Atacama",
+    "tituloOficial": "Quinta modificación de la distribución temporal 2026 de huiro negro y huiro palo en Atacama",
+    "titularAuto": false,
+    "tema": "Acceso al recurso y distribución de cuotas",
+    "organo": "Subsecretaría de Pesca y Acuicultura",
+    "relevancia": "destacado",
+    "resumen": "Dictada por la Dirección Zonal de Pesca de Atacama y Coquimbo por orden del Subsecretario (Atacama, 04-11-2026). Adelanta a octubre-noviembre 800 toneladas de huiro negro asignadas a diciembre en Huasco y traslada a octubre-diciembre cuotas de huiro palo de Chañaral (300 t) y Copiapó (94,1 t). PDF sin texto; leído de la imagen.",
+    "resumenAuto": false,
+    "primigenia": null,
+    "situacion": null,
+    "dictacion": null,
+    "subpesca": "05-11-2026",
+    "sernapesca": null,
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131420_documento.pdf?ts=1793906466",
+    "urlSernapesca": null,
+    "do": null,
+    "estado": {
+      "clave": "pendiente",
+      "color": "#B0186E",
+      "rotulo": "Pendiente de entrada en vigencia",
+      "valor": "No consta en Sernapesca",
+      "nota": "Publicado en el sitio de Subpesca el 05-11-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-06 14:31:57",
+    "primeraObservacion": "2026-11-06 14:31:57",
+    "observaciones": 1
+  },
+  {
+    "id": "RES-2026-2604",
+    "rotulo": "Res. Ex. N° 2604-2026",
+    "titulo": "Declara área de plaga de Caprella mutica, por dos años, un sector marítimo de Calbuco",
+    "tituloOficial": "Declara área de plaga de Caprella mutica, por dos años, un sector marítimo de Calbuco",
+    "titularAuto": false,
+    "tema": "Otras materias",
+    "organo": "Subsecretaría de Pesca y Acuicultura",
+    "relevancia": "destacado",
+    "resumen": "Declárase, por el plazo de dos años contados desde la fecha de publicación de la presente resolución, como área de plaga de Caprella mutica , un sector marítimo de la comuna de Calbuco, región de Los Lagos, de conformidad con el Informe…",
+    "resumenAuto": true,
+    "primigenia": null,
+    "situacion": {
+      "rotulo": "Situación de publicación",
+      "valor": "Ver nota",
+      "sernapesca": "06-11-2026",
+      "nota": "Subpesca publicó el texto íntegro con el Informe Técnico N° 841 de 2026 el 05-11-2026 (24 páginas). Sernapesca la publicó el 06-11-2026 en «Normativas» (3 páginas), sin ese informe, que la resolución ordena publicar junto con ella.",
+      "fuenteSernapesca": "https://www.sernapesca.cl/normativas/res-ex-n2604-declara-area-de-plaga-de-caprella-mutica-en-sectores-maritimos-que-senala/",
+      "verificado": "2026-11-16: PDF de Subpesca de 24 páginas (resolución de 3 páginas e Informe Técnico N° 841/2026 a continuación); PDF de Sernapesca de 3 páginas, solo la resolución, SHA-256 distinto. Página de Sernapesca publicada el 06-11-2026 (JSON-LD). Decisión de Felipe de informar la situación sin calificar la vigencia (16-11-2026).",
+      "notaCorta": "Subpesca publicó la resolución con el Informe Técnico N° 841/2026 (05-11, 24 páginas); Sernapesca, solo la resolución (06-11, 3 páginas), sin el informe que ella ordena publicar."
+    },
+    "dictacion": null,
+    "subpesca": "05-11-2026",
+    "sernapesca": "06-11-2026",
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131419_documento.pdf?ts=1793906328",
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-n2604-declara-area-de-plaga-de-caprella-mutica-en-sectores-maritimos-que-senala/",
+    "do": null,
+    "estado": {
+      "clave": "situacion",
+      "color": "#5B6B78",
+      "rotulo": "Situación de publicación",
+      "valor": "Ver nota",
+      "nota": "Subpesca publicó la resolución con el Informe Técnico N° 841/2026 (05-11, 24 páginas); Sernapesca, solo la resolución (06-11, 3 páginas), sin el informe que ella ordena publicar."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-06 14:31:46",
+    "primeraObservacion": "2026-11-06 14:30:42",
+    "observaciones": 2
+  },
+  {
+    "id": "DEC-2026-191",
+    "rotulo": "Dec. Ex. N° 202600191",
+    "titulo": "Modifica porcentaje de desembarque de especies como fauna acompañante año 2026…: reemplaza la parte de la tabla contenida en el artículo 1° relativa al recurso jurel",
+    "tituloOficial": "Modifica Dec. Ex. N° 5-2026 Establece Porcentajes de Desembarque de Especies como Fauna Acompañante, año 2026",
+    "titularAuto": true,
+    "tema": "Conservación y medidas de administración",
+    "organo": "Ministerio de Economía, Fomento y Turismo",
+    "relevancia": "destacado",
+    "resumen": "Modífíquese el decreto exento N° 5, de 2026, del Ministerio de Economía, Fomento y Turismo, que estableció los porcentajes máximos de desembarque de especies como fauna acompañante, año 2026, en el sentido de reemplazar la parte de la…",
+    "resumenAuto": true,
+    "primigenia": {
+      "id": "DEC-2026-5",
+      "rotulo": "Dec. Ex. N° 5/2026",
+      "cita": "Dec. Ex. N° 5-2026",
+      "origen": "titulo",
+      "titulo": "Establece porcentaje de desembarque de especies como fauna acompañante año 2026…",
+      "enlace": "https://www.sernapesca.cl/normativas/d-ex-n-5-02-03-2026-establece-porcentaje-de-desembarque-de-especies-como-fauna-acompanante-ano-2026/",
+      "fuente": "sernapesca.cl"
+    },
+    "situacion": null,
+    "dictacion": null,
+    "subpesca": "03-11-2026",
+    "sernapesca": "03-11-2026",
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131402_documento.pdf?ts=1793708694",
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/dto-ex-no202600191-establecio-los-porcentajes-maximos-de-desembarque-de-especies-que-indica/",
+    "do": {
+      "fecha": "2026-11-16",
+      "cve": "2902180",
+      "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/16/44600/01/2902180.pdf",
+      "titulo": "Extracto de decreto exento número 202600191, de 2026.- Modifica decreto Nº 5 exento, de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
+    },
+    "estado": {
+      "clave": "firme",
+      "color": "#1F5E85",
+      "rotulo": "Vigente desde el",
+      "valor": "03-11-2026",
+      "nota": "Fecha de la última publicación del texto íntegro (art. 174 LGPA)."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-04 08:33:35",
+    "primeraObservacion": "2026-11-03 17:00:44",
+    "observaciones": 3
+  },
+  {
+    "id": "RES-2026-2583",
+    "rotulo": "Res. Ex. N° 2583-2026",
+    "titulo": "Actualiza las agrupaciones de concesiones de salmónidos en Los Lagos, Aysén y Magallanes",
+    "tituloOficial": "Actualiza las agrupaciones de concesiones de salmónidos en Los Lagos, Aysén y Magallanes",
+    "titularAuto": false,
+    "tema": "Acuicultura",
+    "organo": "Subsecretaría de Pesca y Acuicultura",
+    "relevancia": "destacado",
+    "resumen": "Establece las agrupaciones de concesiones de salmónidos de las tres regiones conforme al art. 2° N° 52 de la LGPA, con el Informe Técnico (D.Ac.) N° 832 de 2026, y deja sin efecto la Res. Ex. N° 2384 de 2025 (numeral 4).",
+    "resumenAuto": false,
+    "primigenia": null,
+    "situacion": {
+      "rotulo": "Situación de publicación",
+      "valor": "Ver nota",
+      "sernapesca": "03-11-2026",
+      "nota": "Subpesca publicó el texto íntegro con el Informe Técnico (D.Ac.) N° 832 de 2026 el 03-11-2026 (64 páginas). Sernapesca lo publicó el mismo día en «Normativas» (36 páginas), sin ese informe, que la resolución ordena publicar junto con ella.",
+      "fuenteSernapesca": "https://www.sernapesca.cl/normativas/res-ex-no2583-actualiza-y-reemplaza-resolucion-que-establece-agrupaciones-de-concesiones-que-indica/",
+      "verificado": "2026-11-16: PDF de Subpesca de 64 páginas (resolución firmada por el Subsecretario en la 36 e Informe Técnico (D.Ac.) N° 832/2026 a continuación); PDF de Sernapesca de 36 páginas, termina en la firma, SHA-256 distinto. Página de Sernapesca publicada el 03-11-2026 (JSON-LD). Decisión de Felipe de informar la situación sin calificar la vigencia (16-11-2026).",
+      "notaCorta": "Subpesca publicó la resolución con el Informe Técnico (D.Ac.) N° 832/2026 (03-11, 64 páginas); Sernapesca, solo la resolución (03-11, 36 páginas), sin el informe que ella ordena publicar."
+    },
+    "dictacion": null,
+    "subpesca": "03-11-2026",
+    "sernapesca": "03-11-2026",
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131399_documento.pdf?ts=1793704799",
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-no2583-actualiza-y-reemplaza-resolucion-que-establece-agrupaciones-de-concesiones-que-indica/",
+    "do": null,
+    "estado": {
+      "clave": "situacion",
+      "color": "#5B6B78",
+      "rotulo": "Situación de publicación",
+      "valor": "Ver nota",
+      "nota": "Subpesca publicó la resolución con el Informe Técnico (D.Ac.) N° 832/2026 (03-11, 64 páginas); Sernapesca, solo la resolución (03-11, 36 páginas), sin el informe que ella ordena publicar."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-04 08:31:30",
+    "primeraObservacion": "2026-11-03 08:30:35",
+    "observaciones": 2
+  },
+  {
+    "id": "RES-2026-2569",
+    "rotulo": "Res. Ex. N° 2569-2026",
+    "titulo": "Fija los siguientes polígonos sobre los cuales podrán otorgarse permisos especiales de colecta de semillas al interior del área de colecta otorgada…",
+    "tituloOficial": "Fija polígonos al interior de área destinadas a colecta de semillas en la comuna de Castro, Región de Los Lagos. Abre período de postulación para permisos especiales de colecta que indica",
+    "titularAuto": true,
+    "tema": "Acuicultura",
+    "organo": "Subsecretaría de Pesca y Acuicultura",
+    "relevancia": "rutinario",
+    "resumen": "Fíjanse los siguientes polígonos sobre los cuales podrán otorgarse permisos especiales de colecta de semillas al interior del área de colecta otorgada en destinación en la comuna de Castro, región de Los Lagos, de conformidad con el…",
+    "resumenAuto": true,
+    "primigenia": null,
+    "situacion": null,
+    "dictacion": null,
+    "subpesca": "02-11-2026",
+    "sernapesca": "02-11-2026",
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131392_documento.pdf?ts=1793617405",
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-no2569-fija-poligonos-al-interior-de-areas-destinadas-a-colecta-de-semillas-en-la-comuna-de-castro-region-de-los-lagos-abre-periodo-de-postulacion-para-permisos-especiales-de-colecta-que/",
+    "do": null,
+    "estado": {
+      "clave": "firme",
+      "color": "#1F5E85",
+      "rotulo": "Vigente desde el",
+      "valor": "02-11-2026",
+      "nota": "Fecha de la última publicación del texto íntegro (art. 174 LGPA)."
     },
     "ediciones": [],
-    "ultimaObservacion": "2026-10-30 17:04:28",
+    "ultimaObservacion": "2026-11-02 17:09:46",
+    "primeraObservacion": "2026-11-02 17:03:16",
+    "observaciones": 2
+  },
+  {
+    "id": "RES-2026-2570",
+    "rotulo": "Res. Ex. N° 2570-2026",
+    "titulo": "Extiende hasta el 31 de diciembre de 2026 la temporada extractiva de Magallanes en las reglas de uso del aumento regional de la fracción artesanal de merluza del sur",
+    "tituloOficial": "Extiende hasta el 31 de diciembre de 2026 la temporada extractiva de Magallanes en las reglas de uso del aumento regional de la fracción artesanal de merluza del sur",
+    "titularAuto": false,
+    "tema": "Acceso al recurso y distribución de cuotas",
+    "organo": "Subsecretaría de Pesca y Acuicultura",
+    "relevancia": "destacado",
+    "resumen": null,
+    "resumenAuto": true,
+    "primigenia": null,
+    "situacion": null,
+    "dictacion": null,
+    "subpesca": "02-11-2026",
+    "sernapesca": "02-11-2026",
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131393_documento.pdf?ts=1793617633",
+    "urlSernapesca": "https://www.sernapesca.cl/app/uploads/2026/11/2570-2026.pdf",
+    "do": {
+      "fecha": "2026-11-10",
+      "cve": "2896877",
+      "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/10/44595/01/2896877.pdf",
+      "titulo": "Extracto de resolución exenta número 2.570, de 2026.- Modifica resolución N° 159 exenta, de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
+    },
+    "estado": {
+      "clave": "firme",
+      "color": "#1F5E85",
+      "rotulo": "Vigente desde el",
+      "valor": "02-11-2026",
+      "nota": "Fecha de la última publicación del texto íntegro (art. 174 LGPA)."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-04 08:37:17",
+    "primeraObservacion": "2026-11-02 17:00:49",
+    "observaciones": 3
+  },
+  {
+    "id": "RES-2026-2567",
+    "rotulo": "Res. Ex. N° 2567-2026",
+    "titulo": "Fija los siguientes polígonos sobre los cuales podrán otorgarse permisos especiales de colecta de semillas al interior de las áreas de colecta…",
+    "tituloOficial": "Fija polígonos al interior de área destinadas a colecta de semillas en la comuna de Cochamó, Región de Los Lagos. Abre período de postulación para permisos especiales de colecta que indica",
+    "titularAuto": true,
+    "tema": "Acuicultura",
+    "organo": "Subsecretaría de Pesca y Acuicultura",
+    "relevancia": "rutinario",
+    "resumen": "Fíjanse los siguientes polígonos sobre los cuales podrán otorgarse permisos especiales de colecta de semillas al interior de las áreas de colecta otorgada en destinación en la comuna de Cochamó, región de Los Lagos, de conformidad con el…",
+    "resumenAuto": true,
+    "primigenia": null,
+    "situacion": null,
+    "dictacion": null,
+    "subpesca": "30-10-2026",
+    "sernapesca": "02-11-2026",
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131389_documento.pdf?ts=1793386996",
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-no2567-fija-poligonos-al-interior-de-areas-destinadas-a-colecta-de-semillas-en-la-comuna-de-cochamo-region-de-los-lagos-abre-periodo-de-postulacion-para-permisos-especiales-de-colecta-qu/",
+    "do": null,
+    "estado": {
+      "clave": "firme",
+      "color": "#1F5E85",
+      "rotulo": "Vigente desde el",
+      "valor": "02-11-2026",
+      "nota": "Fecha de la última publicación del texto íntegro (art. 174 LGPA)."
+    },
+    "ediciones": [],
+    "ultimaObservacion": "2026-11-02 17:05:08",
     "primeraObservacion": "2026-10-30 17:04:28",
-    "observaciones": 1
+    "observaciones": 2
   },
   {
     "id": "DEC-2026-194",
     "rotulo": "Dec. Ex. N° 202600194",
-    "titulo": "Suspende la veda biológica del recurso pulpo del norte (Octopus mimus) establecida mediante el artículo 1°, de este Ministerio, en el área marítima…",
-    "tituloOficial": "Suspende Inicio Veda Biológica Para el Recurso Pulpo del Norte, en la Región de Tarapacá y Antofagasta",
-    "titularAuto": true,
+    "titulo": "Suspende entre el 1 y el 7 de noviembre de 2026 la veda biológica del pulpo del norte en Tarapacá y Antofagasta",
+    "tituloOficial": "Suspende entre el 1 y el 7 de noviembre de 2026 la veda biológica del pulpo del norte en Tarapacá y Antofagasta",
+    "titularAuto": false,
     "tema": "Conservación y medidas de administración",
     "organo": "Ministerio de Economía, Fomento y Turismo",
     "relevancia": "destacado",
@@ -45,38 +345,47 @@
     "situacion": null,
     "dictacion": null,
     "subpesca": "30-10-2026",
-    "sernapesca": null,
+    "sernapesca": "02-11-2026",
     "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131388_documento.pdf?ts=1793384558",
-    "urlSernapesca": "https://www.sernapesca.cl/normativas/d-ex-n-dexe202600194-29-10-2026-suspende-inicio-de-veda-biologica-para-el-recurso-pulpo-del-norte-en-la-region-de-tarapaca-y-antofagasta/",
-    "do": null,
-    "estado": {
-      "clave": "pendiente",
-      "color": "#B0186E",
-      "rotulo": "Pendiente de entrada en vigencia",
-      "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/dec-ex-no202600194-suspende-inicio-de-veda-biologica-del-recurso-pulpo-del-norte-en-la-region-de-tarapaca-y-antofagasta/",
+    "do": {
+      "fecha": "2026-11-13",
+      "cve": "2900947",
+      "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/13/44598/01/2900947.pdf",
+      "titulo": "Extracto de decreto exento número 202600194, de 2026.- Suspende veda biológica para el recurso Pulpo del norte en área marítima que indica",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
-    "ediciones": [],
-    "ultimaObservacion": "2026-11-02 08:27:22",
+    "estado": {
+      "clave": "firme",
+      "color": "#1F5E85",
+      "rotulo": "Vigente desde el",
+      "valor": "02-11-2026",
+      "nota": "Fecha de la última publicación del texto íntegro (art. 174 LGPA)."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-02 17:07:30",
     "primeraObservacion": "2026-10-30 17:04:16",
-    "observaciones": 2
+    "observaciones": 3
   },
   {
     "id": "RES-2026-2562",
     "rotulo": "Res. Ex. N° 2562-2026",
-    "titulo": "Modifica distribución cuota de los recursos Huiro Negro: reemplaza la tabla correspondiente a la distribución de la cuota anual de captura del recurso huiro p alo…",
-    "tituloOficial": "Modifica Res. Ex. 2964-2025 Establece Distribución Cuota de los Recursos Huiro Negro, Huiro Palo y Huiro Flotador, en la Región de Atacama, para la Temporada Extractiva y de Recolección, Año 2026",
-    "titularAuto": true,
+    "titulo": "Modifica la distribución 2026 de la cuota de huiro palo en Atacama por provincia y trimestre",
+    "tituloOficial": "Modifica la distribución 2026 de la cuota de huiro palo en Atacama por provincia y trimestre",
+    "titularAuto": false,
     "tema": "Acceso al recurso y distribución de cuotas",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "destacado",
-    "resumen": "Modifícase el N° 1 de la Resolución Exenta N° 2964 de 2025 , de esta Subsecretaría , en el sentido de reemplazar la tabla correspondiente a la distribución de la cuota anual de captura del recurso huiro p alo en la Región de Atacama, año…",
-    "resumenAuto": true,
+    "resumen": "Modifica el N° 1 de la Res. Ex. N° 2964/2025: reemplaza la tabla de distribución de la cuota 2026 de huiro palo en Atacama por provincia (Chañaral, Copiapó, Huasco) y trimestre; total 14.419 toneladas.",
+    "resumenAuto": false,
     "primigenia": {
       "id": "RES-2025-2964",
       "rotulo": "Res. Ex. N° 2964/2025",
-      "cita": "Res. Ex. 2964-2025",
-      "origen": "titulo",
+      "cita": "Resolución Exenta N° 2964 de 2025",
+      "origen": "resolutivo",
       "titulo": "Establece distribución cuota de los recursos Huiro Negro, Huiro Palo y Huiro Flotador en la región de Atacama para la temporada extractiva y de recolección, año 2026…",
       "enlace": "https://www.sernapesca.cl/normativas/res-ex-n-2964-26-12-2025-establece-distribucion-cuota-de-los-recursos-huiro-negro-huiro-palo-y-huiro-flotador-en-la-region-de-atacama-para-la-temporada-extractiva-y-de-recoleccion-ano-202/",
       "fuente": "sernapesca.cl",
@@ -94,9 +403,11 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
-    "ediciones": [],
+    "ediciones": [
+      "I-3"
+    ],
     "ultimaObservacion": "2026-10-30 17:04:07",
     "primeraObservacion": "2026-10-30 17:04:07",
     "observaciones": 1
@@ -104,23 +415,15 @@
   {
     "id": "RES-2026-2560",
     "rotulo": "Res. Ex. N° 2560-2026",
-    "titulo": "Modifica distribución de la fracción artesanal de pesquería de anchoveta: reemplaza la distribución de Los Ríos",
-    "tituloOficial": "Modifica Res. Ex. 2955-2025 Establece Distribución Histórica de la Fracción Artesanal de Congrio Dorado Regiones Valparaíso-Los Ríos, Año 2026",
-    "titularAuto": true,
+    "titulo": "Modifica la distribución histórica de la fracción artesanal de congrio dorado, Valparaíso a Los Ríos, 2026: reemplaza la distribución de Los Ríos",
+    "tituloOficial": "Modifica la distribución histórica de la fracción artesanal de congrio dorado, Valparaíso a Los Ríos, 2026: reemplaza la distribución de Los Ríos",
+    "titularAuto": false,
     "tema": "Acceso al recurso y distribución de cuotas",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "destacado",
-    "resumen": "Modifíquese la Resolución Exenta N° 2955 de 2025, de esta Subsecretaría, que estableció la distribución histórica de la fracción artesanal de la cuota global de captura, año 2026, de la p esquería artesanal de Congrio dorado (Genypterus…",
+    "resumen": "Modifíquese la Resolución Exenta N° 2955 de 2025, de esta Subsecretaría, que estableció la distribución histórica de la fracción artesanal de la cuota global de captura, año 2026, de la pesquería artesanal de Congrio dorado (Genypterus…",
     "resumenAuto": true,
-    "primigenia": {
-      "id": "RES-2025-2955",
-      "rotulo": "Res. Ex. N° 2955/2025",
-      "cita": "Res. Ex. 2955-2025",
-      "origen": "titulo",
-      "titulo": "Distribución de la fracción artesanal de pesquería de anchoveta, sardina común en la región de los ríos, año 2025…",
-      "enlace": "https://www.bcn.cl/leychile/navegar?idNorma=1210012",
-      "fuente": "leychile.cl"
-    },
+    "primigenia": null,
     "situacion": null,
     "dictacion": null,
     "subpesca": "30-10-2026",
@@ -133,9 +436,11 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
-    "ediciones": [],
+    "ediciones": [
+      "I-3"
+    ],
     "ultimaObservacion": "2026-10-30 17:02:36",
     "primeraObservacion": "2026-10-30 17:02:36",
     "observaciones": 1
@@ -149,71 +454,81 @@
     "tema": "Otras materias",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "destacado",
-    "resumen": "Extiéndase hasta el 30 de junio de 202 7, la declaratoria de área de plaga y riesgo de plaga de algas epifitas filamentosas tipo Rhizoclonium spp., establecida por Resolución N° 2424 de 2024, de esta Subsecretaría, en los términos…",
+    "resumen": "Extiéndase hasta el 30 de junio de 2027, la declaratoria de área de plaga y riesgo de plaga de algas epifitas filamentosas tipo Rhizoclonium spp., establecida por Resolución N° 2424 de 2024, de esta Subsecretaría, en los términos indicados…",
     "resumenAuto": true,
     "primigenia": {
       "id": "RES-2024-2424",
       "rotulo": "Res. Ex. N° 2424/2024",
       "cita": "Res. Ex. N° 2424-2024",
       "origen": "titulo",
-      "titulo": "Renueva declaración de área de plaga de algas epífitas filamentosas tipo rhizoclonium spp en cuerpos de agua que senala",
+      "titulo": "Renueva declaración de área de plaga de algas epífitas filamentosas tipo rhizoclonium spp en cuerpos de agua que señala",
       "enlace": "https://www.sernapesca.cl/normativas/res-ex-n-2424-29-10-2024-renueva-declaracion-de-area-de-plaga-de-algas-epifitas-filamentosas-tipo-rhizoclonium-spp-en-cuerpos-de-agua-que-senala/",
       "fuente": "sernapesca.cl"
     },
     "situacion": null,
-    "dictacion": null,
+    "dictacion": "28-10-2026",
     "subpesca": "28-10-2026",
-    "sernapesca": null,
+    "sernapesca": "13-11-2026",
     "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131370_documento.pdf?ts=1793214230",
-    "urlSernapesca": null,
-    "do": null,
-    "estado": {
-      "clave": "pendiente",
-      "color": "#B0186E",
-      "rotulo": "Pendiente de entrada en vigencia",
-      "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 28-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-n-2555-28-10-2026-modifica-resolucion-que-renueva-declaracion-de-area-de-plaga-de-algas-epifitas-filamentosas-tipo-rhizoclonium-spp-en-cuerpo-de-agua-que-senala/",
+    "do": {
+      "fecha": "2026-11-05",
+      "cve": "2895959",
+      "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/05/44591/01/2895959.pdf",
+      "titulo": "Extracto de resolución exenta número 2.555, de 2026.- Modifica resolución que renueva declaración de área de plaga que indica",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
-    "ediciones": [],
-    "ultimaObservacion": "2026-10-29 08:31:51",
+    "estado": {
+      "clave": "firme",
+      "color": "#1F5E85",
+      "rotulo": "Vigente desde el",
+      "valor": "13-11-2026",
+      "nota": "Fecha de la última publicación del texto íntegro (art. 174 LGPA)."
+    },
+    "ediciones": [
+      "I-3"
+    ],
+    "ultimaObservacion": "2026-11-13 17:02:35",
     "primeraObservacion": "2026-10-29 08:31:51",
-    "observaciones": 1
+    "observaciones": 2
   },
   {
     "id": "RES-2026-2542",
     "rotulo": "Res. Ex. N° 2542-2026",
-    "titulo": "Modifica nómina nacional actualizada de pesquerías artesanales: reemplaza los nombres científicos de las especies",
-    "tituloOficial": "Modifica Res. Ex. N° 2019-2025 de esta Subsecretaría",
-    "titularAuto": true,
+    "titulo": "Nómina nacional de pesquerías artesanales: actualiza nombres científicos y elimina pesquerías con trampa",
+    "tituloOficial": "Nómina nacional de pesquerías artesanales: actualiza nombres científicos y elimina pesquerías con trampa",
+    "titularAuto": false,
     "tema": "Acceso al recurso y distribución de cuotas",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "destacado",
-    "resumen": "Modifíquese el numeral 1° de la Resolución Exenta N° 2019 de 2025, de esta Subsecretaría, y sus modificaciones, que estableció la nómina nacional actualizada de pesquerías y las especies que la constituyen por región, el respectivo arte o…",
-    "resumenAuto": true,
-    "primigenia": {
-      "id": "RES-2025-2019",
-      "rotulo": "Res. Ex. N° 2019/2025",
-      "cita": "Res. Ex. N° 2019-2025",
-      "origen": "titulo",
-      "titulo": "Fija nómina nacional actualizada de pesquerías artesanales de conformidad cn lo dispuesto en el artículo 50 de la ley general de pesca y acuicultura",
-      "enlace": "https://www.sernapesca.cl/normativas/res-ex-n-2019-20-08-2025-fija-nomina-nacional-actualizada-de-pesquerias-artesanales-de-conformidad-cn-lo-dispuesto-en-el-articulo-50-de-la-ley-general-de-pesca-y-acuicultura/",
-      "fuente": "sernapesca.cl"
-    },
+    "resumen": "Modifica la Res. Ex. N° 2019/2025: a) reemplaza los nombres científicos del langostino amarillo (Grimothea johni) y del langostino colorado (Grimothea monodon); b) elimina las pesquerías con trampa de camarón nailon (Antofagasta a Biobío), langostino amarillo (Atacama y Coquimbo) y langostino colorado (Arica y Parinacota a Coquimbo).",
+    "resumenAuto": false,
+    "primigenia": null,
     "situacion": null,
     "dictacion": null,
     "subpesca": "28-10-2026",
     "sernapesca": null,
     "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131369_documento.pdf?ts=1793214072",
     "urlSernapesca": null,
-    "do": null,
+    "do": {
+      "fecha": "2026-11-06",
+      "cve": "2894997",
+      "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/06/44592/01/2894997.pdf",
+      "titulo": "Extracto de resolución exenta número 2.542, de 2026.- Modifica resolución N° 2.019 exenta, de 2025",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
+    },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 28-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 28-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
-    "ediciones": [],
+    "ediciones": [
+      "I-3"
+    ],
     "ultimaObservacion": "2026-10-29 08:31:41",
     "primeraObservacion": "2026-10-29 08:31:41",
     "observaciones": 1
@@ -242,7 +557,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 13-10-2026. Al 02-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 13-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -275,7 +590,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 24-09-2026. Al 02-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 24-09-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -316,7 +631,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 16-04-2026. Al 02-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 16-04-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-23 17:01:41",
@@ -345,14 +660,16 @@
       "fecha": "2026-06-13",
       "cve": "2823548",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/06/13/44474/01/2823548.pdf",
-      "titulo": "Extracto de resolución exenta número DN-00980/2026, de 2026.- Aprueba Programa Sanitario Específico de Vigilancia y Control de Piscirickettsiosis y deja sin efecto resolución N° 3.174 exenta, de 2012, y resolución N° 1.688 exenta, de 2013"
+      "titulo": "Extracto de resolución exenta número DN-00980/2026, de 2026.- Aprueba Programa Sanitario Específico de Vigilancia y Control de Piscirickettsiosis y deja sin efecto resolución N° 3.174 exenta, de 2012, y resolución N° 1.688 exenta, de 2013",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 14-04-2026. Al 02-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 14-04-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-23 17:01:20",
@@ -383,7 +700,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 20-08-2026. Al 02-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 20-08-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-23 17:01:11",
@@ -417,14 +734,16 @@
       "fecha": "2026-10-30",
       "cve": "2892382",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/30/44587/01/2892382.pdf",
-      "titulo": "Extracto de resolución exenta número 2.505, de 2026.- Modifica resolución N° 6 exenta, de 2019"
+      "titulo": "Extracto de resolución exenta número 2.505, de 2026.- Modifica resolución N° 6 exenta, de 2019",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 22-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 22-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -464,14 +783,16 @@
       "fecha": "2026-10-30",
       "cve": "2892381",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/30/44587/01/2892381.pdf",
-      "titulo": "Extracto de resolución exenta número 2.507, de 2026.- Modifica distribución cuota del recurso Huiro flotador en Bahía Chasco, Región de Atacama, Temporada Extractiva y de Recolección Año 2026"
+      "titulo": "Extracto de resolución exenta número 2.507, de 2026.- Modifica distribución cuota del recurso Huiro flotador en Bahía Chasco, Región de Atacama, Temporada Extractiva y de Recolección Año 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 22-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 22-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -510,14 +831,16 @@
       "fecha": "2026-10-27",
       "cve": "2888063",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/27/44584/01/2888063.pdf",
-      "titulo": "Extracto de resolución exenta número 2.458, de 2026.- Modifica resolución Nº 2.019 exenta, de 2025"
+      "titulo": "Extracto de resolución exenta número 2.458, de 2026.- Modifica resolución Nº 2.019 exenta, de 2025",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 16-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 16-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -553,14 +876,16 @@
       "fecha": "2026-10-15",
       "cve": "2884902",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/15/44574/01/2884902.pdf",
-      "titulo": "Extracto de decreto exento número 202600181, de 2026.- Renueva veda extractiva de especies ícticas nativas en aguas terrestres por periodo que indica"
+      "titulo": "Extracto de decreto exento número 202600181, de 2026.- Renueva veda extractiva de especies ícticas nativas en aguas terrestres por periodo que indica",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 13-10-2026. Al 02-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 13-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -570,13 +895,13 @@
     "observaciones": 1
   },
   {
-    "id": "SINID-8a9aa6be",
-    "rotulo": "Res. Ex. N° 3047-2026",
+    "id": "RES-2026-3047",
+    "rotulo": "Res. Ex. N° DN-3047/2026",
     "titulo": "Modifica en conformidad a lo considerativo del presente acto: modificación de Descansos ACS Período original Período modificado 31 A Febrero – Abril 2027 Noviembre 2026…",
     "tituloOficial": "Modifica descanso sanitario acs 31a y 56",
     "titularAuto": true,
     "tema": "Acuicultura",
-    "organo": null,
+    "organo": "Servicio Nacional de Pesca y Acuicultura",
     "relevancia": "rutinario",
     "resumen": "Modifícase en conformidad a lo considerativo del presente acto, el siguiente período de descanso sanitario coordinado, para la ACS N° 31 A y para la ACS N° 56, conforme lo siguiente: Modificación de Descansos ACS Período original Período…",
     "resumenAuto": true,
@@ -584,16 +909,23 @@
     "situacion": null,
     "dictacion": null,
     "subpesca": null,
-    "sernapesca": null,
+    "sernapesca": "08-10-2026",
     "urlSubpesca": null,
     "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-3047-2026-modifica-descanso-sanitario-acs-31a-y-56/",
-    "do": null,
+    "do": {
+      "fecha": "2026-11-04",
+      "cve": "2893163",
+      "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/04/44590/01/2893163.pdf",
+      "titulo": "Extracto de resolución exenta número DN-3.047, de 2026.- Modifica descansos sanitarios que indica",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
+    },
     "estado": {
-      "clave": "sin",
-      "color": "#5B6B78",
+      "clave": "pendiente",
+      "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
-      "valor": "Sin publicación íntegra",
-      "nota": "Aún no consta la publicación del texto íntegro en ninguno de los dos sitios."
+      "valor": "No consta en Subpesca",
+      "nota": "Publicado en el sitio de Sernapesca el 08-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-08 17:01:53",
@@ -601,13 +933,13 @@
     "observaciones": 1
   },
   {
-    "id": "SINID-5025515c",
-    "rotulo": "Res. Ex. N° 3045-2026",
+    "id": "RES-2026-3045",
+    "rotulo": "Res. Ex. N° DN-3045/2026",
     "titulo": "Modifica en conformidad a lo considerativo del presente acto: modificación de Descansos ACS Período original Período modificado 43 B Junio - Agosto 2027 Julio…",
     "tituloOficial": "Modifica descanso sanitario acs 43b",
     "titularAuto": true,
     "tema": "Acuicultura",
-    "organo": null,
+    "organo": "Servicio Nacional de Pesca y Acuicultura",
     "relevancia": "rutinario",
     "resumen": "Modifícase en conformidad a lo considerativo del presente acto, el siguiente período de descanso sanitario coordinado, para la ACS N° 43 B, conforme lo siguiente: Modificación de Descansos ACS Período original Período modificado 43 B Junio…",
     "resumenAuto": true,
@@ -615,16 +947,23 @@
     "situacion": null,
     "dictacion": null,
     "subpesca": null,
-    "sernapesca": null,
+    "sernapesca": "08-10-2026",
     "urlSubpesca": null,
     "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-3045-2026-modifica-descanso-sanitario-acs-43b/",
-    "do": null,
+    "do": {
+      "fecha": "2026-11-04",
+      "cve": "2893162",
+      "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/04/44590/01/2893162.pdf",
+      "titulo": "Extracto de resolución exenta número DN-3.045-2026, de 2026.- Modifica descansos sanitarios que indica",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
+    },
     "estado": {
-      "clave": "sin",
-      "color": "#5B6B78",
+      "clave": "pendiente",
+      "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
-      "valor": "Sin publicación íntegra",
-      "nota": "Aún no consta la publicación del texto íntegro en ninguno de los dos sitios."
+      "valor": "No consta en Subpesca",
+      "nota": "Publicado en el sitio de Sernapesca el 08-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-08 17:00:30",
@@ -653,7 +992,9 @@
       "fecha": "2026-08-29",
       "cve": "2859605",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/08/29/44537/01/2859605.pdf",
-      "titulo": "Extracto de resolución exenta número DN-2.422, de 2026.- Modifica Programa Sanitario Específico de Vigilancia y Control de Piscirickettsiosis"
+      "titulo": "Extracto de resolución exenta número DN-2.422, de 2026.- Modifica Programa Sanitario Específico de Vigilancia y Control de Piscirickettsiosis",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -699,7 +1040,9 @@
       "fecha": "2026-08-29",
       "cve": "2859606",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/08/29/44537/01/2859606.pdf",
-      "titulo": "Extracto de resolución exenta número DN-2.385, de 2026.- Modifica Programa Sanitario Específico de Vigilancia y Control de la Caligidosis"
+      "titulo": "Extracto de resolución exenta número DN-2.385, de 2026.- Modifica Programa Sanitario Específico de Vigilancia y Control de la Caligidosis",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -745,7 +1088,9 @@
       "fecha": "2026-08-20",
       "cve": "2856574",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/08/20/44529/01/2856574.pdf",
-      "titulo": "Extracto de resolución exenta número DN-2.328, de 2026.- Modifica Programa Sanitario Específico de Vigilancia y Control de la Anemia Infecciosa del Salmón"
+      "titulo": "Extracto de resolución exenta número DN-2.328, de 2026.- Modifica Programa Sanitario Específico de Vigilancia y Control de la Anemia Infecciosa del Salmón",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -788,14 +1133,16 @@
       "fecha": "2026-10-19",
       "cve": "2884625",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/19/44577/01/2884625.pdf",
-      "titulo": "Extracto de resolución exenta número 2.383, de 2026.- Modifica resolución Nº 2.746 exenta, de 2016"
+      "titulo": "Extracto de resolución exenta número 2.383, de 2026.- Modifica resolución Nº 2.746 exenta, de 2016",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 05-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 05-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -834,14 +1181,16 @@
       "fecha": "2026-10-13",
       "cve": "2882732",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/13/44572/01/2882732.pdf",
-      "titulo": "Extracto de resolución exenta número 2.381, de 2026.- Modifica resolución N° 2.379 exenta, de 2025"
+      "titulo": "Extracto de resolución exenta número 2.381, de 2026.- Modifica resolución N° 2.379 exenta, de 2025",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 05-10-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 05-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -912,7 +1261,9 @@
       "fecha": "2026-10-08",
       "cve": "2882189",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/08/44569/01/2882189.pdf",
-      "titulo": "Extracto de decreto exento número 202600166, de 2026.- Suspende veda biológica para el recurso Cholga en área marítima que indica"
+      "titulo": "Extracto de decreto exento número 202600166, de 2026.- Suspende veda biológica para el recurso Cholga en área marítima que indica",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -955,14 +1306,16 @@
       "fecha": "2026-10-13",
       "cve": "2882481",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/13/44572/01/2882481.pdf",
-      "titulo": "Extracto de resolución exenta número 2.881, de 2026.- Modifica resolución Nº 1.597 exenta, de 2021"
+      "titulo": "Extracto de resolución exenta número 2.881, de 2026.- Modifica resolución Nº 1.597 exenta, de 2021",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 02-10-2026. Al 02-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 02-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -974,7 +1327,7 @@
   {
     "id": "DEC-2026-173",
     "rotulo": "Dec. Ex. N° 202600173",
-    "titulo": "Modifica cuota anual de captura para los recursos huiro negro huiro palo y huiro flotador en el sector de bahía chasco ano",
+    "titulo": "Modifica cuota anual de captura para los recursos huiro negro huiro palo y huiro flotador en el sector de bahía chasco año",
     "tituloOficial": "Modifica Dec. Ex. Folio 202500254 Establece Cuota Anual de Captura para los Recursos Huiro negro, Huiro palo y Huiro Flotador en la Región de Atacama y Huiro Flotador en el Sector Bahía Chasco, año 2026",
     "titularAuto": true,
     "tema": "Conservación y medidas de administración",
@@ -987,7 +1340,7 @@
       "rotulo": "Dec. Ex. Folio 202500254",
       "cita": "Dec. Ex. Folio 202500254",
       "origen": "titulo",
-      "titulo": "Establece cuota anual de captura para los recursos huiro negro huiro palo y huiro flotador en el sector de bahía chasco ano 2026…",
+      "titulo": "Establece cuota anual de captura para los recursos huiro negro huiro palo y huiro flotador en el sector de bahía chasco año 2026…",
       "enlace": "https://www.sernapesca.cl/normativas/d-ex-n-202500254-11-12-2025-establece-cuota-anual-de-captura-para-los-recursos-huiro-negro-huiro-palo-y-huiro-flotador-en-el-sector-de-bahia-chasco-ano-2026/",
       "fuente": "sernapesca.cl"
     },
@@ -1001,7 +1354,9 @@
       "fecha": "2026-10-08",
       "cve": "2882190",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/08/44569/01/2882190.pdf",
-      "titulo": "Extracto de decreto exento número 202600173, de 2026.- Modifica decreto exento folio DEXE202500254 de 2025"
+      "titulo": "Extracto de decreto exento número 202600173, de 2026.- Modifica decreto exento folio DEXE202500254 de 2025",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -1039,14 +1394,16 @@
       "fecha": "2026-10-07",
       "cve": "2879517",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/07/44568/01/2879517.pdf",
-      "titulo": "Extracto de resolución exenta número 2.303, de 2026.- Establece período para los efectos previstos en el artículo 14 del decreto Nº 296, de 2004"
+      "titulo": "Extracto de resolución exenta número 2.303, de 2026.- Establece período para los efectos previstos en el artículo 14 del decreto Nº 296, de 2004",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 28-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 28-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -1143,7 +1500,9 @@
       "fecha": "2026-09-29",
       "cve": "2877849",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/09/29/44561/01/2877849.pdf",
-      "titulo": "Extracto de resolución exenta número 2.251, de 2026.- Inicia proceso de renovación Comité de Manejo de Bacalao de Profundidad UPL"
+      "titulo": "Extracto de resolución exenta número 2.251, de 2026.- Inicia proceso de renovación Comité de Manejo de Bacalao de Profundidad UPL",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -1181,7 +1540,9 @@
       "fecha": "2026-10-05",
       "cve": "2877581",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/05/44566/01/2877581.pdf",
-      "titulo": "Extracto de resolución exenta número 2.784, de 2026.- Establece procedimiento de acreditación de origen legal del recurso Jurel"
+      "titulo": "Extracto de resolución exenta número 2.784, de 2026.- Establece procedimiento de acreditación de origen legal del recurso Jurel",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -1219,7 +1580,9 @@
       "fecha": "2026-09-30",
       "cve": "2876377",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876377.pdf",
-      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena"
+      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -1255,14 +1618,16 @@
       "fecha": "2026-09-30",
       "cve": "2876377",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876377.pdf",
-      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena"
+      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:51",
@@ -1291,14 +1656,16 @@
       "fecha": "2026-09-30",
       "cve": "2876377",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876377.pdf",
-      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena"
+      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:48",
@@ -1327,7 +1694,9 @@
       "fecha": "2026-09-30",
       "cve": "2876377",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876377.pdf",
-      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena"
+      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -1363,14 +1732,16 @@
       "fecha": "2026-09-30",
       "cve": "2876377",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876377.pdf",
-      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena"
+      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:41",
@@ -1399,14 +1770,16 @@
       "fecha": "2026-09-30",
       "cve": "2876377",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876377.pdf",
-      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena"
+      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:38",
@@ -1446,7 +1819,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-1"
@@ -1477,14 +1850,16 @@
       "fecha": "2026-09-30",
       "cve": "2876377",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876377.pdf",
-      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena"
+      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:32",
@@ -1513,14 +1888,16 @@
       "fecha": "2026-09-30",
       "cve": "2876476",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876476.pdf",
-      "titulo": "Extracto de resolución exenta número 2.220, de 2026.- Modifica anualidad para titulares de licencias transables de pesca Clase B"
+      "titulo": "Extracto de resolución exenta número 2.220, de 2026.- Modifica anualidad para titulares de licencias transables de pesca Clase B",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-1"
@@ -1551,14 +1928,16 @@
       "fecha": "2026-09-30",
       "cve": "2876456",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876456.pdf",
-      "titulo": "Extracto de resolución exenta número 2.213, de 2026.- Modifica anualidad para titulares de licencias transables de pesca Clase B"
+      "titulo": "Extracto de resolución exenta número 2.213, de 2026.- Modifica anualidad para titulares de licencias transables de pesca Clase B",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-1"
@@ -1597,14 +1976,16 @@
       "fecha": "2026-10-07",
       "cve": "2879178",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/10/07/44568/01/2879178.pdf",
-      "titulo": "Extracto de resolución exenta número 2.212, de 2026.- Modifica resolución Nº 3.120 exenta, de 2021"
+      "titulo": "Extracto de resolución exenta número 2.212, de 2026.- Modifica resolución Nº 3.120 exenta, de 2021",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -1635,7 +2016,9 @@
       "fecha": "2026-09-30",
       "cve": "2876377",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876377.pdf",
-      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena"
+      "titulo": "Extracto de resolución exenta números 2.214, 2.215, 2.216, 2.217, 2.218, 2.221, 2.222 y 2.223, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 43A, 44, 45, 47B, 51A, 51B, 51C y 54A, todas de la Región de Magallanes y de la Antártica Chilena",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -1676,7 +2059,9 @@
       "fecha": "2026-09-22",
       "cve": "2872828",
       "pdf": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/09/22/44555/01/2872828.pdf",
-      "titulo": "Extracto de resolución exenta número 2.202, de 2026.- Establece periodo para los efectos previstos en el artículo 14 del decreto N° 296, de 2004"
+      "titulo": "Extracto de resolución exenta número 2.202, de 2026.- Establece periodo para los efectos previstos en el artículo 14 del decreto N° 296, de 2004",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "firme",
@@ -1701,7 +2086,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 12B , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 12B , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -1714,14 +2099,16 @@
       "fecha": "2026-09-30",
       "cve": "2876378",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876378.pdf",
-      "titulo": "Extracto de resolución exenta números 2.064, 2.105, 2.179, 2.183 y 2.185, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 9B, 10A, 10B, 12B y 17A, todas de la Región de Los Lagos"
+      "titulo": "Extracto de resolución exenta números 2.064, 2.105, 2.179, 2.183 y 2.185, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 9B, 10A, 10B, 12B y 17A, todas de la Región de Los Lagos",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:28:19",
@@ -1737,7 +2124,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 10B , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 10B , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -1750,14 +2137,16 @@
       "fecha": "2026-09-30",
       "cve": "2876378",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876378.pdf",
-      "titulo": "Extracto de resolución exenta números 2.064, 2.105, 2.179, 2.183 y 2.185, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 9B, 10A, 10B, 12B y 17A, todas de la Región de Los Lagos"
+      "titulo": "Extracto de resolución exenta números 2.064, 2.105, 2.179, 2.183 y 2.185, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 9B, 10A, 10B, 12B y 17A, todas de la Región de Los Lagos",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:28:09",
@@ -1773,7 +2162,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 19A , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 19A , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -1786,14 +2175,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:59",
@@ -1809,7 +2200,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 22C , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 22C , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -1822,14 +2213,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:56",
@@ -1845,7 +2238,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 2 3 C , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 2 3 C , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -1858,14 +2251,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:53",
@@ -1899,14 +2294,16 @@
       "fecha": "2026-09-22",
       "cve": "2872825",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/22/44555/02/2872825.pdf",
-      "titulo": "Extracto de resolución exenta número 2.199, de 2026.- Modifica resolución Nº 3.000 exenta de 2025"
+      "titulo": "Extracto de resolución exenta número 2.199, de 2026.- Modifica resolución Nº 3.000 exenta de 2025",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-1"
@@ -1924,7 +2321,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 29 , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 29 , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -1937,14 +2334,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:47",
@@ -1960,7 +2359,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 21B , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 21B , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -1973,14 +2372,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:43",
@@ -1996,7 +2397,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 31B , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 31B , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -2009,14 +2410,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:39",
@@ -2032,7 +2435,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 28B - 1 , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 28B - 1 , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -2045,14 +2448,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:34",
@@ -2068,7 +2473,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 1 8 B , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 1 8 B , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -2081,14 +2486,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:24",
@@ -2104,7 +2511,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 28C , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 28C , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -2117,14 +2524,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:15",
@@ -2140,7 +2549,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 22B , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 22B , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -2153,14 +2562,16 @@
       "fecha": "2026-09-30",
       "cve": "2876379",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876379.pdf",
-      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026"
+      "titulo": "Extracto de resolución exenta números 1.796, 2.010, 2.180, 2.186, 2.187, 2.188, 2.189, 2.190, 2.191, 2.192, 2.193 y 2.194, todas de 2026",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:07",
@@ -2176,7 +2587,7 @@
     "tema": "Acuicultura",
     "organo": "Subsecretaría de Pesca y Acuicultura",
     "relevancia": "rutinario",
-    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 9B , establecida en la Resolución Exenta N° 2384 de 202 5 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
+    "resumen": "Fíjase las siguientes densidades de cultivo por especie para la agrupación de concesiones 9B , establecida en la Resolución Exenta N° 2384 de 2025 , de esta Subsecretaría, o la resolución que la reemplace: ESPECIE DENSIDAD Salmón del…",
     "resumenAuto": true,
     "primigenia": null,
     "situacion": null,
@@ -2189,14 +2600,16 @@
       "fecha": "2026-09-30",
       "cve": "2876378",
       "pdf": "http://www.diariooficial.interior.gob.cl/publicaciones/2026/09/30/44562/02/2876378.pdf",
-      "titulo": "Extracto de resolución exenta números 2.064, 2.105, 2.179, 2.183 y 2.185, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 9B, 10A, 10B, 12B y 17A, todas de la Región de Los Lagos"
+      "titulo": "Extracto de resolución exenta números 2.064, 2.105, 2.179, 2.183 y 2.185, todas de 2026.- Fijan densidad de cultivo para las agrupaciones de concesiones de salmónidos 9B, 10A, 10B, 12B y 17A, todas de la Región de Los Lagos",
+      "rotulo": "Extracto en el Diario Oficial",
+      "textoIntegroDO": false
     },
     "estado": {
       "clave": "pendiente",
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:26:56",
@@ -2205,12 +2618,12 @@
   },
   {
     "id": "RES-2026-2144",
-    "rotulo": "Res. Ex. N° 2144",
+    "rotulo": "Res. Ex. N° DN-2144/2026",
     "titulo": "Fijaron para el ano 2026 las cuotas globales de captura para pesqueria de recursos que indica",
     "tituloOficial": "Fijaron para el ano 2026 las cuotas globales de captura para pesqueria de recursos que indica",
     "titularAuto": false,
     "tema": "Acceso al recurso y distribución de cuotas",
-    "organo": null,
+    "organo": "Servicio Nacional de Pesca y Acuicultura",
     "relevancia": "destacado",
     "resumen": "Modif i case los resuelvo 1° de las Resoluciones Exentas N° 3.053 y N° 3.054 , ambas de 20 2 5 y de esta Subsecretaría, en el sentido de r establecer la s toneladas de los Titulares de Licencias Transables de Pesca Clase s A y Clase B…",
     "resumenAuto": true,
@@ -2218,22 +2631,22 @@
     "situacion": null,
     "dictacion": "04-09-2026",
     "subpesca": "07-09-2026",
-    "sernapesca": null,
+    "sernapesca": "08-09-2026",
     "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-130951_documento.pdf?ts=1788782084",
-    "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-n-2144-04-09-2026-fijaron-para-el-ano-2026-las-cuotas-globales-de-captura-para-pesqueria-de-recursos-que-indica/",
+    "urlSernapesca": "https://www.sernapesca.cl/app/uploads/2026/09/2144-2026.pdf",
     "do": null,
     "estado": {
-      "clave": "pendiente",
-      "color": "#B0186E",
-      "rotulo": "Pendiente de entrada en vigencia",
-      "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 07-09-2026. Al 02-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "clave": "firme",
+      "color": "#1F5E85",
+      "rotulo": "Vigente desde el",
+      "valor": "08-09-2026",
+      "nota": "Fecha de la última publicación del texto íntegro (art. 174 LGPA)."
     },
     "ediciones": [
       "I-1"
     ],
-    "ultimaObservacion": "2026-09-08 18:01:16",
+    "ultimaObservacion": "2026-11-04 08:37:17",
     "primeraObservacion": "2026-09-08 18:01:16",
-    "observaciones": 1
+    "observaciones": 2
   }
 ]

@@ -1,0 +1,30 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-06 14:17:44
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 258731AC745747341E7B9E80803527491BB45E732F8CD24C9EE022828C82AC1B
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica 
+Fecha del acto   : 
+Materia          : res ex ne 2026 605 autoriza a juan carlos navarro moena para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-605-autoriza-a-juan-carlos-navarro-moena-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-06T15:47:17+00:00
+Observado (Chile): 2026-11-06 14:18:32
+SHA-256 HTML     : 69DF9A668B4025FE86770F41AD2233A819092603243B1133FC7915F63DFB7981
+SHA-256 PDF      : 52B14E6A74C0F78465B02C14DFB010B26BB6D755EBB5EF2585C1BA757662D961
+Archivo web      : https://web.archive.org/web/20261106173019/https://www.sernapesca.cl/normativas/res-ex-ne-2026-605-autoriza-a-juan-carlos-navarro-moena-para-realizar-pesca-de-investigacion-que-indica/
+----------------------------------------
+Tipo/Numero      : otro 
+Fecha del acto   : 
+Materia          : res ex n2604 declara area de plaga de caprella mutica en sectores maritimos que senala
+URL              : https://www.sernapesca.cl/normativas/res-ex-n2604-declara-area-de-plaga-de-caprella-mutica-en-sectores-maritimos-que-senala/
+lastmod del sitio: 2026-11-06T15:45:32+00:00
+Observado (Chile): 2026-11-06 14:30:42
+SHA-256 HTML     : 1FDF41F0B2A9ECBEF7B42198A8928B9A061009AC1B781DA655B1070E285B770F
+SHA-256 PDF      : 706C0345DB8CC1B96016A8540256DDC991AEE481A7AACAC756B9570D907F6B9E
+Archivo web      : https://web.archive.org/web/20261106173114/https://www.sernapesca.cl/normativas/res-ex-n2604-declara-area-de-plaga-de-caprella-mutica-en-sectores-maritimos-que-senala/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): FA39AECA17831D909781916704F4701D3E3B4567DB01334AE111FA87CC6C59A8
