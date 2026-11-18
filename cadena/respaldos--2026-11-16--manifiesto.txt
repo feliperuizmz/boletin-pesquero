@@ -1,0 +1,20 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-16 17:29:23
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 5DED4D4887BF5A424076B7C2E401E0A6B5FB271DFB20BE1C1D4CE83F39CD9EE4
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. 56
+Fecha del acto   : 13-11-2026
+Materia          : establece procedimiento para la certificacion del desembarque de productos pesqueros provenientes de krill transbordados en altamar
+URL              : https://www.sernapesca.cl/normativas/res-ex-n-56-13-11-2026-establece-procedimiento-para-la-certificacion-del-desembarque-de-productos-pesqueros-provenientes-de-krill-transbordados-en-altamar/
+lastmod del sitio: 2026-11-16T14:27:54+00:00
+Observado (Chile): 2026-11-16 17:29:57
+SHA-256 HTML     : D2FF488490EC48ED44DBB2A369C6E1B237B760D2A04F02BC94430A461C39F06E
+SHA-256 PDF      : B7D031F4B171C07A6BC1C3D8C43C39DDF40D58F424523324D2470A435375D5A5
+Archivo web      : https://web.archive.org/web/20261116203016/https://www.sernapesca.cl/normativas/res-ex-n-56-13-11-2026-establece-procedimiento-para-la-certificacion-del-desembarque-de-productos-pesqueros-provenientes-de-krill-transbordados-en-altamar/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 9E1C96C4E2D193CF0E487F93B46E691EA0009CB7BE733FF15681F0950A02A568

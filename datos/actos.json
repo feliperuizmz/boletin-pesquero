@@ -1,5 +1,75 @@
 [
   {
+    "id": "SINID-cbf02698",
+    "rotulo": "Res. Ex. N° None",
+    "titulo": "RES. EXENTA N°:DNC-00056/2026 ESTABLECE PROCEDIMIENTO PARA LA CERTIFICACIÓN DE DESEMBARQUE, ACREDITACIÓN DE ORIGEN LEGAL Y CERTIFICACIÓN SANITARIA DE PRODUCTOS PESQUEROS PROVENIENTES DE RECURSO KRILL, TRANSBORDADOS EN ALTAMAR Y DEJA SIN EFECTO LA RESOLUCIÓN EXENTA N° 528 DE 2026, POR MOTIVO QUE INDICA",
+    "tituloOficial": "RES. EXENTA N°:DNC-00056/2026 ESTABLECE PROCEDIMIENTO PARA LA CERTIFICACIÓN DE DESEMBARQUE, ACREDITACIÓN DE ORIGEN LEGAL Y CERTIFICACIÓN SANITARIA DE PRODUCTOS PESQUEROS PROVENIENTES DE RECURSO KRILL, TRANSBORDADOS EN ALTAMAR Y DEJA SIN EFECTO LA RESOLUCIÓN EXENTA N° 528 DE 2026, POR MOTIVO QUE INDICA",
+    "titularAuto": false,
+    "tema": "Fiscalización y cumplimiento",
+    "organo": "Subsecretaría de Pesca y Acuicultura",
+    "relevancia": "destacado",
+    "resumen": null,
+    "resumenAuto": true,
+    "primigenia": {
+      "id": "RES-2026-528",
+      "rotulo": "Res. Ex. N° 528/2026",
+      "cita": "RESOLUCIÓN EXENTA N° 528 DE 2026",
+      "origen": "titulo",
+      "titulo": "Establece procedimiento piloto de certificación del desembarque y acreditacion de origen legal remota en altamar y deja sin efecto resolución exenta n 460 de 2",
+      "enlace": "https://www.sernapesca.cl/normativas/res-ex-n-528-17-02-2026-establece-procedimiento-piloto-de-certificacion-del-desembarque-y-acreditacion-de-origen-legal-remota-en-altamar-y-deja-sin-efecto-resolucion-exenta-n-460-de-2/",
+      "fuente": "sernapesca.cl"
+    },
+    "situacion": null,
+    "dictacion": null,
+    "subpesca": "16-11-2026",
+    "sernapesca": null,
+    "urlSubpesca": "https://www.subpesca.cl/portal/615/articles-131526_documento.pdf?ts=1794839672",
+    "urlSernapesca": null,
+    "do": null,
+    "estado": {
+      "clave": "sin",
+      "color": "#5B6B78",
+      "rotulo": "Pendiente de entrada en vigencia",
+      "valor": "Sin publicación íntegra",
+      "nota": "Aún no consta la publicación del texto íntegro en ninguno de los dos sitios."
+    },
+    "ediciones": [],
+    "ultimaObservacion": "2026-11-16 17:30:43",
+    "primeraObservacion": "2026-11-16 17:30:43",
+    "observaciones": 1
+  },
+  {
+    "id": "RES-2026-56",
+    "rotulo": "Res. Ex. N° DN-56/2026",
+    "titulo": "Establece procedimiento para la certificacion del desembarque de productos pesqueros provenientes de krill transbordados en altamar",
+    "tituloOficial": "Establece procedimiento para la certificacion del desembarque de productos pesqueros provenientes de krill transbordados en altamar",
+    "titularAuto": false,
+    "tema": "Fiscalización y cumplimiento",
+    "organo": "Servicio Nacional de Pesca y Acuicultura",
+    "relevancia": "destacado",
+    "resumen": null,
+    "resumenAuto": true,
+    "primigenia": null,
+    "situacion": null,
+    "dictacion": "13-11-2026",
+    "subpesca": null,
+    "sernapesca": "16-11-2026",
+    "urlSubpesca": null,
+    "urlSernapesca": "https://www.sernapesca.cl/normativas/res-ex-n-56-13-11-2026-establece-procedimiento-para-la-certificacion-del-desembarque-de-productos-pesqueros-provenientes-de-krill-transbordados-en-altamar/",
+    "do": null,
+    "estado": {
+      "clave": "pendiente",
+      "color": "#B0186E",
+      "rotulo": "Pendiente de entrada en vigencia",
+      "valor": "No consta en Subpesca",
+      "nota": "Publicado en el sitio de Sernapesca el 16-11-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+    },
+    "ediciones": [],
+    "ultimaObservacion": "2026-11-16 17:29:57",
+    "primeraObservacion": "2026-11-16 17:29:57",
+    "observaciones": 1
+  },
+  {
     "id": "RES-2026-2675",
     "rotulo": "Res. Ex. N° 2675-2026",
     "titulo": "Fija criterios RAE 2027-2036 para anchoveta y jurel entre organizaciones artesanales de Coquimbo",
@@ -23,7 +93,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 12-11-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 12-11-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-3"
@@ -56,7 +126,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 12-11-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 12-11-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-3"
@@ -89,7 +159,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 05-11-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 05-11-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-3"
@@ -403,7 +473,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-3"
@@ -436,7 +506,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 30-10-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-3"
@@ -524,7 +594,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 28-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 28-10-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-3"
@@ -557,7 +627,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 13-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 13-10-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -590,7 +660,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 24-09-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 24-09-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -631,7 +701,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 16-04-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 16-04-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-23 17:01:41",
@@ -669,7 +739,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 14-04-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 14-04-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-23 17:01:20",
@@ -700,7 +770,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 20-08-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 20-08-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-23 17:01:11",
@@ -743,7 +813,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 22-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 22-10-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -792,7 +862,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 22-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 22-10-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -840,7 +910,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 16-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 16-10-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -885,7 +955,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 13-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 13-10-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -925,7 +995,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 08-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 08-10-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-08 17:01:53",
@@ -963,7 +1033,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 08-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 08-10-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-10-08 17:00:30",
@@ -1142,7 +1212,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 05-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 05-10-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -1190,7 +1260,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 05-10-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 05-10-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -1315,7 +1385,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Subpesca",
-      "nota": "Publicado en el sitio de Sernapesca el 02-10-2026. Al 16-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Sernapesca el 02-10-2026. Al 18-11-2026 no consta su publicación en el de Subpesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -1403,7 +1473,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 28-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 28-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -1627,7 +1697,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:51",
@@ -1665,7 +1735,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:48",
@@ -1741,7 +1811,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:41",
@@ -1779,7 +1849,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:38",
@@ -1819,7 +1889,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-1"
@@ -1859,7 +1929,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-15 08:39:32",
@@ -1897,7 +1967,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-1"
@@ -1937,7 +2007,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-1"
@@ -1985,7 +2055,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 14-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-2"
@@ -2108,7 +2178,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:28:19",
@@ -2146,7 +2216,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:28:09",
@@ -2184,7 +2254,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:59",
@@ -2222,7 +2292,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:56",
@@ -2260,7 +2330,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:53",
@@ -2303,7 +2373,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [
       "I-1"
@@ -2343,7 +2413,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:47",
@@ -2381,7 +2451,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:43",
@@ -2419,7 +2489,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:39",
@@ -2457,7 +2527,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:34",
@@ -2495,7 +2565,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:24",
@@ -2533,7 +2603,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 11-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:15",
@@ -2571,7 +2641,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:27:07",
@@ -2609,7 +2679,7 @@
       "color": "#B0186E",
       "rotulo": "Pendiente de entrada en vigencia",
       "valor": "No consta en Sernapesca",
-      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 16-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
+      "nota": "Publicado en el sitio de Subpesca el 10-09-2026. Al 18-11-2026 no consta su publicación en el de Sernapesca; regirá desde que se publique en él."
     },
     "ediciones": [],
     "ultimaObservacion": "2026-09-11 14:26:56",

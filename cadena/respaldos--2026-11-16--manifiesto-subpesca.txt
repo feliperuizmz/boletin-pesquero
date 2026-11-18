@@ -1,0 +1,26 @@
+﻿MANIFIESTO DE OBSERVACION - Subpesca (textos integros)
+Fecha de corrida (Chile): 2026-11-16 17:30:42
+Fuente: https://www.subpesca.cl/portal/normativa/Decretos-y-Resoluciones-a-Texto-integro/
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: 9E1C96C4E2D193CF0E487F93B46E691EA0009CB7BE733FF15681F0950A02A568
+Actos observados por primera vez: 2
+
+----------------------------------------
+Tipo/Numero        : Res. Ex. 
+Publicado en web   : 16-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-16 17:30:43
+Materia            : RES. EXENTA N°:DNC-00056/2026 ESTABLECE PROCEDIMIENTO PARA LA CERTIFICACIÓN DE DESEMBARQUE, ACREDITACIÓN DE ORIGEN LEGAL Y CERTIFICACIÓN SANITARIA DE PRODUCTOS PESQUEROS PROVENIENTES DE RECURSO KRILL, TRANSBORDADOS EN ALTAMAR Y DEJA SIN EFECTO LA RESOLUCIÓN EXENTA N° 528 DE 2026, POR MOTIVO QUE INDICA. (Publicado en Página Web 16-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131526_documento.pdf?ts=1794839672
+SHA-256 PDF        : A8BAF74C2BDF0C73CA4A679CBD4511E9ECD42C56BC67DEFCC32F9C600FAA58C5
+Archivo web        : https://web.archive.org/web/20261116203044/https://www.subpesca.cl/portal/615/articles-131526_documento.pdf?ts=1794839672
+----------------------------------------
+Tipo/Numero        : Res. Ex. 2699-2026
+Publicado en web   : 16-11-2026   (declarado por Subpesca)
+Observado (Chile)  : 2026-11-16 17:30:52
+Materia            : Res. Ex. N° 2699-2026 Autoriza a Alimentos Marinos Alimar S.A.- Alimar para Capturar Cuota de jurel Transferida de Acuerdo a la Regulación de la OROP-PS. (Publicado en Página Web 16-11-2026)
+URL                : https://www.subpesca.cl/portal/615/articles-131533_documento.pdf?ts=1794855380
+SHA-256 PDF        : 2411223E42288A70EB5A1CF96C48E728E74BC35945C6918E31BE06D37F835DC7
+Archivo web        : https://web.archive.org/web/20261116203054/https://www.subpesca.cl/portal/615/articles-131533_documento.pdf?ts=1794855380
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 52C17C3B454BF749F584358B9372D828A7E2B28B661682D6963DD4286E1BE0CD

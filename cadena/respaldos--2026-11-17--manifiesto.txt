@@ -1,0 +1,20 @@
+﻿MANIFIESTO DE OBSERVACION - Boletin juridico pesquero
+Fecha de corrida (Chile): 2026-11-17 17:00:02
+Fuente: sitemaps publicos de sernapesca.cl
+Fundamento: articulo 174 de la Ley General de Pesca y Acuicultura
+Hash del manifiesto anterior: CEAAED5138C23404084BA400CECB90950887A3D4E50E672BB50BDFD0D7AE1FEC
+Actos observados por primera vez: 1
+
+----------------------------------------
+Tipo/Numero      : Res. Ex. electronica E-2026-617
+Fecha del acto   : 
+Materia          : res ex ne 2026 617 autoriza a centro de investigacion en recursos naturales spa para realizar pesca de investigacion que indica
+URL              : https://www.sernapesca.cl/normativas/res-ex-ne-2026-617-autoriza-a-centro-de-investigacion-en-recursos-naturales-spa-para-realizar-pesca-de-investigacion-que-indica/
+lastmod del sitio: 2026-11-17T14:29:36+00:00
+Observado (Chile): 2026-11-17 17:00:31
+SHA-256 HTML     : 8D7A0C98F041E9CDC564557284C5AAC8CADB075A9D2B0BF740A9B74F424EF768
+SHA-256 PDF      : 809A35471D9495286A91DA2D430A5864564C8243C262C3107A481E1911DA350E
+Archivo web      : https://web.archive.org/web/20261117200058/https://www.sernapesca.cl/normativas/res-ex-ne-2026-617-autoriza-a-centro-de-investigacion-en-recursos-naturales-spa-para-realizar-pesca-de-investigacion-que-indica/
+
+----------------------------------------
+SHA-256 de este manifiesto (sin esta linea): 0D75AB4C857C5CA6C3E4DE68F1374007B4174D82E02661858754BC5E9F405B75
